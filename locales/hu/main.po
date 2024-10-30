@@ -1,0 +1,664 @@
+# Hungarian translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Mazar Ildiko <mazar@eden-online.org>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-08-13 13:02+0100\n"
+"Last-Translator: Mazar Ildiko <mazar@eden-online.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+#, fuzzy
+msgid "(Blank in master CV)"
+msgstr "Nincs adat a törzs önéletrajzban"
+
+#, fuzzy
+msgid "(No country specified)"
+msgstr "Nincs kiválasztott ország"
+
+#, fuzzy
+msgid "(No language specified)"
+msgstr "Nincs kiválasztott nyelv"
+
+#, fuzzy
+msgid "(Not supported in your browser)"
+msgstr "A böngészője nem támogatja"
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+#, fuzzy
+msgid "(optional)"
+msgstr "szabadon választható"
+
+msgid "Access code:"
+msgstr "Hozzáférési kód:"
+
+msgid "Add a competency"
+msgstr "Készség, kompetencia hozzáadása"
+
+msgid "Add a degree"
+msgstr "Végzettség, képesítés hozzáadása"
+
+msgid "Add a fax number"
+msgstr "Fax szám hozzáadása"
+
+msgid "Add a line"
+msgstr "Új sor hozzáadása"
+
+msgid "Add a mother tongue"
+msgstr "Anyanyelv hozzáadása"
+
+msgid "Add a nationality"
+msgstr "Állampolgárság hozzáadása"
+
+msgid "Add a new view"
+msgstr "Új nézet létrehozása"
+
+msgid "Add a telephone number"
+msgstr "Telefonszám hozzáadása"
+
+msgid "Add a work experience"
+msgstr "Szakmai tapasztalat hozzáadása"
+
+msgid "Add an address"
+msgstr "Cím hozzáadása"
+
+msgid "Add an annexe"
+msgstr "Függelék hozzáadása"
+
+msgid "Add an email address"
+msgstr "E-mail cím hozzáadása"
+
+msgid "Add an information"
+msgstr "Információ hozzáadása"
+
+msgid "Add another language"
+msgstr "Újabb nyelv hozzáadása"
+
+msgid "Additional Information"
+msgstr "További információ"
+
+msgid "Address(es)"
+msgstr "Cím(ek)"
+
+msgid "Annexes"
+msgstr "Függelékek"
+
+msgid "Artistic skills and competences"
+msgstr "Művészi készségek és kompetenciák"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr "Az űrlap kitöltéséhez szükséges útbaigazítás megtekintéséhez kattintson ide!"
+
+msgid "Computer skills and competences"
+msgstr "Számítógép-felhasználói készségek és kompetenciák"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Születési dátum"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Betölteni kívánt munkakör / foglalkozási terület"
+
+msgid "Display the photo"
+msgstr "Fotó megjelenítése"
+
+msgid "Driving licence(s)"
+msgstr "Járművezetői engedély(ek)"
+
+msgid "E-mail(s)"
+msgstr "E-mail(ek)"
+
+msgid "Education"
+msgstr "Tanulmányok"
+
+msgid "Education and training"
+msgstr "Tanulmányok"
+
+msgid "Enable new export"
+msgstr "Új export lehetővé tétele"
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr "Europass Önéletrajz"
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "N"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Fax"
+
+msgid "First name(s)"
+msgstr "Utónév (nevek)"
+
+msgid "Gender"
+msgstr "Neme"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr "Itt tölthet fel magáról képet, amely a végső önéletrajz jobb felső sarkában jeleníthető meg."
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>Megjegyzés:</b> <br />Amennyiben egynél több neve van, elsőként azt tüntesse fel, amelyiket a leggyakrabban használja."
+
+msgid "Languages"
+msgstr "Nyelvek"
+
+msgid "Level in national or international classification"
+msgstr "Országos / nemzetközi besorolás"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Országos / nemzetközi besorolás"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Hallgatás"
+
+msgid "M"
+msgstr "F"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Főbb tevékenységek és feladatkörök"
+
+msgid "Master data for"
+msgstr "Törzsadatok"
+
+#, fuzzy
+msgid "More information at"
+msgstr "Személyes információk"
+
+msgid "Mother tongue(s)"
+msgstr "Anyanyelv"
+
+msgid "Name and address of employer"
+msgstr "A munkáltató neve és címe"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Oktatást / képzést nyújtó intézmény neve és típusa"
+
+msgid "Name of this view:"
+msgstr "Nézet neve:"
+
+msgid "Nationality(-ies)"
+msgstr "Állampolgárság(ok)"
+
+msgid "New view name:"
+msgstr "Új nézet név:"
+
+#, fuzzy
+msgid "Not specified"
+msgstr "Nincs kiválasztott ország"
+
+msgid "OK"
+msgstr "OK"
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Foglalkozás / beosztás"
+
+msgid "Occupation or position held"
+msgstr "Foglalkozás / beosztás"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr "Az önéletrajzából létrehozható egy speciális munkáltató vagy állás típus számára összeállított nézet."
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr "Az OpenDocument Text típusú fájlok bármilyen modern szabványos irodai alkalmazással megnyithatók."
+
+#, fuzzy
+msgid "Organisation address"
+msgstr "E-mail cím hozzáadása"
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Szervezési készségek és kompetenciák"
+
+msgid "Other competences"
+msgstr "Egyéb kézségek, kompetenciák"
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Anyanyelv"
+
+msgid "Other skills and competences"
+msgstr "Egyéb készségek és kompetenciák"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr "Személyes"
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Személyes információk"
+
+msgid "Personal skills and competences"
+msgstr "Egyéni készségek és kompetenciák"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Egyéni készségek és kompetenciák"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Egyéni készségek és kompetenciák"
+
+msgid "Photo"
+msgstr "Fotó"
+
+msgid "Please select"
+msgstr "Kérem, válasszon!"
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Főbb tárgyak / gyakorlati képzés"
+
+msgid "Public URL:"
+msgstr "Nyilvános URL"
+
+#, fuzzy
+msgid "Reading"
+msgstr "Szövegértés"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Társas készségégek és kompetenciák"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Társalgás"
+
+msgid "Spoken production"
+msgstr "Folyamatos beszéd"
+
+msgid "Square image jpeg File:"
+msgstr "Négyzet alakú jpeg fájl kép:"
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Azokat a telefonszámokat tüntesse fel, amelyeken értesíthetik Önt; <br/> ha szükséges, adja meg azokat a napokat és időpontokat, amikor elérhető (annak érdekében, hogy mielőbb kapcsolatba léphessenek Önnel), <blockquote> Vezetékes: (36-1) 12 34 56 Mobil: (36-20) 234 56 78 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Írja le a fő feladatait, tevékenységi köreit, pl.: <blockquote> számítógépek karbantartása </blockquote> <b>vagy</b> <blockquote> kapcsolattartás az ellátókkal </blockquote> <b>vagy</b> <blockquote> parkok és kertek karbantartása </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Vezetéknév (nevek)"
+
+msgid "Technical skills and competences"
+msgstr "Műszaki készségek és kompetenciák"
+
+msgid "Telephone(s)"
+msgstr "Telefonszám(ok)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Telefonszám(ok)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr "Ez a létrehozó folyamat az Európai Unió hivatalos web szolgáltatásait használja az XML adatok PDF-fé alakításához."
+
+msgid "Title of qualification awarded"
+msgstr "Végzettség / képesítés"
+
+msgid "Type of business or sector"
+msgstr "A tevékenység fajtája, vagy gazdasági szektora"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Szövegértés"
+
+msgid "Upload a photo"
+msgstr "Töltsön fel képet"
+
+msgid "Work"
+msgstr "Szakmai tapasztalat"
+
+msgid "Work experience"
+msgstr "Szakmai tapasztalat"
+
+msgid "Writing"
+msgstr "Írás"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr "XHTML dokumentum fájlok bármilyen modern szabványnak megfelelő böngészővel megtekinthetők."
+
+msgid "You can download Firefox from"
+msgstr "Letöltheti a Firefox űrlapot"
+
+msgid "You can download OpenOffice.org from"
+msgstr "Letöltheti az OpenOffice.org űrlapot"
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr "Létrehozhat többféle formátumú dokumentumot egyszerű XML alapokból az Európai Unió hivatalos online eszközeinek segítségével"
+
+msgid "export of view"
+msgstr "nézet exportálása"
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>Megjegyzés:</b> <ul> <li> A fénykép nem szükségszerű az önéletrajzhoz, hacsak a munkáltató ezt külön nem kéri. </li> <li> Formátum: lehetőleg jpg. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>Megjegyzés:</b> <ul> <li> Ne adja meg a kapcsolattartó személy címét anélkül, hogy megkapta volna formális beleegyezését; inkább írja be: „Referenciát érdeklődés esetén adunk”, annak érdekében, hogy az önéletrajz ne legyen túl terjedelmes; </li> <li> Ha szükséges, adjon rövid leírást publikációiról vagy kutatásairól; részletezze annak típusát (disszertáció, újságcikk, jelentés stb.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>Megjegyzés:</b> <ul> <li> Ha első munkahelyére jelentkezik, itt azokat a vállalatokat sorolja fel, amelyeknél a gyakorlati képzését töltötte, mivel ezek bizonyítják, hogy már volt kapcsolata a munka világával </li> <li> Amennyiben még alig rendelkezik szakmai tapasztalattal (például azért, mert éppen most fejezte be az iskolát vagy az egyetemet), először a végzettségét mutassa be (a két címszó sorrendjének megfordításához használja a szövegszerkesztő „másolás” és „beillesztés” parancsát), és emelje ki azokat a munkahelyeket, ahol a gyakorlati képzést töltötte (ld. az online példákat); </li> <li> A tömörség érdekében koncentráljon azokra a munkahelyi tapasztalatokra, amelyek nyomatékot adnak jelentkezésének. Ne hagyja ki azokat a tapasztalatokat sem, amelyek értékesek lehetnek, noha nincsenek közvetlen kapcsolatban a megcélzott állás profiljával (pl. külföldön eltöltött idő, vagy olyan munka, amelynek során a nyilvánossággal került kapcsolatba stb.); </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>Megjegyzés:</b> <ul> <li> Ha önéletrajzát egy másik országba szeretné küldeni, zárójelben tüntesse fel az ország (nemzetközi) hívószámát, és amennyiben van ilyen, a körzetszámot is. Ezt a két számot kötőjellel kell tagolni. </li> <li> Magát a telefonszámot kettesével csoportosítva írja le. Amennyiben a számjegyek száma páratlan, az első számcsoport legyen háromtagú (a számcsoportokat nem ponttal, hanem szóközzel kell elválasztani. pl.: (36-1) 349 45 10 </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>Megjegyzés:</b> <ul> <li> A mellékleteket logikus sorrendben tüntesse fel (pl. együtt szerepeltesse a diplomákat, vagy a munkaviszonyról szóló igazolásokat, és szükség esetén számozza be őket), ezzel is segítve az olvasót; </li> <li> Soha ne mellékeljen eredeti diplomaokmányokat vagy bizonyítványokat, mivel ezek elveszhetnek; elegendő a fénymásolat is. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>Megjegyzés:</b> <ul> <li> Világosan tüntesse fel, milyen címen érhető el a leghamarabb. Amennyiben állandó lakhelye más, mint ahol jelenleg tartózkodik, megadhatja mind a két címet, és tüntesse fel, mikor melyik címen érhető el; </li> <li> A címekben az utca és a házszám, valamint az irányítószám sorrendje országonként eltérő lehet, ezért kövesse a hazájában alkalmazott sorrendet annak érdekében, hogy az értesítést mielőbb megkapja; ha külföldről jelentkezik, ne feledkezzen meg az országkódról (ld.: minta önéletrajz) </li> <li> Írország, Egyesült Királyság és Hollandia esetében az országnevét teljesen ki kell írni. </li> </ul> <blockquote> Dublin 2 <br/> Írország </blockquote> <blockquote> London SW1P 3AT <br/> Egyesült Királyság </blockquote> <blockquote> 2500 EA Den Haag <br/> Hollandia </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>Megjegyzés:</b> <br />Vonjon össze címszavakat, és hívja fel a figyelmet azokra a szakmai készségeire, amelyek az állás elnyerése esetén hasznosak lennének."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>Megjegyzés:</b> <br />Ha szükséges, fejezze ki számokban a munkáját (eltöltött munkaidő százalékban kifejezve, az egyes munkakörben eltöltött idők hossza)"
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>Megjegyzés:</b> <br />Ha fontos, adjon meg több információt (telefonszám, fax, e-mail vagy internet cím), pl.: <ul> <li> Tel.: (36-1) 654 32 98 - Fax: (36-1) 654 3297 </li> <li> E-mail: ferenc.maros@posta.hu </li> <li> Honlap: www.posta.hu </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>Megjegyzés:</b> <br />Ez a rovat egy gyors képet ad az Ön profiljáról, fő szakterületére koncentrálva."
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>Megjegyzés:</b> <br />Kerülje a rövidítések önálló használatát (pl.: FMM)"
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>Megjegyzés:</b> <br /><br />Ha további információkat szeretne megtudni az UNESCO által kidolgozott ISCED-ről, (iskolai végzettségek nemzetközi szabvány besorolása) látogassa meg a következő honlapot: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>Megjegyzés:</b> <br />Amennyiben egynél több neve van, elsőként azt tüntesse fel, amelyiket a leggyakrabban használja."
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<b>Megjegyzés:</b><br />ha több nyelvet sajátított el gyermekkorában, és egyforma szinten beszéli azokat, akkor e nyelveket is ebben a rovatban kell feltüntetni."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Beszéd</b> <blockquote>Társalgás </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Képes vagyok egyszerű kapcsolatteremtésre, ha a másik személy kész mondanivalóját kissé lassabban vagy más kifejezésekkel megismételni illetve segíti a mondanivalóm megformálását. Fel tudok tenni és meg tudok válaszolni olyan kérdéseket, amelyek a mindennapi szükségletek konkrét kifejezésére szolgálnak. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Az egyszerű, rutinszerű helyzetekben egyszerű és közvetlen módon cserélek információt mindennapi tevékenységekről vagy témákról. A nagyon rövid információcserére még akkor is képes vagyok, ha egyébként nem értek meg eleget ahhoz, hogy a társalgásban folyamatosan részt vegyek. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Elboldogulok a legtöbb olyan nyelvi helyzetben, amely utazás során adódik. Felkészülés nélkül részt tudok venni az ismert, az érdeklődési körömnek megfelelő, vagy a mindennapi témákról (pl. család, szabadidő, tanulás, munka, utazás, aktuális események) folyó társalgásban. </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Az anyanyelvi beszélővel természetes, könnyed és közvetlen kapcsolatteremtésre vagyok képes. Aktívan részt tudok venni az ismert témákról folyó társalgásban, úgy, hogy közben érvelve kifejtem a véleményemet. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Folyamatosan és gördülékenyen fejezem ki magam, ritkán keresek szavakat és kifejezéseket. A nyelvet könnyeden és hatékonyan használom a különböző társadalmi és szakmai kapcsolatokban. Gondolataimat, véleményemet pontosan ki tudom fejteni; hozzászólásaimat a beszélőtársakéhoz tudom kapcsolni. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Könnyedén részt tudok venni bármilyen társalgásban, vitában; nagy biztonsággal alkalmazom a sajátos kifejezéseket és a különböző nyelvi fordulatokat. Gördülékenyen, szabatosan, az árnyalatok finom kifejezésére is ügyelve beszélek. Ha elakadok, úgy kezdem újra és fogalmazom át a mondandómat, hogy az szinte fel sem tűnik. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Beszéd</b> <blockquote>Folyamatos beszéd </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Egyszerű kifejezésekkel és mondatokkal be tudom mutatni a lakóhelyemet és az ismerőseimet. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Egyszerű eszközökkel és mondatokkal tudok beszélni a családomról és más személyekről, életkörülményeimről, tanulmányaimról, jelenlegi vagy előző szakmai tevékenységemről. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Egyszerű kifejezésekkel tudok beszélni élményekről, eseményekről, álmaimról, reményeimről és céljaimról. Röviden is meg tudom magyarázni, indokolni véleményemet és terveimet. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Világosan és kellő részletességgel fejezem ki magam számos, érdeklődési körömbe tartozó témában. Ki tudom fejteni a véleményemet valamely aktuális témáról úgy, hogy részletezem a különböző lehetőségek előnyeit és hátrányait. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Világosan és részletesen tudok leírni bonyolult dolgokat úgy, hogy más kapcsolódó témaköröket is bevonok, egyes elemeket részletezek, és mondanivalómat megfelelően fejezem be. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Világosan és folyamatosan, stílusomat a helyzethez igazítva írok le vagy fejtek ki bármit, előadásomat logikusan szerkesztem meg; segítem a hallgatót abban, hogy a lényeges pontokat kiragadja és megjegyezze. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Szövegértés</b> <blockquote>Hallás utáni értés </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Megértem a személyemre, a családomra, a közvetlen környezetemre vonatkozó, gyakran használt, egyszerű szavakat és szókapcsolatokat, ha lassan és tagoltan beszélnek hozzám. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Megértem a személyemhez közvetlenül kapcsolódó, gyakran használt szavakat és kifejezéseket (pl. személyes adataim, családom, vásárlások, szűk környezet, tanulás, munka). Megértem az egyszerű és világos hirdetések és üzenetek lényegét. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Megértem a világos, mindennapi beszéd lényegét, ha olyan témákról esik szó, mint a munka, a tanulás, a szabadidő, stb. Ki tudom szűrni a lényeget azokból a rádió- és tévéadásokból, amelyek aktuális eseményekről, szakmai vagy érdeklődési körömnek megfelelő témákról szólnak, ha eléggé lassan és tagoltan beszélnek. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Megértem a hosszabb beszédeket és előadásokat, illetve még a bonyolultabb érveléseket is követni tudom, amennyiben a téma számomra elég ismert. Többnyire megértem a híreket és az aktuális eseményekről szóló műsorokat a tévében. Általában értem a filmeket, ha a szereplők köznyelven beszélnek. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Még a nem világosan szerkesztett és rejtett jelentéstartalmú, hosszú szöveget is megértem. Szinte erőfeszítés nélkül értem meg a tévéműsorokat és a filmeket. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Minden nehézség nélkül megértem az élőben hallott, médián keresztül sugárzott, vagy gyors tempójú beszédet, ha van időm megszokni az akcentust. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Szövegértés</b> <blockquote>Olvasás </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: Megértem a nagyon egyszerű mondatokat, például hirdetésekben, plakátokon vagy katalógusokban az ismert nevek vagy szavak segítségével. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: El tudok olvasni rövid, nagyon egyszerű szövegeket. Megtalálom a várható, konkrét információt a mindennapi, egyszerű szövegekben (pl. rövid hirdetés, prospektus, menü, menetrend), és megértem a rövid, egyszerű magánleveleket. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: Megértem a főként köznyelven, vagy a munkámhoz közvetlenül kapcsolódó szaknyelven megírt szövegeket. Magánlevélben megértem az események, érzelmek vagy kívánságok leírását. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: El tudom olvasni azokat a cikkeket és beszámolókat, amelyek jelenkori problémákkal foglalkoznak, és szerzőjük véleményét, nézetét fejtik ki. Megértem a kortárs irodalmi prózát. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: Megértem a hosszú, összetett, tényszerű és irodalmi szövegeket; érzékelem bennük a különböző stílusjegyeket. A szakmai cikkeket és a hosszú műszaki leírásokat akkor is megértem, ha nem kapcsolódnak szakterületemhez. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: Könnyedén elolvasok bármilyen tartalmú vagy formájú elvont, bonyolult szöveget, például kézikönyvet, szakcikket, irodalmi művet. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Miről van itt szó?</b> <br />A számítógép-felhasználói készségek és kompetenciák szövegszerkesztésre és egyéb alkalmazásokra, adatbázis-kezelésre, az Internet ismeretére, magas szintű készségekre programozás stb.) vonatkozik. <br /><b>Megjegyzés:</b> <ul> <li> A számítógép-felhasználói készségek és kompetenciák felmérésére és elismerésére lehetőség van az európai számítógép-felhasználói jogosítvány (ECDL) megszerzésével. Ez egy nemzetközileg elismert kompetenciaszabvány, amely tanúsítja, hogy birtokosa rendelkezik mindazokkal a készségekkel és tudással, amelyekre a legáltalánosabb felhasználói programok eredményes és hatékony alkalmazásához szükség van; </li> <li> További információért az ECDL-ről látogassa meg a http://www.ecdl.com/main/index.php honlapot. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Miről van itt szó?</b> <br />A szervezési készségek és kompetenciák emberek, projektek és költségvetések koordinációjára és adminisztrációjára vonatkoznak, legyen az a munkahelyen, önkéntes munka keretében (például kultúra és sport) vagy az otthoni környezetben stb."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Miről van itt szó?</b> <br />A társas készségek és kompetenciák a többi emberrel való együttéléssel és közös munkával kapcsolatosak, és olyan helyzetekben nyilvánulnak meg, ahol a kommunikáció fontos szerepet játszik, ahol a csapatmunka elengedhetetlen (például a kultúrában és a sportban), valamint multikulturális környezetben stb."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Miről van itt szó?</b> <br />A műszaki készségek és kompetenciák speciális berendezések, gépek stb. (kivéve a számítógépet) ismeretére utalnak, illetve valamilyen szakterületen szerzett technikai tudásra és kompetenciákra (gyáripar, egészségügy, bankszektor stb.)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Írás</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Tudok képeslapra rövid és egyszerű (például nyaralási) üdvözletet írni. Ki tudom tölteni egyszerű nyomtatványon a személyi adataimra vonatkozó részeket, például a szállodai bejelentőlapon a nevemet, az állampolgárságomat és a címemet. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Tudok rövid, egyszerű jegyzetet, üzenetet, vagy magánjellegű, például köszönőlevelet írni. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Egyszerű, folyamatos szövegeket tudok alkotni olyan témákban, amelyeket ismerek, vagy érdeklődési körömbe tartoznak. Élményeimről és benyomásaimról magánleveleket tudok írni. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Világos és részletes szövegeket tudok alkotni az érdeklődési körömbe tartozó számos témáról. Tudok olyan dolgozatot vagy beszámolót írni, amely tájékoztat, érveket és ellenérveket sorakoztat fel valamiről. Levélben rá tudok világítani arra, hogy milyen jelentőséget tulajdonítok az eseményeknek, élményeknek. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Képes vagyok arra, hogy álláspontomat világos, jól szerkesztett szövegben fogalmazzam meg. Levélben, dolgozatban, beszámolóban úgy tudok összetett témákról írni, hogy a fontosnak tartott dolgokat kiemelem. Stílusomat az olvasóhoz tudom igazítani. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Tudok világos, gördülékeny, a körülményekhez stílusában illeszkedő szöveget írni. Meg tudok fogalmazni olyan bonyolult levelet, beszámolót és cikket, amelynek jó tagolása segíti az olvasót abban, hogy a lényeges pontokat kiragadja és megjegyezze. Össze tudok foglalni szakmai és irodalmi műveket, tudok róluk kritikai elemzést írni. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Az alábbi mezőkben mutassa be tanulmányait. Kezdje a legfrissebbtől. Minden újabb iskolát mentsen el a \"Mentés\" gombra kattintva. </p> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Írja le nyelvtudását a következők szerint: </p> <ol> <li><b>Anyanyelv(ek):</b> írja be az anyanyelvét / anyanyelveit </li> <li><b>Egyéb nyelv(ek):</b> Minden egyes újabb nyelvnél, amelyről írni kíván, nevezze meg a nyelvet, töltse ki a szint mezőket és kattintson a \"Mentés\" gombra. <br /><br />Az egyes nyelvek szerkesztéséhez, kattintson a \"Nyelvek listája\" menüpont megfelelő linkjére. </li> </ol> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Az alábbi mezőkben mutassa be egyéb készségeit és kompetenciáit. </p> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Az alábbi mezőkben mutassa be szakmai tapasztalatait. Kezdje a legfrissebbtől. Minden újabb munkahelyet mentsen el a \"Mentés\" gombra kattintva. </p> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Írjon be más, témához tartozó információt és/vagy soroljon fel minden az önéletrajz mellékleteként szereplő dokumentumot. </p> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Írja be a betölteni kívánt munkakört vagy foglalkozási területet. </p> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Az alábbiakban adja meg személyes adatait. </p> <p><b>Emlékeztető:</b> Az üresen hagyott rovatok automatikusan törlődnek. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???hu_HU./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "További információk"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "További információk, mellékletek"
+
+#~ msgid "Basic User"
+#~ msgstr "alapszintű nyelvhasználó"
+
+#~ msgid "Create:"
+#~ msgstr "Létrehozás:"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Írja le számítógép-felhasználói készségeit és kompetenciáit, pl.: <blockquote>- a Microsoft Office™ eszközök (Word™, Excel™ és PowerPoint™) megfelelő ismerete; </blockquote><blockquote>- grafikai tervezési alkalmazások (Adobe Illustrator™, PhotoShop™) alapszintű ismerete. </blockquote><blockquote />Írja le azt is, hogy milyen környezetben szerezte meg ezt a készséget (képzés, munka, szemináriumok, önkéntes vagy szabadidős tevékenységek során stb.)."
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Írja le szervezési készségeit és kompetenciáit, pl.: <blockquote>- vezető állás (jelenleg egy 10 emberből álló csapatért felel); </blockquote><blockquote>- szervezőkészség (logisztikai szakmai tapasztalat); </blockquote><blockquote>- kellő projekt- vagy csapatirányítási tapasztalat. </blockquote>Írja le azt is, hogy milyen környezetben szerezte meg ezt a készséget (képzés, munka, szemináriumok, önkéntes vagy szabadidős tevékenységek során stb.)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Jellemezze saját társas készségeit és kompetenciáit, pl.: <blockquote>-          csapatszellem; </blockquote><blockquote>-          külfüldi munkám során elsajátított jó alkalmazkodási készség multikulturális környezethez; </blockquote><blockquote>-          jó kommunikációs készségek, amelyeket értékesítési igazgatói munkám során szereztem. </blockquote>Részletezze, hogy milyen körülmények között szerezte tapasztalatait (képzés, munka, szemináriumok, önkéntes vagy szabadidős tevékenységek során stb.)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Írja le műszaki készségeit és kompetenciáit, pl.: <blockquote>- megfelelő készség minőségellenőrzési folyamatok irányítására (az osztályon az én feladatom volt a minőségellenőrzés és a könyvvizsgálat); </blockquote>Írja le, hogy milyen környezetben szerezte meg ezt a készséget (képzés, munka, szemináriumok, önkéntes vagy szabadidős tevékenységek stb.). <blockquote />"
+
+#~ msgid "Enter a language"
+#~ msgstr "Adjon meg egy nyelvet"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Adja meg anyanyelvét / anyanyelveit"
+
+#~ msgid "From"
+#~ msgstr "Kezdete"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Adja meg a születési idejét, (év/hónap/nap) pl.: <blockquote> 1977.06.23 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Amennyiben a végzettségi szint megfelel egy létező országos vagy nemzetközi besorolási rendszernek, a szóban forgó végzettségen belül nevezze meg a szintet (országos besorolás, ISCED stb.). PL.: <blockquote> Ha szükséges, kérdezze meg azt a testületet, amely a képesítést adta. </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "önálló nyelvhasználó"
+
+#~ msgid "Language(s)"
+#~ msgstr "Nyelv(ek)"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Egyéb nyelv(ek) - Önértékelés"
+
+#~ msgid "Photograph"
+#~ msgstr "Fénykép"
+
+#~ msgid "Proficient user"
+#~ msgstr "mesterfokú nyelvhasználó"
+
+#~ msgid "Select:"
+#~ msgstr "Válasszon!"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Tüntesse fel anyanyelvét / anyanyelveit, pl.:<blockquote>Magyar</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Jelölje meg, milyen munkakörben, illetve foglalkozási területen szeretne elhelyezkedni, pl.: <blockquote> Adatbázis-kezelő és adminisztrátor </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Itt tüntessen fel minden olyan információt, amelyet fontosnak tart (publikációk vagy kutatások; tagság szakmai szervezetekben, katonai adatok [amennyiben fontosnak tartja, hogy megemlítse a katonai szolgálatát], családi állapotát [amennyiben fontosnak tartja, hogy megemlítse], kapcsolattartó személyek vagy referenciaadók [név, pozíció, cím, lásd az alábbi megjegyzést]). <blockquote> <b>Publikáció</b> <br/> Cikk: Új paradigma keresése az ezredfordulón (Oktatáskutató Intézet, Educatio, Bp, 2000/1) </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Itt tüntessen fel minden egyéb olyan készséget és kompetenciát, amelyet értékesnek tart, és amelyeket korábbi címszavaknál még nem említett (hobbik; sport, felelősségteljes beosztás önkéntes szervezetnél), pl.: <blockquote>- gyalogtúrázás </blockquote>Írja le, hogy milyen környezetben szerezte meg ezt a készséget (képzés, munka, önkéntes vagy szabadidős tevékenységek stb.)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Itt tüntesse fel, ha van jogosítványa és, hogy az milyen járműkategóriára érvényes, pl.: <blockquote> - B kategória </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Itt azokat a művészi készségeit és kompetenciáit sorolja fel, amelyeket értékesnek tart (zene; írás; tervezés stb.) pl.: <blockquote>- asztalos mesterség </blockquote>Írja le, hogy milyen környezetben szerezte meg ezt a készséget (képzés, munka, szemináriumok, önkéntes vagy szabadidős tevékenységek során stb.)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Adja meg a képző intézmény típusát és nevét (ha helyénvaló, a címét is), pl.: <blockquote> Trainex Üzleti Iskola <br/> Székesfehérvár 8000 <br/> <br/> </blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Tüntesse fel a munkáltató nevét és címét, pl.: <blockquote> Posta Bt., Nyíregyháza, Fő út 1., 4400 </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Adja meg a munka üzletfajtáját vagy gazdasági szektorát, pl.: <blockquote> szállítás és logisztika </blockquote> <b>vagy</b> <blockquote> ellenőrzés </blockquote> <b>vagy</b> <blockquote> motoralkatrész gyártó </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Adja meg részletesen a levelezési címét (címeit), pl.: <blockquote> Nyíregyháza - 4400, Petőfi u. 23, 5.em. 23, </blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Adja meg utónevét/utóneveit: <blockquote>Anna Piroska </blockquote>az Ön hazájában érvényes szabályokkal összhangban."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Tüntesse fel a foglalkozás megnevezését vagy az állás jellegét, pl.: <blockquote> teherautó-szerelő, karbantartó technikus, recepciós </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Tüntesse fel a vezetéknevét (neveit) (lehetőleg NAGYBETŰVEL), pl.: <blockquote>KOVÁCS </blockquote>az Ön hazájában érvényes szabályokkal összhangban."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Foglalja össze a szóban forgó képzés során tanult legfőbb tantárgyakat vagy elsajátított szakmai tudást, és ha a tömörség érdekében szükséges, csoportosítsa őket, pl.: <br/> <b>Általános tantárgyak</b> <blockquote> magyar, matematika, idegen nyelvek (spanyol) </blockquote> <blockquote> testnevelés, sport </blockquote> <b>Szakmai tantárgyak</b> <blockquote> Az adott szakmában használt módszerek (hagyományos kenyér készítése, különleges kenyerek, torták és sütemények készítése) </blockquote> <blockquote> Az élelmiszerekkel és berendezésekkel összefüggő alkalmazott tudományok (mikrobiológia, biokémia, higiénia) </blockquote> <blockquote> Szakmai technológia (alapelvek, higiénia és biztonság) </blockquote> <blockquote> Vállalkozástan, valamint a vállalkozás gazdasági, jogi és társadalmi környezete </blockquote>"
+
+#~ msgid "The CV was created."
+#~ msgstr "Az önéletrajz elkészült."
+
+#~ msgid "The CV was deleted."
+#~ msgstr "Önéletrajz törölve."
+
+#~ msgid "The CV was uploaded."
+#~ msgstr "Önéletrajz feltöltve."
+
+#~ msgid "The photo was uploaded."
+#~ msgstr "Fotó feltöltve."
+
+#~ msgid "The submitted file was refused because it does not look like an HR-XML Candidate document."
+#~ msgstr "A kiválasztott fájlt, mivel nem tűnik HR-XML Candidate dokumentumnak, a rendszer elutasította."
+
+#~ msgid "The submitted file was refused because it does not specify a known language."
+#~ msgstr "A kiválasztott fájlt a rendszer elutasította, mivel a nyelv attribútum üres."
+
+#~ msgid "The submitted file was refused because it does not specify a language. Please append attribute xml:lang to the root element (\"Candidate\")."
+#~ msgstr "A kiválasztott fájlt a rendszer elutasította, mivel nem tűnik HR-XML Candidate dokumentumnak."
+
+#~ msgid "To"
+#~ msgstr "Befejezése"
+
+#~ msgid "Upload:"
+#~ msgstr "Feltöltés:"
+
+#~ msgid "Welcome to your Europass CV editor. Here you will be able to create a Master CV, per official EU language, where you can store all your personal data. For each Master CV created, you can compose as many customised CVs as you need. A customised CV, which is a VIEW of your Master CV, can be exported in several formats such as PDF, ODT, XHTML to be presented on the web and even HR-XML to facilitate data exchanges with online Recruitment and HR services. There are only 3 simple steps to build your CV: create your master CV, compose a view and export it! Isn't it easy? In order to start, just select the language of your Master CV in the CREATE drop down menu. "
+#~ msgstr "Üdvözöljük a Europass önéletrajz szerkesztőben! Itt lehetősége nyílik akár több törzs önéletrajzot is létrehozni az Európai Unió bármely hivatalos nyelvén, melyben eltárolhatja minden személyes adatát. Minden törzs önéletrajz esetén az alapadatokból összeállíthat annyi testreszabott önéletrajzot, amennyire csak szüksége van. A testreszabott önéletrajz, ami a törzsanyag NÉZET-e, több formátumba is exportálható, mint pl. webre feltölthető PDF, ODT, XHTML vagy akár HR-XML, ami lehetővé teszi az adatátvitelt emberi erőforrás (HR) és online toborzó szolgáltatások felé. 3 egyszerű lépéssel létrehozhatja önéletrajzát: hozza létre a törzs önéletrajzot, alakítson ki ebből egy testreszabott válogatást, majd exportálja a kívánt formátumba! Mi sem egyszerűbb ennél? Kezdje azzal, hogy a legördülő LÉTREHOZÁS menüben válassza ki törzs önéletrajzának a nyelvét!"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Írja be a pozícióban eltöltött idő kezdetét és végét, pl.: <blockquote> 1994. máricustól 1999. decemberig </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Írja be a végzettség pontos megnevezését, pl.: <blockquote> Országos Képzési Jegyzék: 2. szint - pék </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Adja meg e-mail címét(címeit), megjelölve, hogy az a személyes vagy a hivatalos e-mail címe, pl.: <blockquote> kovacsa@freemail.hu </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Adja meg a fax számát, ugyanazt a szabályt követve, mint a telefonszám esetében, pl.: <blockquote>(36-1) 349 45 10</blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Adja meg a mobil számát, ugyanazt a szabályt követve, mint a vonalas telefonszám esetében, pl.: <blockquote> 20 654 32 21 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Írja be az állampolgárságát/állampolgárságait, pl.: <blockquote> magyar </blockquote>"

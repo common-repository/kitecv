@@ -1,0 +1,279 @@
+div#KiteCV {
+ font: medium/1em Arial, Helvetica, sans-serif;
+ color: #333;
+ background-color: white;
+}
+div#KiteCV div, div#KiteCV p, div#KiteCV form, div#KiteCV ul, div#KiteCV li {
+ margin: 0;
+ padding: 0;
+}
+div#KiteCV ul {
+ list-style: none;
+}
+div#KiteCV a {
+ color: #339;
+ text-decoration: none;
+ border-bottom: 1px dotted #339;
+}
+div#KiteCV a:hover, div#KiteCV a:focus {
+ color: #900;
+ border-bottom: 1px solid #900;
+}
+div#KiteCV a img {
+ border: 0;
+}
+div#KiteCV button, div#KiteCV input, div#KiteCV select, div#KiteCV textarea {
+ font-size: 1em;
+ font-family: Arial, Helvetica, sans-serif;
+}
+div#KiteCV select {
+ padding: 1px;
+ border: 1px solid #959ea8;
+}
+div#KiteCV label {
+ display: block;
+}
+div#KiteCV .KiteCV_deletableParent {
+ position: relative;
+ clear:both;
+}
+div#KiteCV .KiteCV_deleteButton {
+ visibility:hidden;
+ position: absolute;
+ top: 0;
+ right: 0;
+ width: 11px;
+ height: 13px;
+ cursor: pointer;
+ background: transparent url(index.php?pf=KiteCV/requisites/icons/corbeille.gif) no-repeat 0 0;
+ border: 0;
+}
+div#KiteCV div.KiteCV_deletableParent:hover > button.KiteCV_deleteButton {
+ visibility: visible;
+}
+div#KiteCV br {
+ display: none;
+}
+div#KiteCV div.KiteCV_help br{
+ display:block;
+}
+div#KiteCV div#KiteCV_menu {
+ clear:both;
+ margin-bottom: 10px;
+ padding-bottom: 10px;
+ font-size: 68.75%;
+ border-bottom: 2px solid #ffc000;
+}
+div#KiteCV_editorDiv {
+ clear: both;
+ font-size: 68.75%;
+}
+div#KiteCV_treeDiv {
+ float: left;
+ width: 25%;
+}
+div#KiteCV_formDiv {
+ position: relative;
+ float: left;
+ width: 75%;
+}
+div#KiteCV_CVSelector, #KiteCV_CVCreator, #KiteCV_CVUploader {
+ float: left;
+ width: 25%;
+}
+div#KiteCV_CVSelector form,
+div#KiteCV_CVCreator form {
+ padding-right: 10px;
+}
+div#KiteCV_CVSelector select,
+div#KiteCV_CVCreator select {
+ width: 100%;
+}
+div#KiteCV_CVSelector select,
+div#KiteCV_CVSelector option,
+div#KiteCV_CVCreator option {
+ background-repeat: no-repeat;
+ background-position: 2px 50%;
+}
+div#KiteCV_CVSelector select {
+ padding-left: 22px;
+}
+div#KiteCV_CVSelector option,
+div#KiteCV_CVCreator option {
+ padding-left: 26px;
+}
+div#KiteCV_intro{
+ text-align:center;
+}
+div#KiteCV_intro p{
+ margin:1em;
+}
+div#KiteCV_treeDiv div {
+ margin-right: 10px;
+ padding: 0.5em 0 0.5em 1em;
+ background-color: #fff5d9;
+ border: 1px solid #ffc000;
+}
+div#KiteCV_treeDiv div div {
+ padding: 0;
+ margin-right: 0;
+ border: 0;
+}
+div#KiteCV_treeDiv ul ul{
+ line-height: 2em;
+ padding-left: 2em;
+}
+div#KiteCV_treeDiv button.KiteCV_deleteButton {
+ top: 0.5em;
+ right: 10px;
+}
+div#KiteCV_treeDiv button {
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ text-align: left;
+ color: #339;
+ cursor: pointer;
+ background: transparent;
+ border: 0;
+}
+div#KiteCV_treeDiv button:hover {
+ color: #900;
+}
+div#KiteCV_treeDiv button.KiteCV_growingButton:hover {
+ padding-left:15px;
+ margin-left:-15px;
+ background: url(index.php?pf=KiteCV/requisites/icons/plus.png) no-repeat left center;
+}
+div#KiteCV_treeDiv button.KiteCV_grownButton {
+ padding-left: 12px;
+ font-weight: bold;
+ background: url(index.php?pf=KiteCV/requisites/icons/fleche.gif) no-repeat 2px 50%;
+}
+div#KiteCV .kite-tabs {
+ margin-left: 35%;
+}
+div#KiteCV .kite-tabs li {
+ float: left;
+}
+div#KiteCV .kite-tabs a {
+ display: block;
+ padding: 0.5em 1em;
+ white-space: nowrap;
+ background: #e8e8ec;
+ border: 1px solid white;
+ border-width: 1px 1px 0 0;
+}
+div#KiteCV .kite-tabs-active a {
+ background: #ffc000;
+}
+div#EuropassCV_Header {
+ position: relative;
+ height: 110px;
+ background: white;
+}
+div#EuropassCV_Header a, #EuropassCV_Header a:hover {
+ position: absolute;
+ left: 34%;
+ margin: 50px 0 0 -60px;
+ border: 0;
+}
+div#KiteCV div#EuropassCV{
+ background: url(index.php?pf=KiteCV/requisites/icons/fond-formulaire.png) repeat-y 34% 0;
+}
+div#KiteCV div.EuropassCV_ContentLine,
+div#KiteCV div.EuropassCV_ContentLineNewSection {
+ clear: both;
+ width: 100%;
+}
+div#KiteCV div.EuropassCV_ContentLine {
+ position: relative;
+}
+div#KiteCV div.EuropassCV_SectionTitle {
+ font-size: 1.2em;
+ font-style: italic;
+ color: #999;
+}
+div#KiteCV div.EuropassCV_HeaderColumn {
+ float: left;
+ width: 32%;
+ margin-right: 3%;
+ padding-bottom: 1em;
+ text-align: right;
+ font-weight: bold;
+}
+div#KiteCV div.EuropassCV_HeaderColumn a {
+ font-weight: normal;
+}
+div#KiteCV div.EuropassCV_Content {
+ float: left;
+ width: 65%;
+ padding-bottom: 1em;
+}
+div#KiteCV_formDiv .wide {
+ width: 90%;
+}
+div#KiteCV_formDiv .KiteCV_help {
+ position: absolute;
+ width: 55%;
+ right: 6%;
+ padding: 0.5em 1em;
+ background: #fff5d9;
+ border: 1px solid #ffc000;
+ z-index: 100;
+}
+div#KiteCV_formDiv .KiteCV_help_button {
+ position: absolute;
+ top: 0;
+ right: 15px;
+ width: 15px;
+ height: 15px;
+ background: transparent url(index.php?pf=KiteCV/requisites/icons/aide.gif) no-repeat 0 0;
+ border: 0;
+ cursor: pointer;
+}
+div#KiteCV_formDiv .KiteCV_help_button span {
+ display: none;
+}
+div#KiteCV_formDiv .KiteCV_deletableParent {
+ padding-bottom: 0.5em;
+}
+div#KiteCV_formDiv .KiteCV_adder {
+ clear:both;
+}
+div#KiteCV_formDiv .KiteCV_adder_content {
+ padding: 0.5em 0 0.5em 1%;
+ background: #fff5d9;
+ border: 1px solid #ffc000;
+}
+div#KiteCV_formDiv .KiteCV_adder_content .wide {
+ width: 98%;
+}
+div#KiteCV_formDiv .KiteCV_adder button, div#KiteCV_formDiv button.KiteCV_submit {
+ width: 90%;
+ border: 1px solid #959ea8;
+ background: white url(index.php?pf=KiteCV/requisites/icons/fond-bouton.png) repeat-x 0 100%;
+}
+div#KiteCV_formDiv .KiteCV_adder button:hover,
+div#KiteCV_formDiv .KiteCV_adder button:focus,
+div#KiteCV_formDiv button.KiteCV_submit:hover, div#KiteCV_formDiv button.KiteCV_submit:focus {
+ background-image: url(index.php?pf=KiteCV/requisites/icons/fond-bouton-survol.png);
+}
+div#KiteCV_formDiv .KiteCV_adder button:active, div#KiteCV_formDiv button.KiteCV_submit:active {
+ background-image: url(index.php?pf=KiteCV/requisites/icons/fond-bouton-actif.png);
+}
+div#KiteCV_formDiv .KiteCV_adder button.cancelButton,
+div#KiteCV_formDiv .KiteCV_adder button.saveButton {
+ width: auto;
+ margin: 2px 4px 0 0;
+}
+div#KiteCV_formDiv .KiteCV_adder button.saveButton {
+ font-weight: bold;
+}
+div#KiteCV_formDiv table {
+ width:100%;
+ border-collapse: collapse;
+}
+div#KiteCV_formDiv th, #KiteCV_formDiv td {
+ border: 1px solid #959ea8;
+}

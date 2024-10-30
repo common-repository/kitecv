@@ -1,0 +1,94 @@
+/*
+This file is part of KiteCV.
+Copyright ©2006 Les Developpements Durables <contact@ldd.fr> and
+Sébastien Ducoulombier <seb@ldd.fr>.
+
+KiteCV is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+KiteCV is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+
+This formats an XHTML Europass CV.
+*/
+div#EuropassCV {
+ background-color: white;
+ background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAIAAAD91JpzAAAACXBIWXMAAAp0AAAKdAGYYj8ZAAAAC0lEQVQI12NgQAYAAA4AATHp3RUAAAAASUVORK5CYII=);
+ background-position: 25% 0%;
+ background-repeat: repeat-y;
+ color: black;
+ font-family: Arial, Helvetica, sans-serif;
+ position: relative;
+ width: 100%;
+}
+div#EuropassCV_Header {
+ background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAIAAAD91JpzAAAACXBIWXMAAAp0AAAKdAGYYj8ZAAAAC0lEQVQI12NgQAYAAA4AATHp3RUAAAAASUVORK5CYII=);
+ background-repeat: repeat-x;
+ background-position: 0% 50%;
+ background-attachment: scroll;
+ position: relative;
+ left: 0;
+ width: 25%;
+}
+div.EuropassCV_ContentLine {
+ padding-bottom: .2em;
+ padding-top: .2em;
+ position: relative;
+ top: 0;
+ width: 100%;
+}
+div.EuropassCV_ContentLineNewSection {
+ padding-bottom: .3em;
+ padding-top: .9em;
+ position: relative;
+ width: 100%;
+}
+div.EuropassCV_HeaderColumn {
+ padding-right: 1%;
+ left: 0;
+ position: absolute;
+ text-align: right;
+ top: 0;
+ width: 24%;
+}
+div#EuropassCV_Title {
+ font-size: 160%;
+}
+div.EuropassCV_SectionTitle {
+ color: #9ab;
+ padding-bottom: .5em;
+ font-size: 130%;
+ font-style: italic;
+ font-weight: bold;
+ position: relative;
+ text-align: left;
+}
+div.EuropassCV_Content {
+ padding-left: 1%;
+ padding-bottom: 1em;
+ left: 25%;
+ position: relative;
+ width: 73%;
+}
+div#EuropassCV table {
+ right: 0;
+ width: 98%;
+}
+div#EuropassCV table td,
+div#EuropassCV table th {
+ border: solid black 1px;
+ text-align: center;
+ font-size: 80%;
+}
+div#EuropassCV ul {
+ margin: 0;
+}

@@ -1,0 +1,38 @@
+/* This was taken from DotClear 2.0 file admin/style/default.css */
+.part-tabs {
+        display  : block;
+        list-style : none;
+        margin : 0 0 1.5em 0;
+        padding : 1em 0 0 0;
+        z-index : 1;
+        border-bottom : 1px solid #666;
+}
+.part-tabs li {
+        display : inline;
+        overflow : hidden;
+        padding: 0;
+        margin: 0;
+        list-style-type : none;
+}
+.part-tabs a {
+        border-width : 1px 1px 0 1px !important;
+        border-style : solid;
+        border-color : #666;
+        margin-left : 5px;
+        padding : 1px 5px 0 5px;
+        background : #e1dfcc;
+        -moz-border-radius : 2px 2px 0 0;
+}
+.part-tabs a:hover, .part-tabs a:focus {
+        border-top-color : #000;
+        border-left-color : #000;
+        border-right-color : #000;
+}
+li.part-tabs-active a {
+        font-weight : bold;
+        border-bottom : 1px solid #fff !important;
+        background : #fff;
+}
+li.part-tabs-link a {
+        background: #ffffd3;
+}

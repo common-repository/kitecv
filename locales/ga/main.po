@@ -1,0 +1,376 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr ""
+
+msgid "Annexes"
+msgstr ""
+
+msgid "Artistic skills and competences"
+msgstr ""
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr ""
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr ""
+
+msgid "E-mail(s)"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr ""
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "Fax(es)"
+msgstr ""
+
+msgid "First name(s)"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr ""
+
+msgid "Level in national or international classification (optional)"
+msgstr ""
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr ""
+
+msgid "M"
+msgstr ""
+
+msgid "Main activities or responsabilities"
+msgstr ""
+
+msgid "Master data for"
+msgstr ""
+
+msgid "More information at"
+msgstr ""
+
+msgid "Mother tongue(s)"
+msgstr ""
+
+msgid "Name and address of employer"
+msgstr ""
+
+msgid "Name and type of organization providing education and training"
+msgstr ""
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr ""
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Occupation of position held"
+msgstr ""
+
+msgid "Occupation or position held"
+msgstr ""
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr ""
+
+msgid "Other competences"
+msgstr ""
+
+msgid "Other language(s)"
+msgstr ""
+
+msgid "Other skills and competences"
+msgstr ""
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Personal Information"
+msgstr ""
+
+msgid "Personal skills and competences"
+msgstr ""
+
+msgid "Personal skills and competences (language part)"
+msgstr ""
+
+msgid "Personal skills and competences (other parts)"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+msgid "Principal subjects/occupational skills covered"
+msgstr ""
+
+msgid "Public URL:"
+msgstr ""
+
+msgid "Reading"
+msgstr ""
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr ""
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr ""
+
+msgid "Spoken production"
+msgstr ""
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr ""
+
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr ""
+
+msgid "Surname(s)"
+msgstr ""
+
+msgid "Technical skills and competences"
+msgstr ""
+
+msgid "Telephone(s)"
+msgstr ""
+
+msgid "Telephone(s) - see"
+msgstr ""
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr ""
+
+msgid "Type of business or sector"
+msgstr ""
+
+msgid "Understand"
+msgstr ""
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr ""
+
+msgid "Writing"
+msgstr ""
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""

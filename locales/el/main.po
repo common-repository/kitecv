@@ -1,0 +1,624 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr "Διεύθυνση (-εις)"
+
+msgid "Annexes"
+msgstr "Παραρτήματα"
+
+msgid "Artistic skills and competences"
+msgstr "Καλλιτεχνικές δεξιότητες και ικανότητες"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr "Δεξιότητες πληροφορικής"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Ημερομηνία γέννησης"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Επιθυμητή θέση εργασίας / τομέας απασχόλησης"
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr "Άδεια οδήγησης"
+
+msgid "E-mail(s)"
+msgstr "Διεύθυνση (-εις) ηλεκτρονικού ταχυδρομείου"
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr "Εκπαίδευση και κατάρτιση"
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "Θ"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Φαξ"
+
+msgid "First name(s)"
+msgstr "Όνομα (-τα)"
+
+msgid "Gender"
+msgstr "Φύλο"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>Σημείωση:</b> <br/> Εάν έχετε περισσότερα του ενός επώνυμα, γράψτε πρώτο αυτό που χρησιμοποιείτε συνήθως."
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr "Επίπεδο κατάρτισης με βάση την εθνική ή διεθνή ταξινόμηση"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Επίπεδο κατάρτισης με βάση την εθνική ή διεθνή ταξινόμηση"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Προφορική"
+
+msgid "M"
+msgstr "Α"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Κύριες δραστηριότητες και αρμοδιότητες"
+
+msgid "Master data for"
+msgstr ""
+
+#, fuzzy
+msgid "More information at"
+msgstr "Προσωπικές πληροφορίες"
+
+msgid "Mother tongue(s)"
+msgstr "Μητρική (-ες) γλώσσα (-ες)"
+
+msgid "Name and address of employer"
+msgstr "Επωνυμία και διεύθυνση εργοδότη"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Αναφέρετε την επωνυμία και το είδος του οργανισμού στον οποίο φοιτήσατε"
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr "Υπηκοότητα (-ες)"
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Απασχόληση ή θέση που κατείχατε"
+
+msgid "Occupation or position held"
+msgstr "Απασχόληση ή θέση που κατείχατε"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Οργανωτικές δεξιότητες και ικανότητες"
+
+msgid "Other competences"
+msgstr ""
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Μητρική (-ες) γλώσσα (-ες)"
+
+msgid "Other skills and competences"
+msgstr "Άλλες δεξιότητες και ικανότητες"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Προσωπικές πληροφορίες"
+
+msgid "Personal skills and competences"
+msgstr "Ατομικές δεξιότητες και ικανότητες"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Ατομικές δεξιότητες και ικανότητες"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Ατομικές δεξιότητες και ικανότητες"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Κύρια θέματα / επαγγελματικές δεξιότητες"
+
+msgid "Public URL:"
+msgstr ""
+
+#, fuzzy
+msgid "Reading"
+msgstr "Κατανόηση"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Κοινωνικές δεξιότητες και ικανότητες"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Επικοινωνία"
+
+msgid "Spoken production"
+msgstr "Προφορική έκφραση"
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Συμπληρώστε τον ή τους τηλεφωνικούς αριθμούς στους οποίους μπορεί κανείς να έλθει σε επαφή μαζί σας. <br/>Εάν είναι απαραίτητο, δηλώστε τις ώρες κατά τις οποίες είναι εφικτή η επικοινωνία μαζί σας (ώστε η επαφή να μπορεί να γίνει γρήγορα), π.χ.: <blockquote>Σταθερό τηλέφωνο: (30-2310) 34 58 95 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Δηλώστε τις κύριες δραστηριότητες και αρμοδιότητές σας, π.χ.: <blockquote>Συντήρηση ηλεκτρονικών υπολογιστών</blockquote> <b>ή</b> <blockquote>Σχέσεις με τους προμηθευτές</blockquote> <b>ή</b> <blockquote>Συντήρηση χώρων πρασίνου</blockquote>"
+
+msgid "Surname(s)"
+msgstr "Επώνυμο (-α)"
+
+msgid "Technical skills and competences"
+msgstr "Τεχνικές δεξιότητες και ικανότητες"
+
+msgid "Telephone(s)"
+msgstr "Τηλέφωνο (-α)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Τηλέφωνο (-α)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr "Τίτλος του πιστοποιητικού ή διπλώματος"
+
+msgid "Type of business or sector"
+msgstr "Είδος της επιχείρησης ή του κλάδου"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Κατανόηση"
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr "Επαγγελματική πείρα"
+
+msgid "Writing"
+msgstr "Γραφή"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>Σημείωση:</b> <ul> <li> Η φωτογραφία δεν είναι υποχρεωτική στο βιογραφικό, εκτός εάν τη ζητήσει ο εργοδότης. </li> <li> Προτιμήστε τον τύπο jpg. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>Σημείωση:</b> <ul> <li> Μην αναφέρετε τα στοιχεία ενός προσώπου εάν δεν έχετε λάβει προηγουμένως τη ρητή συγκατάθεσή του. Προτιμήστε να αναγράψετε την υπόμνηση : «Συστάσεις παρέχονται κατόπιν αιτήσεως» ώστε να μην υπερφορτώσετε το βιογραφικό σας. </li> <li> Δώστε μια συνοπτική περιγραφή των τυχόν δημοσιεύσεων ή ερευνητικών εργασιών σας. Διευκρινίστε τον τύπο του δημοσιεύματος (διπλωματική εργασία, άρθρο, έκθεση κλπ.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>Σημείωση:</b> <ul> <li> Εάν αναζητάτε για πρώτη φορά εργασία, αναφέρετε τις περιόδους πρακτικής άσκησης, οι οποίες πιστοποιούν μια πρώτη επαφή με τον κόσμο της εργασίας. </li> <li> Σε περίπτωση που η επαγγελματική σας πείρα είναι ακόμη περιορισμένη (π.χ. εάν μόλις αποφοιτήσατε από την υποχρεωτική ή από την τριτοβάθμια εκπαίδευση) περιγράψτε πρώτα την εκπαίδευση και κατάρτισή σας. </li> <li> Χάριν συντομίας τονίστε την επαγγελματική πείρα που ενισχύει την υποψηφιότητά σας. Μην παραβλέπετε επαγγελματικές εμπειρίες που, χωρίς να σχετίζονται άμεσα με την συγκεκριμένη θέση εργασίας, μπορεί να συνιστούν πλεονέκτημα (π.χ. παραμονή στο εξωτερικό, εργασία που περιλαμβάνει επαφή με το κοινό κλπ.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>Σημείωση:</b> <ul> <li> Εάν επιθυμείτε να αποστείλετε το βιογραφικό σας σε διάφορες χώρες, σημειώστε εντός παρενθέσεως τον διεθνή αριθμό κλήσης της χώρας σας και τον αριθμό κλήσης της περιοχής σας, ενώνοντας τους δύο κωδικούς με μία παύλα, π.χ. (30-2310) 84 06 04 για έναν τηλεφωνικό αριθμό στη Θεσσαλονίκη. </li> <li> Χωρίστε τον κυρίως αριθμό ανά δύο ψηφία ξεκινώντας από δεξιά, αφήνοντας την τελευταία ομάδα αριστερά με τρία ψηφία, εάν το σύνολο των ψηφίων είναι περιττός αριθμός. Οι ομάδες ψηφίων χωρίζονται με διάστημα και όχι με τελεία, π.χ. για έναν αριθμό στην Αθήνα: (30-210) 770 20 20. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>Σημείωση:</b> <ul> <li> Απαριθμήστε τα έγγραφα με λογική σειρά (π.χ. αναφέρετε ξεχωριστά, και εν ανάγκη αριθμήστε, τα διπλώματα, πιστοποιητικά εργασίας κλπ.) για να διευκολύνετε τον αναγνώστη. </li> <li> Μη στέλνετε ποτέ το πρωτότυπο των πιστοποιητικών ή διπλωμάτων σας, ώστε να αποφύγετε τον κίνδυνο απώλειάς τους∙ μια φωτοτυπία αρκεί. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>Σημείωση:</b> <ul> <li>Συμπληρώστε καθαρά τη διεύθυνση όπου μπορεί κανείς να έλθει σε επαφή μαζί σας το γρηγορότερο. Εάν η μόνιμη διεύθυνσή σας είναι διαφορετική από αυτή που ισχύει επί του παρόντος, μπορείτε να δηλώσετε περισσότερες από μία διευθύνσεις, διευκρινίζοντας πότε ισχύει η κάθε μία από αυτές.</li> <li>Η σειρά των στοιχείων της διεύθυνσης μπορεί να διαφέρει από χώρα σε χώρα. Τηρείστε τους ισχύοντες κανονισμούς ώστε να διευκολύνετε την ταχεία αποστολή της αλληλογραφίας σας. Μην ξεχνάτε τον κωδικό χώρας σε περίπτωση που η υποψηφιότητά σας απευθύνεται στο εξωτερικό βλέπε υπόδειγμα βιογραφικού σημειώματος).</li> <li>Για την Ιρλανδία, το Ηνωμένο Βασίλειο και τις Κάτω Χώρες, το όνομα της χώρας παρατίθεται ολογράφως:</li> </ul> <blockquote> Dublin 2 <br/>Ireland </blockquote> <blockquote> London SW1P 3AT <br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag <br/>Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>Σημείωση:</b> <br />Παρουσιάστε τις δεξιότητές σας με τρόπο συνοπτικό και τονίστε εκείνες που έχουν ιδιαίτερη βαρύτητα για την πρόσληψή σας στη συγκεκριμένη θέση."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>Σημείωση:</b> <br />Εάν είναι αναγκαίο, προσδιορίστε ποσοτικά τις αρμοδιότητές σας (ποσοστά του χρόνου εργασίας, διάρκεια παραμονής στη συγκεκριμένη θέση κλπ.)."
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>Σημείωση:</b> <br />Εάν το θεωρείτε σκόπιμο, προσθέστε και άλλα στοιχεία (τηλέφωνο, φαξ, ηλεκτρονικό ταχυδρομείο, διεύθυνση ιστοxώρου), π.χ.: <ul> <li> Τηλ. (210) 245 67 67, Φαξ (210) 245 67 96 </li> <li> Ηλεκτρονικό ταχυδρομείο: technoattiki@skynet.gr </li> <li> Ιστοχώρος: http://www.techno-attiki.gr </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>Σημείωση:</b> <br/>Η στήλη αυτή δίνει αμέσως το στίγμα του επαγγελματικού σας προφίλ με επικέντρωση στα βασικά προσόντα σας."
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>Σημείωση:</b> <br />Αποφύγετε τη χρήση αρκτικόλεξων χωρίς επεξήγηση (π.χ. ΙΕΚ)."
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>Σημείωση:</b> <br />Εφόσον συντρέχει λόγος, απευθυνθείτε στον οργανισμό που έχει εκδώσει το πιστοποιητικό/τίτλο σπουδών/δίπλωμα προκειμένου να ενημερωθείτε σχετικά. <br />Για περισσότερες πληροφορίες σχετικά με τη διεθνή ταξινόμηση ISCED (International Standard Classification of Education) από την UNESCO, συμβουλευτείτε τον ιστοχώρο: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>Σημείωση:</b> <br/> Εάν έχετε περισσότερα του ενός ονόματα, γράψτε πρώτο αυτό που χρησιμοποιείτε συνήθως."
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<b>Σημείωση:</b><br />Εάν ανατραφήκατε µε περισσότερες από µία γλώσσες και θεωρείτε ότι τις κατέχετε όλες εξίσου καλά, παραθέστε τις όλες ως µητρικές γλώσσες."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Ομιλία</b> <blockquote>Επικοινωνία</blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Μπορώ να επικοινωνώ με απλό τρόπο, με την προϋπόθεση ότι ο συνομιλητής μου θα επαναλαμβάνει ή θα επαναδιατυπώνει τις φράσεις του πιο αργά και θα με βοηθάει να εκφράσω αυτό που θέλω να πω. Μπορώ να θέτω απλές ερωτήσεις πάνω σε θέματα οικεία ή άμεσης προτεραιότητας και να δίνω ανάλογες απαντήσεις. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Μπορώ να επικοινωνώ σε καθημερινές περιστάσεις όπου χρειάζεται να ανταλλάσσω απλές πληροφορίες για δραστηριότητες και θέματα οικεία. Μπορώ να έχω πολύ σύντομες συνομιλίες, ακόμη και αν σε γενικές γραμμές δεν καταλαβαίνω αρκετά για να παρακολουθήσω μια συζήτηση. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>:Μπορώ να αντεπεξέρχομαι λεκτικά στις περισσότερες καταστάσεις που είναι δυνατόν να συναντήσει κανείς όταν ταξιδεύει στο εξωτερικό. Μπορώ να συμμετέχω χωρίς προετοιμασία σε μια συζήτηση πάνω σε θέματα οικεία ή με προσωπικό ενδιαφέρον ή με αναφορές στην καθημερινή ζωή (όπως για παράδειγμα οικογένεια, προσωπικές ασχολίες, εργασία, ταξίδια, επικαιρότητα). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Μπορώ να επικοινωνώ με αυθορμητισμό και άνεση, ώστε η συζήτηση να εκτυλίσσεται με ομαλό τρόπο. Μπορώ να συμμετέχω ενεργά σε μια συζήτηση υπό κανονικές συνθήκες, να εκθέτω και να υπερασπίζομαι τις απόψεις μου. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Μπορώ να εκφράζομαι αυθόρμητα και με συνεχή λόγο χωρίς να ψάχνω να βρω τις κατάλληλες λέξεις. Μπορώ να χρησιμοποιώ τη γλώσσα αβίαστα και αποτελεσματικά σε κοινωνικές και επαγγελματικές σχέσεις. Μπορώ να εκφράζω τις ιδέες και τις απόψεις μου με ακρίβεια και να συνδέω τις παρεμβάσεις μου με αυτές των συνομιλητών μου. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Μπορώ να συμμετέχω χωρίς προσπάθεια σε κάθε συζήτηση και να έχω άνεση με τις ιδιωματικές και τις καθημερινές εκφράσεις. Μπορώ να εκφράζω με ευχέρεια και με ακρίβεια τις λεπτές αποχρώσεις των εννοιών. Μπορώ να αντεπεξέρχομαι σε μια εννοιολογική δυσκολία με τρόπο που να μη γίνει κατανοητό από το συνομιλητή μου. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Ομιλία</b> <blockquote>Προφορική έκφραση</blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Μπορώ να χρησιμοποιώ απλές εκφράσεις για να περιγράψω την κατοικία μου και τους ανθρώπους που γνωρίζω.</li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Μπορώ να χρησιμοποιώ απλές προτάσεις για να περιγράψω την οικογένειά μου, τους άλλους ανθρώπους, την κατάρτισή μου, την τωρινή ή πρόσφατη επαγγελματική μου ενασχόληση.</li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Μπορώ να χειρίζομαι με απλό τρόπο εκφράσεις προκειμένου να περιγράψω εμπειρίες, γεγονότα, όνειρα, τις ελπίδες, τους στόχους μου. Μπορώ να εκφράζω με συντομία τις απόψεις και τα σχέδιά μου. Μπορώ να διηγούμαι την πλοκή μιας κινηματογραφικής ταινίας και να περιγράφω τις αντιδράσεις μου.</li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Μπορώ να εκφράζομαι με σαφή και λεπτομερή τρόπο πάνω σε θέματα που άπτονται των ενδιαφερόντων μου. Μπορώ να αναπτύσσω την άποψή μου σε ένα θέμα της επικαιρότητας και να εξηγώ τα προτερήματα και τα μειονεκτήματα των διαφορετικών προσεγγίσεων στο θέμα.</li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Μπορώ να παρουσιάζω με σαφείς και περιεκτικές περιγραφές ένα πολύπλοκο θέμα, συνδέοντας τις επιμέρους έννοιες, αναπτύσσοντας τα κύρια σημεία και ολοκληρώνοντας τις παρεμβάσεις μου με προσωπικό τρόπο.</li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Μπορώ να κάνω μια περιγραφή ή να αναπτύσσω μια επιχειρηματολογία με σαφή και ρέοντα λόγο και με ύφος προσαρμοσμένο στις περιστάσεις δομώντας μια παρουσίαση με λογικό τρόπο και βοηθώντας τους ακροατές μου να υπογραμμίζουν και να ανακαλούν στη μνήμη τους τα κύρια σημεία.</li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Κατανόηση</b> <blockquote>Προφορική</blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Μπορώ να κατανοώ βασικές λέξεις και πολύ συνηθισμένες εκφράσεις σχετικά με το άτομό μου, την οικογένειά μου και το άμεσο περιβάλλον μου, με την προϋπόθεση ότι ο συνομιλητής μου μιλάει αργά και καθαρά. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Μπορώ να κατανοώ εκφράσεις εκτός κειμένου και λέξεις που χρησιμοποιούνται πολύ συχνά και αφορούν το άτομό μου, την οικογένειά μου αγορές, εργασία ή το άμεσο περιβάλλον μου. Μπορώ επίσης να κατανοώ το νόημα ενός απλού, σαφούς και σύντομου μηνύματος. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Μπορώ να κατανοώ τα κύρια σημεία μιας συζήτησης, με την προϋπόθεση ότι η γλώσσα που χρησιμοποιείται είναι απλή και σαφής και τα θέματα της συζήτησης οικεία, όπως για παράδειγμα εργασία, σχολείο, καθημερινές δραστηριότητες κλπ. Μπορώ να κατανοώ το κεντρικό θέμα ραδιοφωνικών και τηλεοπτικών εκπομπών, εάν αυτό παρουσιάζει ενδιαφέρον για μένα και οι συνομιλητές μιλούν αργά και καθαρά. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Μπορώ να κατανοώ διαλέξεις με σύνθετη επιχειρηματολογία, εάν το θέμα είναι αρκετά οικείο. Μπορώ να κατανοώ το μεγαλύτερο μέρος των τηλεοπτικών δελτίων ειδήσεων και των ντοκιμαντέρ. Μπορώ να κατανοώ τις περισσότερες κινηματογραφικές ταινίες αν η γλώσσα είναι η καθομιλουμένη. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Μπορώ να κατανοώ μια μακροσκελή συζήτηση, ακόμη και αν δεν είναι καλά δομημένη και οι ιδέες δεν είναι σαφείς. Μπορώ να κατανοώ τηλεοπτικές εκπομπές και κινηματογραφικές ταινίες χωρίς ιδιαίτερη προσπάθεια. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Δεν έχω καμία δυσκολία να κατανοώ τον προφορικό λόγο είτε σε συνθήκες άμεσης επικοινωνίας είτε όταν αυτός εκφέρεται από τα μέσα μαζικής ενημέρωσης ακόμη και αν οι άλλοι μιλούν γρήγορα, αρκεί να υπάρχει ο χρόνος για να εξοικειωθώ με μια συγκεκριμένη ιδιόλεκτο. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Κατανόηση</b> <blockquote>Γραπτή (ανάγνωση)</blockquote> <ul> <li><a onclick=\"setLevel('reading','a1')\" href=\"#\">A1</a>: Μπορώ να κατανοώ λέξεις και φράσεις πολύ απλές όπως για παράδειγμα αυτές που περιέχονται σε αγγελίες, σε αφίσες και σε διαφημιστικά φυλλάδια. </li> <li><a onclick=\"setLevel('reading','a2')\" href=\"#\">A2</a>: Μπορώ να διαβάζω ένα πολύ απλό και σύντομο κείμενο, να βρίσκω μια συγκεκριμένη πληροφορία σε συνοπτικά κείμενα όπως μικρές αγγελίες, διαφημιστικά φυλλάδια, καταλόγους εστιατορίων, έντυπα με ωράρια αφίξεων και αναχωρήσεων μέσων μαζικής μεταφοράς. Μπορώ επίσης να κατανοώ μια σύντομη και απλή προσωπική επιστολή. </li> <li><a onclick=\"setLevel('reading','b1')\" href=\"#\">B1</a>: Μπορώ να κατανοώ κείμενα που είναι γραμμένα στην καθομιλουμένη ή σε γλώσσα σχετική με τη δουλειά μου. Μπορώ να κατανοώ την περιγραφή ενός γεγονότος, ή την έκφραση συναισθημάτων και ευχών σε μια προσωπική επιστολή. </li> <li><a onclick=\"setLevel('reading','b2')\" href=\"#\">B2</a>: Μπορώ να διαβάζω άρθρα και συνεντεύξεις που εκφράζουν προσωπικές θέσεις και απόψεις. Μπορώ να κατανοώ ένα σύγχρονο λογοτεχνικό κείμενο σε πρόζα. </li> <li><a onclick=\"setLevel('reading','c1')\" href=\"#\">C1</a>: Μπορώ να κατανοώ λογοτεχνικά ή μη κείμενα μακροσκελή και πολύπλοκα και να αντιλαμβάνομαι τις διαφορές του ύφους. Μπορώ να κατανοώ εξειδικευμένα άρθρα και μακροσκελείς τεχνικές οδηγίες, ακόμη και αν δεν είναι σχετικές με την ειδικότητά μου. </li> <li><a onclick=\"setLevel('reading','c2')\" href=\"#\">C2</a>: Μπορώ να διαβάζω χωρίς προσπάθεια και να εμβαθύνω σε κάθε είδος κειμένου, όπως για παράδειγμα ένα εγχειρίδιο, ένα εξειδικευμένο άρθρο ή ένα λογοτεχνικό έργο. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Περί τίνος πρόκειται;</b> <br />Οι δεξιότητες πληροφορικής αφορούν την επεξεργασία κειμένου και άλλα λογισμικά (βάσεις δεδομένων, πλοήγηση στο Διαδίκτυο, εξειδικευμένες ικανότητες όπως ο προγραμματισμός και η ανάλυση, κλπ.)."
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Περί τίνος πρόκειται;</b> <br />Οι οργανωτικές δεξιότητες και ικανότητες αφορούν το συντονισμό και τη διοίκηση ανθρώπων, προγραμμάτων και προϋπολογισμών – στο χώρο εργασίας, στην εθελοντική εργασία (π.χ. πολιτιστικές και αθλητικές δραστηριότητες), στον ιδιωτικό βίο."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Περί τίνος πρόκειται;</b> <br />Οι κοινωνικές δεξιότητες και ικανότητες αναφέρονται στην καθημερινή και επαγγελματική μας ζωή με άλλα άτομα, στη συμπεριφορά μας σε θέσεις όπου η επικοινωνία είναι σημαντική και το πνεύμα συνεργασίας απαραίτητο (π.χ. πολιτιστικές και αθλητικές δραστηριότητες), στον τρόπο με τον οποίο λειτουργούμε σε πολυπολιτισμικό περιβάλλον κλπ."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Περί τίνος πρόκειται;</b> <br />Ως τεχνική δεξιότητα ή ικανότητα ορίζεται η διεξοδική γνώση σχετικά με συγκεκριμένους μηχανισμούς ή μηχανήματα (εξαιρουμένης της πληροφορικής) ή η τεχνική γνώση σχετικά με ειδικό τομέα (παραγωγικός τομέας, τραπεζικός, τομέας υγείας κλπ.)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Γραφή</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Μπορώ να γράφω σε μια καρτ-ποστάλ ένα σύντομο μήνυμα με απλά λόγια (π.χ. τους χαιρετισμούς σε κάποιον κατά τη διάρκεια των διακοπών μου). Μπορώ να συμπληρώνω τα προσωπικά μου στοιχεία (όνομα, εθνικότητα, διεύθυνση) σ’ ένα ερωτηματολόγιο, όπως για παράδειγμα σε ένα έντυπο ξενοδοχείου.</li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Μπορώ να γράφω σημειώσεις και μηνύματα με απλό και σύντομο τρόπο. Μπορώ να γράφω μια πολύ απλή προσωπική επιστολή όπως για παράδειγμα για να εκφράσω τις ευχαριστίες μου σε κάποιον.</li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Μπορώ να γράφω ένα απλό και δομημένο κείμενο πάνω σε θέματα οικεία ή με προσωπικό ενδιαφέρον. Μπορώ να γράφω προσωπικές επιστολές για να διηγηθώ εμπειρίες και εντυπώσεις.</li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Μπορώ να γράφω κείμενο σαφές και λεπτομερές πάνω σε μια μεγάλη ποικιλία θεμάτων σχετικών με τα ενδιαφέροντά μου. Μπορώ να γράφω μια μελέτη ή μια αναφορά μεταφέροντας μια πληροφορία ή εκθέτοντας ένα επιχείρημα το οποίο υποστηρίζει ή αντικρούει τη συγκεκριμένη άποψη. Μπορώ να γράφω προσωπικές ή επίσημες επιστολές που αποδίδουν με λεπτές αποχρώσεις προσωπικά γεγονότα και εμπειρίες.</li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Μπορώ να εκφράζομαι αναπτύσσοντας τις απόψεις μου μέσα από ένα κείμενο σαφές και καλά δομημένο. Μπορώ να γράφω μια επιστολή, μια μελέτη, μια αναφορά αναπτύσσοντας ένα πολύπλοκο θέμα και τονίζοντας τα σπουδαιότερα σημεία του. Μπορώ να υιοθετήσω ένα ύφος προσαρμοσμένο στις ανάγκες εκφώνησης του λόγου μου.</li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Μπορώ να γράφω ένα σαφές κείμενο με ροή και ύφος προσαρμοσμένο στις περιστάσεις. Μπορώ να συντάσσω επιστολές, αναφορές ή πολύπλοκα άρθρα με δομή σαφή που να επιτρέπουν στον αναγνώστη να αντιλαμβάνεται και να απομνημονεύει τα κύρια σημεία. Μπορώ να παρουσιάζω περιληπτικά και με κριτικό τρόπο μια εργασία επαγγελματική ή ένα λογοτεχνικό έργο.</li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Περιγράψτε την εκπαίδευση και κατάρτισή σας, αρχίζοντας από τον πιο πρόσφατο κύκλο σπουδών, συμπληρώνοντας τα πεδία κατωτέρω. Αποθηκεύστε κάθε εγγραφή κάνοντας κλικ στο \"Αποθήκευση\". </p> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p> </p> <p> Περιγράψτε τις γλωσσικές σας δεξιότητες ως εξής: </p> <ol> <li><b>Μητρική (-ες) γλώσσα (-ες):</b> αναφέρετε τη/τις μητρική/ές σας γλώσσα/ες </li> <li><b>Άλλη (-ες) γλώσσα (-ες):</b> για κάθε γλώσσα που θέλετε να περιγράψετε, αναφέρετε τη γλώσσα, συμπληρώστε τα πεδία που αφορούν το επίπεδο και κάνετε κλικ στο \"Αποθήκευση.<br /><br />Για να επεξεργαστείτε μια γλώσσα, κάντε κλικ στον αντίστοιχο σύνδεσμο στον πίνακα \"Κατάλογος γλωσσών\" </li> </ol> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Περιγράψτε τις ατομικές σας δεξιότητες και ικανότητες συμπληρώνοντας τα πεδία κατωτέρω. </p> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Περιγράψτε την επαγγελματική πείρα σας, ξεκινώντας από την πιο πρόσφατη θέση, συμπληρώνοντας τα πεδία κατωτέρω. Αποθηκεύστε κάθε εγγραφή κάνοντας κλικ στο \"Αποθήκευση\". </p> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Αναφέρετε κάθε άλλη σχετική πληροφορία ή/και τον κατάλογο των εγγράφων που επισυνάπτονται στο βιογραφικό σας. </p> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Αναφέρετε την επιθυμητή θέση εργασίας / τομέα απασχόλησης. </p> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Καταχωρήστε τα προσωπικά σας στοιχεία κατωτέρω. </p> <p><b>Υπενθύμιση:</b> Τα πεδία που μένουν κενά αφαιρούνται αυτομάτως. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???el_GR./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Πρόσθετες πληροφορίες"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Πρόσθετες πληροφορίες και παραρτήματα"
+
+#~ msgid "Basic User"
+#~ msgstr "Βασικός χρήστης"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Περιγράψτε τις δεξιότητες πληροφορικής που διαθέτετε, π.χ.: <blockquote>Καλή γνώση των λογισμικών Office™ (Excel™, Word™, PowerPoint™).</blockquote> <blockquote>Βασικές γνώσεις γραφιστικών εφαρμογών (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Περιγράψτε τις οργανωτικές δεξιότητες και ικανότητές σας, π.χ.: <blockquote>Ηγετικό πνεύμα (επικεφαλής δεκαμελούς ομάδας)</blockquote> <blockquote>Καλή αντίληψη της οργάνωσης λόγω πείρας στη διοίκηση εφοδιαστικής αλυσίδας</blockquote> <blockquote>Πείρα στη διαχείριση έργου και ομάδας στη σημερινή θέση εργασίας μου</blockquote> και διευκρινίστε πώς αποκτήθηκαν (κατάρτιση, επαγγελματικό πεδίο, συμμετοχή σε συλλόγους-ενώσεις, ψυχαγωγικές δραστηριότητες κλπ.)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Περιγράψτε τις κοινωνικές σας δεξιότητες και ικανότητες, π.χ.: <blockquote>Πνεύμα συνεργασίας εντός ομάδας</blockquote> <blockquote>Υψηλή προσαρμοστικότητα σε πολυπολιτισμικό περιβάλλον, χάρις στην επαγγελματική μου θητεία στο εξωτερικό </blockquote> <blockquote>Επικοινωνιακές ικανότητες, λόγω της θέσης μου ως διευθυντή πωλήσεων. </blockquote> Διευκρινίστε πώς αποκτήθηκαν (κατάρτιση, επαγγελματικό πεδίο, συμμετοχή σε συλλόγους-ενώσεις, ψυχαγωγικές δραστηριότητες...)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Περιγράψτε τις τεχνικές δεξιότητες και ικανότητές σας, π.χ.: <blockquote>Εφαρμογή ποιοτικού ελέγχου (ήμουν υπεύθυνος για τον ποιοτικό έλεγχο στην υπηρεσία μου) κλπ.</blockquote> <blockquote>Διευκρινίστε πώς αποκτήθηκαν (κατάρτιση, επαγγελματικό πεδίο, συμμετοχή σε συλλόγους-ενώσεις, ψυχαγωγικές δραστηριότητες, κλπ.).</blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Αναφέρετε τη γλώσσα"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Αναφέρετε τη/τις μητρική/ες σας γλώσσα/ες"
+
+#~ msgid "From"
+#~ msgstr "Από"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Συμπληρώστε την ημερομηνία γεννήσεώς σας (ηη/μμ/εεεε), π.χ.: <blockquote>02.04.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Εφόσον το επίπεδο του πιστοποιητικού/τίτλου/διπλώματος αντιστοιχεί σε υφιστάμενη εθνική ή διεθνή ταξινόμηση, διευκρινίστε το επίπεδο και τη σχετική ταξινόμηση (εθνική ταξινόμηση, διεθνής ταξινόμηση ISCED κλπ.), π.χ.: <blockquote>ISCED 4 </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Ανεξάρτητος χρήστης"
+
+#~ msgid "Language(s)"
+#~ msgstr "Γλώσσα (-ες)"
+
+#~ msgid "Mobile"
+#~ msgstr "Κινητό τηλέφωνο"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Άλλη (-ες) γλώσσα (-ες) - Αυτοαξιολόγηση"
+
+#~ msgid "Photograph"
+#~ msgstr "Φωτογραφία"
+
+#~ msgid "Proficient user"
+#~ msgstr "Έμπειρος χρήστης"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Αναφέρετε τη/τις μητρική/ες σας γλώσσα/ες, π.χ.:<blockquote>Ελληνικά</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Αναφέρετε συγκεκριμένα τον επαγγελματικό σας στόχο ή τον τομέα στον οποίο επιθυμείτε να απασχοληθείτε, π.χ.: <blockquote>Διαχείριση βάσεων δεδομένων</blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Αναφέρετε στο σημείο αυτό οποιαδήποτε άλλη πληροφορία κρίνετε χρήσιμη (- δημοσιεύσεις ή ερευνητικές εργασίες· - συμμετοχή σε επαγγελματική οργάνωση, - στρατιωτικές υποχρεώσεις εφόσον θεωρείτε ότι είναι σημαντικό να προσδιορίσετε ότι έχετε εκπληρώσει τις στρατιωτικές σας υποχρεώσεις], οικογενειακή κατάσταση εάν θεωρείτε ότι είναι σημαντικό να την προσδιορίσετε], πρόσωπα επαφής ή πρόσωπα που μπορούν να δώσουν συστάσεις [ονοματεπώνυμο, θέση, διεύθυνση κλπ, βλέπε σημείωση κατωτέρω]), π.χ.: <blockquote> <b>Δημοσίευση</b> <br/>«Η υφαντουργία στο νομό Σερρών, 1970-1990». Τετράδια Εργασίας ΙΝΕ-ΓΣΕΕ, αριθ. 21, Αθήνα, Οκτώβριος 2000. </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Αναφέρετε εδώ οποιαδήποτε άλλη δεξιότητα και ικανότητα θεωρείτε ότι συνιστά πλεονέκτημα και που δεν εντάσσεται στις προηγούμενες ενότητες, (χόμπι, αθλητική δραστηριότητα, αρμοδιότητες εντός συλλόγων κλπ.), π.χ.: <blockquote>Ορειβασία</blockquote> Διευκρινίστε πώς αποκτήθηκε (κατάρτιση, επαγγελματικό πεδίο, συμμετοχή σε συλλόγους-ενώσεις, ψυχαγωγικές δραστηριότητες κλπ.)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Αναφέρετε τον τύπο της άδειας οδήγησης που ενδεχομένως κατέχετε, π.χ.: <blockquote>Β Κατηγορίας</blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Αναφέρετε τις καλλιτεχνικές σας ικανότητες και δεξιότητες που θεωρείτε ότι συνιστούν πλεονέκτημα (μουσική, συγγραφή, σχέδιο), π.χ.: <blockquote>Ξυλουργική</blockquote> Διευκρινίστε πώς αποκτήθηκαν (κατάρτιση, επαγγελματικό πεδίο, συμμετοχή σε συλλόγους-ενώσεις, ψυχαγωγικές δραστηριότητες, κλπ.)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Αναφέρετε την επωνυμία (ενδεχομένως τη διεύθυνση) και το είδος του οργανισμού στον οποίο φοιτήσατε, π.χ.: <blockquote>Ινστιτούτο Επαγγελματικής Κατάρτισης (ΙΕΚ) Πατρών <br/>Αγ. Σοφίας 33 <br/>GR-Πάτρα 25 100 <br/></blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Συμπληρώστε την επωνυμία και τη διεύθυνση του εργοδότη, π.χ.: <blockquote>Τεχνοδομική Αττικής Α.Ε., Αχαρνών 1 74, Αθήνα, GR-11286 </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Δηλώστε το είδος της επιχείρησης ή τον κλάδο στον οποίο ανήκει, π.χ.: <blockquote>Μεταφορές και αλυσίδα εφοδιασμού</blockquote> <b>ή</b> <blockquote>Χρηματοοικονομικός έλεγχος</blockquote> <b>ή</b> <blockquote>Κατασκευή ανταλλακτικών αυτοκινήτων</blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Συμπληρώστε την πλήρη ταχυδρομική διεύθυνσή σας, όπου μπορεί κανείς να έλθει σε επαφή μαζί σας, π.χ.: <blockquote>Ελ. Βενιζέλου 142, GR- 51631 Θεσσαλονίκη</blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Συμπληρώστε το όνομά σας, π.χ.: <blockquote>Ελένη</blockquote> σύμφωνα με τους ισχύοντες στη χώρα σας κανόνες."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Δηλώστε την απασχόληση ή τη θέση που κατείχατε, π.χ.: <blockquote>Μηχανικός βαρέων οχημάτων, Τεχνικός συντήρησης, Υπάλληλος υποδοχής</blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Συμπληρώστε το επώνυμό σας, π.χ.: <blockquote>ΘΕΟΔΩΡΟΥ</blockquote> σύμφωνα με τους ισχύοντες στη χώρα σας κανόνες."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Συνοψίστε τα κύρια θέματα ή τις επαγγελματικές δεξιότητες που αποτέλεσαν αντικείμενο του αντίστοιχου κύκλου σπουδών σας, συναθροίζοντάς τα εν ανάγκη, σεβόμενοι πάντα τον κανόνα της συνοπτικότητας, π.χ.: <br/> <b>Γενικός τομέας</b> <blockquote>Έκφραση στα ελληνικά, μαθηματικά, ξένη γλώσσα (αγγλικά) </blockquote> <blockquote>Φυσική αγωγή</blockquote> <b>Επαγγελματικός τομέας</b> <blockquote>Επαγγελματικές τεχνικές (παρασκευή τυποποιημένου ψωμιού, ειδικών τύπων ψωμιού, κέικ και γλυκών). </blockquote> <blockquote>Επιστήμες που συνδέονται με τα τρόφιμα και τον εξοπλισμό (μικροβιολογία, βιοχημεία, υγιεινή) </blockquote> <blockquote> Τεχνολογία του επαγγέλματος (βασικές αρχές, υγιεινή και ασφάλεια) </blockquote> <blockquote>Γνώση του οικονομικού, νομικού και κοινωνικού περιβάλλοντος του τομέα.</blockquote>"
+
+#~ msgid "To"
+#~ msgstr "Έως"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Συμπληρώστε τις χρονολογίες και ημερομηνίες που διαγράφουν το διάστημα κατά το οποίο εργαστήκατε στη θέση αυτή, π.χ.: <blockquote>Από τον Μάρτιο του 1994 έως τον Δεκέμβριο του 1999 </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Συμπληρώστε τον ακριβή τίτλο του πιστοποιητικού ή του διπλώματός σας, π.χ.: <blockquote>Δίπλωμα Επαγγελματικής Κατάρτισης – Ειδικός Εφαρμογών Πληροφορικής</blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Συμπληρώστε την πλήρη ηλεκτρονική σας διεύθυνση, αναφέροντας εάν πρόκειται για προσωπική ή επαγγελματική διεύθυνση, π.χ.: <blockquote>eltheodorou@ote.gr</blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Συμπληρώστε τον αριθμό του φαξ, εφαρμόζοντας τους κανόνες που ισχύουν για τον τηλεφωνικό σας αριθμό, π.χ.: <blockquote>(30-2310) 34 58 96</blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Συμπληρώστε τον αριθμό του κινητού τηλεφώνου σας, εφαρμόζοντας τους ίδιους κανόνες με αυτούς που ισχύουν για τους αριθμούς σταθερού τηλεφώνου, π.χ.: <blockquote>6977 33 34 44</blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Συμπληρώστε την υπηκοότητά σας, π.χ. <blockquote>Ελληνική</blockquote>"

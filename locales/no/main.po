@@ -1,0 +1,624 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr "Adresse(er)"
+
+msgid "Annexes"
+msgstr "Vedlegg"
+
+msgid "Artistic skills and competences"
+msgstr "Kunstneriske talenter og ferdigheter"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr "Datakyndighet og kompetanse"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Fødselsdato"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Ønsket stilling / yrkesfelt"
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr "Førerkort (klasser)"
+
+msgid "E-mail(s)"
+msgstr "E-post"
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr "Utdanning og opplæring"
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "K"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Fax"
+
+msgid "First name(s)"
+msgstr "Fornavn"
+
+msgid "Gender"
+msgstr "Kjønn"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>NB:</b> <br/> Dersom du har fler enn et etternavn, begynn med det du vanligvis bruker."
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr "Nivå etter nasjonal og internasjonal klassifisering"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Nivå etter nasjonal og internasjonal klassifisering"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Lytting"
+
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Viktigste arbeidsoppgaver og ansvar"
+
+msgid "Master data for"
+msgstr ""
+
+#, fuzzy
+msgid "More information at"
+msgstr "Personlige opplysninger"
+
+msgid "Mother tongue(s)"
+msgstr "Morsmål"
+
+msgid "Name and address of employer"
+msgstr "Arbeidsgivers navn og adresse"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Utdanningsinstitusjonens navn og art"
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr "Nationalitet(er)"
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Nåværende yrke eller stilling"
+
+msgid "Occupation or position held"
+msgstr "Nåværende yrke eller stilling"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Organisatorisk evne og kompetanse"
+
+msgid "Other competences"
+msgstr ""
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Morsmål"
+
+msgid "Other skills and competences"
+msgstr "Andre talenter og ferdigheter"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Personlige opplysninger"
+
+msgid "Personal skills and competences"
+msgstr "Personlige evner og kompetanse"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Personlige evner og kompetanse"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Personlige evner og kompetanse"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Viktigste fag/ yrkeskvalifikasjoner"
+
+msgid "Public URL:"
+msgstr ""
+
+#, fuzzy
+msgid "Reading"
+msgstr "Forståelse"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Sosiale evner og egenskaper"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Muntlig interaksjon"
+
+msgid "Spoken production"
+msgstr "Muntlig produksjon"
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Oppgi telefonnummer(e) som du ønsker å bli kontaktet på <br/> Dersom det er nødvendig, oppgi dager og tidspunkt du kan ringes (slik at du kan kontaktes raskt) f.eks.: <blockquote> Fasttelefon: 22 22 22 00 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Oppgi dine arbeidsoppgaver og plikter, f.eks.: <blockquote> Vedlikehold av datamaskiner </blockquote> <b>eller</b> <blockquote> Kontakt med leverandører </blockquote> <b>eller</b> <blockquote> Vedlikehold av parker og hager </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Etternavn"
+
+msgid "Technical skills and competences"
+msgstr "Tekniske ferdigheter og kompetanse"
+
+msgid "Telephone(s)"
+msgstr "Telefon(er)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Telefon(er)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr "Utdannelsens betegnelse"
+
+msgid "Type of business or sector"
+msgstr "Type bedrift eller sektor"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Forståelse"
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr "Yrkeserfaring"
+
+msgid "Writing"
+msgstr "Skrift"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Et fotografi er ikke viktig i en CV, dersom ikke arbeidsgiveren ber om det </li> <li> Foretrukket format er jpg. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Ikke oppgi adressen til en kontaktperson uten å spørre vedkommende først.For at din CV ikke skal bli for lang er det bedre å bruke formuleringen ‘Referanser oppgis gjerne på anmodning’. </li> <li> Gi en kort beskrivelse av dine artikler og forskning, dersom det er hensiktsmessig. Spesifiser hva slags dokument det dreier seg om (tese, artikkel, avhandling e.l.) . </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Dersom du søker på din første jobb, ikke glem å nevne arbeidspraksis under utplassering, trening og praksisperiode for å vise at du har vært innom arbeidslivet. </li> <li> Dersom arbeidserfaringen er begrenset (fordi du akkurat er ferdig med skole eller universitet), beskriv utdannelse og opplæring først. </li> <li> For korthets skyld; fokuser på arbeiderfaring som gir tyngde til søknaden din. Ikke overse erfaring som kan være nyttig, selv om den ikke er direkte relatert til beskrivelsen av stillingen du søker på (f.eks. tid du har tilbragt utenlands, som igjen lærte deg å forholde deg til mange ukjente mennesker, osv..). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Dersom du ønsker å sende CV til andre land, oppgi retningsnummer for land og eventuelt region i parantes. Disse skal kobles sammen med en bindestrek, f.eks.: (44-20) 80 12 34 56 for et nummer i London. I Norge rekker det med bare (47) 82......, da vi ikke har lokale retningsnummer. </li> <li> Del hovednummeret i grupper på to fra høyre side, med de siste tallene i en klynge på tre om antall sifre er odde. Grupper blir adskilt av mellomrom og ikke punktum. F.eks.: (353-1) 220 20 20, for et nummer i Dublin. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> List opp vedleggene i logisk rekkefølge (f.eks. vitnemål og attester samlet, og om nødvendig nummerert) av hensyn til leseren. </li> <li> Ikke send originaldokumenter, de kan gå tapt. Send kopier! </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>NB:</b> <ul> <li> Vis tydelig hvilken adresse du raskest kan kontaktes på. Dersom din faste adresse er forskjellig fra den du bor på nå, kan du skrive begge adressene med datoer som forklarer når du kan kontaktes på hvilken. </li> <li> Da rekkefølgen på en adresseslipp kan oppføres forskjellig fra land til land, anbefaler vi å følge reglene til det landet adressen gjelder, slik at posten kommer raskt frem.Ikke glem landskoden, dersom du søker i utlandet (se eksempel-CV) </li> <li> Når det gjelder Irland, Storbritannia (United Kingdom) og Holland blir navnene stavet fullstendig: </li> </ul> <blockquote> Dublin 2 <br/> Ireland </blockquote> <blockquote> London SW1P 3AT <br/> United Kingdom </blockquote> <blockquote> 2500 EA Den Haag <br/> Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>NB:</b> <br />Gi et sammenfallende overblikk og sett fokus på de kvalifikasjonene som er nyttige for den jobben du ønsker."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>NB:</b> <br />Dersom det er nødvendig, beregn ansvarsområdene (prosentvis fordeling av arbeidstid i forbindelse med oppgaver og stillingsområder, o.l.)."
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>NB:</b> <br />Ta med flere opplysninger dersom det er relevant (telefon, fax, e-post og internet-adresse), f.eks.: <ul> <li> Tlf.: (47) 22 22 22 00 - Fax (47) 22 22 22 01 </li> <li> E-post: o.normann@jensenene.no </li> <li> Nettside: http://www.jensenene.no </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>NB:</b> <br />Disse feltene gir en umiddelbar oversikt over profilen din ved å fokusere på din kjernekompetanse"
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>NB:</b> <br />Unngå å bruke forkortelser for seg selv (f.eks. NVQ)."
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>NB:</b> <br />Dersom det er nødvendig, innhent opplysninger fra institusjonen som ga deg beviset. <br />Mer informasjon om Unescos International Standard Classification of Education (ISCED) finner du på: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>NB:</b> <br/> Dersom du har fler enn et fornavn, begynn med det du vanligvis bruker."
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<b>NB:</b><br />Hvis du har vokst opp med mer enn ett språk og synes du behersker dem like godt, fører du opp alle som morsmål."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Tale</b> <blockquote>Muntlig interaksjon</blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Jeg kan føre enkle samtaler hvis min samtalepartner er innstilt på å gjenta eller omformulere sine setninger og snakke langsommere, samt hjelpe meg med å formulere det jeg forsøker å si. Jeg kan stille og besvare enkle spørsmål rundt dagligdags emner. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Jeg kan delta i en samtale om enkle hverdagssituasjoner, som bare legger opp til utveksling av informasjon. Jeg kan ta del i en kort meningsutveksling om opplysninger, men forstår som regel ikke nok til å holde samtalen gående. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Jeg kan klare de fleste situationer som oppstår på en reise i land eller områder hvor språket brukes. Jeg kan gå uforberedt inn i en samtale om emner som er av personlig interesse eller generelle temaer som f. eks. familie, jobb, reise og aktuelle begivenheter. </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Jeg kan snakke og diskutere så flytende og fritt at jeg forholdsvis utvungent kan føre en samtale med ’innfødte’. Jeg kan ta aktivt del i diskusjoner om dagligdagse emner, samt utdype og forsvare synspunktene mine. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Jeg kan uttrykke meg flytende og spontant uten at det er for tydelig at jeg leter etter ordene. Jeg kan bruke språket fleksibelt og effektivt i sosiale og jobbrelaterte situasjoner. Jeg kan forholdsvis presist uttrykke mine synspunkter og ideer på en måte som er tilpasset den personen jeg snakker med. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Jeg kan uten anstrengelse ta del i en hvilken som helst samtale og diskusjon, og velge passende ord og uttrykk. Jeg kan uttrykke meg flytende og nyansert, med stor grad av presisjon. Dersom jeg likevel får problemer, kan jeg med omformuleringer klare meg så godt at min samtalepartner neppe legger merke til det. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Tale</b> <blockquote>Muntlig produksjon</blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Jeg kan med enkle setninger og et begrenset ordforråd beskrive hvor jeg bor og fortelle om folk jeg kjenner. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Jeg kan bruke en rekke uttrykk og setninger for på en enkel måte å beskrive familie og andre mennesker, boforhold, min utdanningsbakgrunn og min nåværende eller tidligere jobb. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Jeg kan bruke uttrykk og vendinger for å beskrive opplevelser, drømmer, håp og forventninger. Jeg kan forklare kort og begrunne mine meninger og planer. Jeg kan fortelle en historie, gi et resymé av en bok eller av en film og beskrive inntrykkene mine fra dem. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Jeg kan gi klare og detaljerte beskrivelser innenfor et vidt spekter av emner knyttet til mitt interessefelt. Jeg kan forklare et synspunkt på en gitt problemstilling og gjøre rede for fordeler og ulemper ved ulike alternativer. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Jeg kan klart og detaljert redegjøre for komplekse emner med underliggende problemområder. Jeg kan legge frem spesielle problemstillinger og runde av med en passende konklusjon. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Jeg kan legge frem en klar og flytende redegjørelse eller argumentasjon med et språk som passer til situasjonen i stil og nivå. Jeg kan redegøre med en effektiv, logisk struktur, som hjelper lytteren å legge merke til og huske viktige poeng. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Forståelse</b> <blockquote>Lytting</blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Jeg kan forstå veldig enkle ytringer om meg selv, mennesker jeg kjenner og ting omkring meg når folk snakker langsomt og tydelig. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Jeg kan forstå de aller vanligste ord og uttrykk for ting som er viktige for meg, f, eks. opplysninger om meg selv, familien min, om innkjøp, nærmiljøet og jobben min. Jeg kan forstå hovedinnholdet i korte og klare henvendelser. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Jeg kan forstå hovedinnholdet når det er snakk om dagligdagse emner knyttet til jobb, skole, fritid, osv., dersom det snakkes tydelig og nøyaktig. Jeg kan forstå hovedinnholdet i radio og fjernsynssendinger som dreier seg om aktuelle saker eller emner som jeg er personlig interessert i, forutsatt at det snakkes relativt langsomt og tydelig. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Jeg kan forstå lengre, sammenhengende tale og foredrag og kan følge med i en innviklet ordveksling, forutsatt at jeg har rimelig innsikt i emnet. Jeg kan forstå de fleste nyhetssendinger på fjernsyn. Jeg kan forstå de fleste filmer der språket snakkes i vanlig dialekt. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Jeg kan forstå et langt foredrag, selv når det ikke er tydelig strukturert, og ideer og tanker ikke uttrykkes direkte. Jeg kan forstå programmer på fjernsyn og film uten for store anstrengelser. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Jeg har ingen problemer med å skjønne noen form for muntlig utgave av språket, både når jeg hører det i direkte kommunikasjon, og når jeg hører det i media. Jeg kan også forstå en innfødt som snakker fort, forutsatt at jeg har fått tid til å venne meg til vedkommendes måte å snakke på. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Forståelse</b> <blockquote>Lesing </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: Jeg kan forstå vanlige navn, ord og veldig enkle setninger, f.eks. i annonser, på oppslag og plakater eller i brosjyrer. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: Jeg kan lese svært korte og enkle tekster. Jeg kan finne bestemte opplysninger jeg leter etter i vanlige tekster, som reklame, brosjyrer, menyer og rutetabeller, og jeg kan forstå korte, enkle personlige brev. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: Jeg kan forstå tekster som er skrevet i et dagligdags språk eller som forholder seg til jobben min. Jeg kan forstå innholdet i personlige brev hvor avsenderen beskriver sine opplevelser, følelser og ønsker. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: Jeg kan lese artikler og rapporter om aktuelle emner hvor forfatteren inntar en bestemt holdning til et problem eller uttrykker et bestemt synspunkt. Jeg kan forstå de fleste moderne noveller og lett tilgengelige romaner. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: Jeg kan forstå lang og innviklet faktatekst og skjønnlitterære tekster, og oppfatte forskjeller i stil. Jeg kan forstå fagspråk i artikler og tekniske instruksjoner, også når det ligger utenfor mitt felt. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: Jeg kan uten problemer lese nesten alle former for tekst, også abstrakte tekster som inneholder vanskelige ord og setningsstrukturer, f. eks. instruksjoner, fagartikler og litterære verk. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Hva bør nevnes?</b> <br />Datakyndighet og kompetanse henviser til tekstbehandling og andre programmer, database-søk, kjennskap til Internett og avansert kunnskap (programmering osv...). <br /><b>NB:</b> <ul> <li> Datakyndighet og kompetanse kan oppnås og anerkjennes gjennom European computer driving licence (ECDL). Dette er en felles europeisk dokumentasjon (et kompetansebevis) som viser at innehaveren behersker og har kunnskap nok til å benytte de vanligste data-programmene på en effektiv og produktiv måte. </li> <li> For ytterligere informasjon om ECDL, ta en titt på: www.ecdl.com/main/region_eur.php </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Hva er dette?</b> <br />Organisatorisk evne og kompetanse henviser til koordinering og administrasjon av mennesker, budsjetter og prosjektarbeid, – gjennom jobb, i frivillighetsarbeid (f.eks. kultur og sport) og hjemme osv..."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Hva snakker vi om?</b> <br />Sosiale evner og egenskaper henviser til hvordan du forholder deg til mennesker i livs- og arbeidssituasjoner, i ansettelsesforhold hvor kommunikasjon er viktig og i tilfeller der samarbeid er uunnværlig (f.eks. innenfor kultur og sport), i flerkulturelle miljøer osv..."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Hva mener vi med det?</b> <br />Tekniske ferdigheter og kompetanse henviser til beherskelse av spesielt utstyr, maksineri osv., med unntak av datamaskiner eller tekniske ferdigheter innen i spesialiserte områder (prosessindustri, helsesektor, bankvirksomhet osv...)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Skriftlig produkjson</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Jeg kan skrive enkle postkort, f.eks. julekort. Jeg kan fylle ut skjema med personlige opplysninger, som navn, nasjonalitet og adresse… </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Jeg kan skrive korte, enkle notater og beskjeder. Jeg kan skrive et svært enkelt, personlig brev, f.eks. et takkebrev. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Jeg kan skrive en enkel og sammenhengende tekst om hverdagslige temaer eller om saker som interesserer meg personlig. Jeg kan skrive personlige brev der jeg beskriver opplevelser og inntrykk. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Jeg kan skrive klare og detaljerte tekster om en lang rekke emner som interesserer meg. Jeg kan skrive en oppgave eller en rapport der jeg formidler opplysninger og argumenterer for eller imot et bestemt synspunkt. Jeg kan skrive brev hvor jeg gir uttrykk for en personlig betydning av hendelser og opplevelser. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Jeg kan skrive en klar og velstrukturert tekst som uttrykker mine synspunkter på en utfyllende måte. Jeg kan skrive om innviklede emner i et brev, en oppgave eller en rapport og samtidig understreke det jeg mener er de viktigste punktene. Jeg kan skrive tekster i forskjellige genrer, tilpasset mottakeren. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Jeg kan skrive klart og flytende, i en stil som er tilpasset formålet. Jeg kan skrive innviklede brev, rapporter eller artikler på en slik måte at det hjelper leseren å legge merke til og huske viktige punkter. Jeg kan skrive resymé og anmeldelser av faglige eller litterære tekster. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Beskriv din utdanning og opplæring. Begynn med den siste når du fyller ut feltene under. Husk å lagre hver utdanning eller opplæring ved å klikke på \"Lagre\". </p> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Beskriv dine språklige evner på denne måten: </p> <ol> <li><b>Morsmål:</b> tast inn ditt morsmål </li> <li><b>Andre språk:</b> for hvert språk du ønsker å føre opp, tast inn språkets navn, fyll ut nivåfeltene og klikk på \"Lagre\" <br /><br />For å redigere et språk, klikk på den korresponderende lenken fra listen i \"Liste over språk\". </li> </ol> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Beskriv dine personlige evner og kompetanser ved å fylle ut feltene under. </p> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Beskriv yrkeserfaringen din og begynn med den siste når du fyller ut feltene under. Husk å lagre hver erfaring ved å klikke på \"Lagre\". </p> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Tast inn andre relevante opplysninger og/eller list dokumenter som du har vedlagt din CV. </p> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Tast inn ønsket stilling eller yrkesfelt. </p> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Tast inn opplysningene om deg selv nedenfor. </p> <p><b>Bemerk:</b> Ikke utfylte felter blir automatisk fjernet. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???no_NO./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Ytterligere opplysninger"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Tilleggsinformasjon, legg til vedlegg"
+
+#~ msgid "Basic User"
+#~ msgstr "Basisbruker"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Beskriv din datakyndighet og kompetanse, f.eks.: <blockquote> God kjennskap til Microsoft Office™-verktøy (Word™, Excel™ og PowerPoint™); </blockquote> <blockquote> Basiskunnskap om grafisk design-verktøy (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Beskriv dine organisatoriske evner og kompetanser, f.eks.: <blockquote> Lederevne (er for tiden ansvarlig for et lag på 10 medarbeidere). </blockquote> <blockquote> Organisasjonsevne (innenfor logistikk). </blockquote> <blockquote> Grundig erfaring innen prosjekt- og lagledelse. </blockquote> Oppgi i hvilken sammenheng du oppnådde dem (utdanning, jobb, foreningsliv, fritid osv...)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Beskriv dine sosiale evner og egenskaper, f.eks.: <blockquote> Lagånd/team spirit. </blockquote> <blockquote> Tilpasser meg flerkulturelle miljøer på en grei måte, noe som skyldes min arbeiderfaring fra utlandet. </blockquote> <blockquote> Gode kommunikasjonsferdigheter, som jeg har oppnådd gjennom min erfaring som salgsleder. </blockquote> Oppgi i hvilken sammenheng du oppnådde dem (utdanning, jobb, foreningsliv, fritid osv...)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Beskriv dine tekniske ferdigheter og kompetanser, f.eks.: <blockquote> God kjennskap til rutiner ved kvalitetskontroll (jeg har vært ansvarlig for gjennomføring av kvalitetskontroll på min avdeling). </blockquote> <blockquote> Oppgi i hvilken sammenheng du oppnådde dem (utdanning, jobb, foreningsliv, fritid osv...). </blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Tast inn et språk"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Tast inn morsmål (også flere)"
+
+#~ msgid "From"
+#~ msgstr "Fra"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Oppgi fødselsdato (dd/mm/yyyy), f.eks.: <blockquote> 02.04.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Dersom utdannelsen eller eksamensbeviset tilsvarer en nasjonal eller internasjonal klassifisering bør dette oppgis (nasjonal klassifisering, International Standard Classification of Education, ISCED, e.l.), f.eks.: <blockquote> ISCED 4 </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Selvstendig bruker"
+
+#~ msgid "Language(s)"
+#~ msgstr "Språk"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobiltelefon"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Andre språk - Egenvurdering"
+
+#~ msgid "Photograph"
+#~ msgstr "Bilde"
+
+#~ msgid "Proficient user"
+#~ msgstr "Dyktig bruker"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Oppgi morsmål (evt. Flere), f.eks.:<blockquote>Norsk</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Oppgi arbeidsønske og yrkesfelt, f.eks.: <blockquote> IT-ansvarlig og administrator </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Her bør du oppgi annen informasjon som du mener er relevant (publikasjon eller forskning, medlem av faglige organisasjoner, opplysning om militærtjeneste [dersom du mener det er nødvendig å nevne at du har avtjent verneplikt], familiestatus [hvis du mener det er viktig], kontaktpersoner og referanser [navn, stilling, kontaktakadresse, se nedenstående anmerkning]), f.eks.: <blockquote> <b>Publikasjon</b> <br/> Artikkel: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Her bør du oppgi alle andre ferdigheter og kompetanser som kan være til fordel for søknaden din og som du ikke har omtalt ovenfor (hobbyer, sport, ansvar i frivillige organisasjoner osv...), f.eks.: <blockquote> Styremedlem i Røde Kors </blockquote> Oppgi i hvilken sammenheng du oppnådde dem (kurs, jobb, foreningsliv, fritidsaktivitet osv...)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Her oppgir du om du har førerkort, og for hvilken kategori, f.eks.: <blockquote> Klasse B </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Her bør du oppgi kunstneriske og kreative talenter og kunnskap som er formålstjenelig (musikk, forfattervirksomhet, design osv...) f.eks.: <blockquote> Portrettmaling </blockquote> Oppgi i hvilken sammenheng du oppnådde dem (kurs, jobb, foreningsliv, fritidsaktivitet osv...)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Oppgi navnet på (og om nødvendig, adressen) og typen utdanningsinstitusjon som sto for opplæringen, f.eks.: <blockquote> Volda Meieriskole <br/> Strudifaret 3 <br/> 1823 Volda <br/> </blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Oppgi navn og adresse til arbeidsgiveren, f.eks.: <blockquote> Jensenene AS, Prof Olav Hanssens v 7 A, 4021 Stavanger, Norway </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Oppgi arbeidsgiverens forretningsfelt eller sektor, f.eks.: <blockquote> Transport og logistikk </blockquote> <b>eller</b> <blockquote> Revisjon </blockquote> <b>eller</b> <blockquote> Produsent av motordeler for kjøretøy </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Oppgi fullstendig hvor du ønsker å bli kontaktet f.eks.: <blockquote> Prof Olav Hanssens v 15, 4021 Stavanger </blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Oppgi fornavn, f.eks.: <blockquote>Jens Ola </blockquote>i henhold til sedvane og regler i ditt land."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Oppgi arbeidstittel eller arbeidsområde for stillingen, f.eks.: <blockquote> Konditor, Vedlikeholdstekniker, Resepsjonist </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Oppgi etternavn, f.eks.: <blockquote> NORMANN </blockquote> i henhold til sedvane og regler i ditt land."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Oppsummer de viktigste områdene for yrkeskvalifikasjonene du fikk under den gjeldende utdannelsen. Del dem inn i grupper for å gjøre det lettfattelig og klart, f.eks.: <br/> <b>Allmenn</b> <blockquote> Norsk bokmål, samisk, matematikk, fremmedspråk (Finsk) </blockquote> <blockquote> Gymnastikk og sport </blockquote> <b>Yrkesrettet</b> <blockquote> Spesialfag (produksjon av brød, kaker, desserter og kransekaker, smørdeig) </blockquote> <blockquote> Næringsmiddellære </blockquote> <blockquote> Næringsmiddelteknologi </blockquote> <blockquote> Bedriftslære, økonomi, jus, personal og sosial kontekst. </blockquote>"
+
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Skriv tidsangivelser som viser hvor lenge du hadde den aktuelle stillingen, f.eks.: <blockquote> Fra mars 1994 til desember 1999 </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Skriv den nøyaktige tittelen på oppnådd kvalifikasjon, f.eks.: <blockquote> Nasjonal yrkesrettet kvalifikasjon tilsvarende 3-årig videregående: Norsk ??? </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Skriv e-postadressen din fullstendig, slik at det synes om den er privat eller yrkesrelatert, f.eks.: <blockquote> bragov@whaoo.com </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Skriv faxnummeret ditt etter samme regler som med din fasttelefon f.eks.: <blockquote> 22 22 22 01 </blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Skriv mobiltelefonnummeret ditt etter samme regler som med din fasttelefon f.eks.: <blockquote> 69 45 12 03 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Skriv nasjonalitet(er), f.eks.: <blockquote> Norsk </blockquote>"

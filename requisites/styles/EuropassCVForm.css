@@ -1,0 +1,83 @@
+/*
+This file is part of KiteCV.
+Copyright ©2006 Les Developpements Durables <contact@ldd.fr> and
+Sébastien Ducoulombier <seb@ldd.fr>.
+
+KiteCV is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+KiteCV is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+
+This formats XHTML Europass CV form elements.
+*/
+div#EuropassCV button {
+ font-size: 80%;
+}
+div#EuropassCV button.EuropassCV_DeleteButton {
+ color: #800;
+}
+div#EuropassCV div.KiteCV_adder {
+ background-color: #fdd;
+ border: solid 1px black;
+ color: black;
+ opacity: .75;
+ position: relative;
+ width: 100%;
+}
+div#EuropassCV div.KiteCV_adder > button:first-child,
+div#EuropassCV div.KiteCV_adder > select:first-child {
+ background-color: #fdd;
+ color: black;
+ font-size: 80%;
+ font-weight: bold;
+
+ position: relative;
+ top: 0;
+ left: 0;
+ width: 100%;
+}
+div#EuropassCV div.KiteCV_adder > div {
+ position: relative;
+ top: 0;
+ left: 0;
+ padding: .5%;
+ width: 100%;
+}
+div#EuropassCV div.KiteCV_adder > button.cancelButton,
+div#EuropassCV div.KiteCV_adder > button.saveButton {
+ background-color: #8f8;
+ background-image: none;
+ border: solid 1px black;
+ color: black;
+ font-size: 80%;
+ font-weight: bold;
+ margin: .5%;
+
+ position: relative;
+ height: auto;
+}
+div#EuropassCV input.wide,
+div#EuropassCV textarea.wide {
+ width:98%;
+}
+div#EuropassCV button.halfwide,
+div#EuropassCV input.halfwide,
+div#EuropassCV textarea.halfwide {
+ width:49%;
+}
+div#EuropassCV label {
+ font-size: 80%;
+}
+div#EuropassCV ul.part-tabs {
+	padding-left: 26%;
+}

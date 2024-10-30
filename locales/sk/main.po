@@ -1,0 +1,624 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr "Adresa(y)"
+
+msgid "Annexes"
+msgstr "Prílohy"
+
+msgid "Artistic skills and competences"
+msgstr "Umelecké zručnosti a kompetencie"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr "Počítačové zručnosti a kompetencie"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Dátum narodenia"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Zamestnanie / Oblasť činnosti, o ktoré sa zaujímate"
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr "Vodičský(é) preukaz(y)"
+
+msgid "E-mail(s)"
+msgstr "E-mail(y)"
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr "Vzdelávanie a príprava"
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "Ž"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Fax(y)"
+
+msgid "First name(s)"
+msgstr "Meno(á)"
+
+msgid "Gender"
+msgstr "Pohlavie"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>Pozn.:</b> <br/> Ak máte viac než jedno priezvisko, začnite tým, ktoré zvyčajne používate."
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr "Stupeň vzdelania v národnej alebo medzinárodnej klasifikácii"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Stupeň vzdelania v národnej alebo medzinárodnej klasifikácii"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Počúvanie"
+
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Hlavné činnosti a zodpovednosť"
+
+msgid "Master data for"
+msgstr ""
+
+#, fuzzy
+msgid "More information at"
+msgstr "Osobné údaje"
+
+msgid "Mother tongue(s)"
+msgstr "Materinský(é) jazyk(y)"
+
+msgid "Name and address of employer"
+msgstr "Názov a adresa zamestnávateľa"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Názov a typ organizácie poskytujúcej vzdelávanie a prípravu"
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr "Štátna(e) príslušnosť(ti)"
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Zamestnanie alebo pracovné zaradenie"
+
+msgid "Occupation or position held"
+msgstr "Zamestnanie alebo pracovné zaradenie"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Organizačné zručnosti a kompetencie"
+
+msgid "Other competences"
+msgstr ""
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Materinský(é) jazyk(y)"
+
+msgid "Other skills and competences"
+msgstr "Ďalšie zručnosti a kompetencie"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Osobné údaje"
+
+msgid "Personal skills and competences"
+msgstr "Osobná spôsobilosť"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Osobná spôsobilosť"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Osobná spôsobilosť"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Hlavné predmety / profesijné zručnosti"
+
+msgid "Public URL:"
+msgstr ""
+
+#, fuzzy
+msgid "Reading"
+msgstr "Porozumenie"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Sociálne zručnosti a kompetencie"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Ústna interakcia"
+
+msgid "Spoken production"
+msgstr "Samostatný ústny prejav"
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Uveďte telefónne číslo(a), kde si želáte byť kontaktovaní; <br/> ak je to nevyhnutné, uveďte konkrétne dni a čas, kedy vás možno zastihnúť (aby vás bolo možné kontaktovať rýchlo), napr.: <blockquote> Pevná linka: 037/ 651 22 08 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Uveďte svoje hlavné činnosti a zodpovednosť, napr.: <blockquote> Údržba počítačov </blockquote> <b>alebo</b> <blockquote> Vzťahy s dodávateľmi </blockquote> <b>alebo</b> <blockquote> Údržba parkov a záhrad </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Priezvisko(á)"
+
+msgid "Technical skills and competences"
+msgstr "Technické zručnosti a kompetencie"
+
+msgid "Telephone(s)"
+msgstr "Telefón(y)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Telefón(y)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr "Názov získanej kvalifikácie"
+
+msgid "Type of business or sector"
+msgstr "Druh práce alebo odvetvie hospodárstva"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Porozumenie"
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr "Prax"
+
+msgid "Writing"
+msgstr "Písanie"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>Pozn.:</b> <ul> <li> Fotografia nie je v životopise podstatná, okrem prípadu, keď ju zamestnávateľ požaduje. </li> <li> Formát: najlepšie jpg. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>Pozn.:</b> <ul> <li> Neudávajte adresu kontaktnej osoby bez jeho(jej) predchádzajúceho formálneho súhlasu; lepšie je uviesť „Odporúčania zašlem na požiadanie“, než preťažiť životopis. </li> <li> Kde je to potrebné, uveďte stručný opis svojich publikácií alebo výskumu; upresnite typ dokumentu (dizertačná práca, článok, správa atď.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>Pozn.:</b> <ul> <li> Ak sa uchádzate o svoje prvé miesto, nezabudnite uviesť pracovné činnosti počas odbornej prípravy, čo je dôkaz vášho prvého kontaktu so svetom práce. </li> <li> Ak je vaša prax dosiaľ prikrátka (pretože ste nedávno ukončili školu), opíšte najskôr svoje vzdelávanie a odbornú prípravu. </li> <li> Kvôli stručnosti sa sústreďte na prax, ktorá vo vašej žiadosti zaváži. Neprehliadnite skúsenosti, ktoré môžu byť prínosom, aj keď sa nevzťahujú priamo k profilu práce, o ktorú sa uchádzate (napr. čas strávený v zahraničí, práca, ktorá vás priviedla do kontaktu s verejnosťou atď.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>Pozn.:</b> <ul> <li> Ak chcete poslať svoj životopis do iných krajín, uveďte smerové číslo štátu a miestne smerové číslo do zátvorky. Tieto dve čísla majú byť spojené pomlčkou, napr.: (421-2) 62 41 06 78 pre volanie do Bratislavy. </li> <li> Rozdeľte hlavné číslo do skupín po dvoch čísliciach sprava tak, aby posledná skupina pozostávala z troch číslic, ak je číslo nepárne (skupiny sú oddelené medzerou, nie bodkou), napr. (421-37) 651 22 08 pre číslo v Nitre. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>Pozn.:</b> <ul> <li> Uveďte zoznam v logickom slede (napr. uveďte diplomy alebo doklady o zamestnaní spolu, očíslujte jednotlivé položky, ak sa to požaduje), aby ste to uľahčili čitateľovi. </li> <li> Nikdy neposielajte originály diplomov alebo vysvedčení, pretože sa môžu stratiť; fotokópie sú dostatočné. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>Pozn.:</b> <ul> <li> Uveďte adresu, na ktorej vás možno najrýchlejšie zastihnúť. Ak sa vaša trvalá adresa líši od miesta, kde momentálne bývate (prechodné bydlisko), mali by ste uviesť obidve adresy s udaním času, kedy vás možno kontaktovať na ktorej adrese. </li> <li> Poradie, v ktorom sú jednotlivé údaje adresy uvedené, môže byť v jednotlivých krajinách odlišné; postupujte podľa uplatňovaných pravidiel, aby vás pošta našla rýchlo; nezabudnite na medzinárodný kód štátu, ak sa uchádzate o miesto v zahraničí (pozri vzorový životopis). </li> <li> V prípade Írska, Spojeného kráľovstva a Holandska sa názov krajiny vypisuje v plnom znení: </li> </ul> <blockquote> Dublin 2 <br/> Ireland </blockquote> <blockquote> London SW1P 3AT <br/> United Kingdom </blockquote> <blockquote> 2500 EA Den Haag <br/> Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>Pozn.:</b> <br />Skombinujte položky a zamerajte sa na profesijné zručnosti, ktoré budú pre vás prínosom v prípade, že vás príjmu."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>Pozn.:</b> <br />Ak je to potrebné, kvantifikujte svoju náplň práce (v percentách pracovného času, v množstve času venovanom jednotlivým činnostiam atď.)."
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>Pozn.:</b> <br />Ak je to relevantné, uveďte ďalšie informácie (telefón, fax, e-mailová alebo internetová adresa), napr.: <ul> <li> Tel.: (421-2) 12 34 56 78 - Fax (421-2) 12 34 56 80 </li> <li> E-mail: abtest@abtest.sk </li> <li> Internetová stránka: http://www.abtest.sk </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>Pozn.:</b> <br />Táto položka poskytuje okamžitý prehľad o vašom profile a koncentruje sa na vaše kľúčové spôsobilosti."
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>Pozn.:</b> <br />Nepoužívajte skratky osamotene (napr. iba SOV)."
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>Pozn.:</b> <br />V prípade potreby si informáciu o stupni dosiahnutého vzdelania vyžiadajte od inštitúcie, ktorá vydala vysvedčenie. <br />Viac informácií o klasifikačnom systéme ISCED (International Standard Classification of Education), ktorý bol vytvorený v UNESCO, je k dispozícii na webovej stránke tejto organizácie <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>Pozn.:</b> <br/> Ak máte viac než jedno rodné meno, začnite tým, ktoré zvyčajne používate."
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<strong>Pozn:</strong><br />Ak ste vyrastali v prostredí s viac než jedným jazykom a cítite, že ste rovnako spôsobilý(á) vo všetkých, uveďte všetky ako materinské jazyky."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Hovorenie</b> <blockquote>Ústna interakcia </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Dokážem komunikovať jednoduchým spôsobom za predpokladu, že môj partner v komunikácii je pripravený zopakovať alebo preformulovať svoju výpoveď pri pomalšej rýchlosti reči a že mi pomôže sformulovať, čo ja sa pokúšam povedať. Dokážem klásť a odpovedať na jednoduché otázky v oblasti mojich základných potrieb alebo na veľmi známe témy. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Dokážem komunikovať v jednoduchých a bežných situáciách vyžadujúcich jednoduchú a priamu výmenu informácií o známych témach a činnostiach. Dokážem zvládnuť veľmi krátke spoločenské kontakty, dokonca aj keď zvyčajne nerozumiem dostatočne na to, aby som sám udržiaval konverzáciu. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Dokážem zvládnuť väčšinu situácií, ktoré sa môžu vyskytnúť počas cestovania v oblasti, kde sa hovorí týmto jazykom. Môžem nepripravený vstúpiť do konverzácie na témy, ktoré sú známe, ktoré ma osobne zaujímajú, alebo ktoré sa týkajú osobného každodenného života (napríklad rodina, koníčky, práca, cestovanie, súčasné udalosti). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Dokážem komunikovať na takej úrovni plynulosti a spontánnosti, ktorá mi celkom umožňuje viesť bežný rozhovor s rodenými hovoriacimi. Dokážem sa aktívne zúčastniť na diskusii na známe témy, pričom vyjadrujem a presadzujem svoje názory. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Dokážem sa vyjadrovať plynulo a spontánne bez zjavného hľadania výrazov. Dokážem využívať jazyk pružne a účinne pre spoločenské a profesijné účely. Dokážem presne sformulovať svoje myšlienky a názory a dokážem vhodne nadviazať na príspevky ostatných hovoriacich. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Bez námahy sa dokážem zúčastniť na akejkoľvek konverzácii alebo diskusii a dobre ovládam idiomatické a hovorové výrazy. Dokážem sa vyjadrovať plynulo a presne vyjadrovať jemné odtienky významu. Ak pri vyjadrovaní sa narazím na problém, dokážem sa vrátiť a preformulovať danú pasáž tak ľahko, že ostatní to ani nepostrehnú. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Hovorenie</b> <blockquote>Samostatný ústny prejav </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Dokážem využívať jednoduché frázy a vetami opísať miesto, kde žijem a ľudí, ktorých poznám. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Dokážem použiť sériu fráz a viet na jednoduchý opis mojej rodiny a ostatných ľudí, životných podmienok, môjho vzdelania a mojej terajšej alebo nedávnej práce. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Dokážem spájať frázy jednoduchým spôsobom, aby som opísal skúsenosti a udalosti, svoje sny, nádeje a ambície. Stručne dokážem uviesť dôvody a vysvetlenia názorov a plánov. Dokážem vyrozprávať príbeh alebo zápletku knihy či filmu a opísať svoje reakcie. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Dokážem prezentovať jasné podrobné opisy celého radu predmetov vzťahujúcich sa na moju oblasť záujmu. Dokážem vysvetliť svoje stanovisko na aktuálne otázky s uvedením výhod a nevýhod rozličných možností. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Dokážem jasne a podrobne opísať zložité témy, rozširovať ich o vedľajšie témy, rozvíjať konkrétne body a zakončiť reč vhodným záverom. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Dokážem podať jasný a plynulý opis alebo zdôvodnenie v štýle, ktorý sa hodí pre daný kontext a s efektívnou logickou štruktúrou, ktorá pomôže príjemcovi všimnúť si dôležité body a zapamätať si ich. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Porozumenie</b> <blockquote>Počúvanie </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Dokážem pochopiť hlavné body jasnej štandardnej reči o známych veciach, s ktorými sa pravidelne stretávam v škole, práci, vo voľnom čase atď. Rozumiem zmyslu mnohých rozhlasových alebo televíznych programov o aktuálnych udalostiach a témach osobného či odborného záujmu, keď je prejav relatívne pomalý a jasný. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Dokážem porozumieť frázam a najbežnejšej slovnej zásobe vo vzťahu k oblastiam, ktoré sa ma bezprostredne týkajú (napríklad základné informácie o mne a rodine, nakupovaní, miestnej oblasti, zamestnaní). Dokážem pochopiť zmysel v krátkych, jasných a jednoduchých správach a oznámeniach. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Dokážem pochopiť hlavné body jasnej štandardnej reči o známych veciach, s ktorými sa pravidelne stretávam v škole, práci, vo voľnom čase atď. Rozumiem zmyslu mnohých rozhlasových alebo televíznych programov o aktuálnych udalostiach a témach osobného či odborného záujmu, keď je prejav relatívne pomalý a jasný. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Dokážem porozumieť dlhšej reči a prednáškam a sledovať aj zložitú argumentačnú líniu za predpokladu, že téma mi je dostatočne známa. Dokážem pochopiť väčšinu televíznych správ a programov o aktuálnych udalostiach. Dokážem porozumieť väčšine filmov v spisovnom jazyku. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Rozumiem dlhšej reči aj keď nie je jasne štruktúrovaná a keď vzťahy sú iba naznačené, nie explicitne signalizované. Dokážem bez väčšej námahy porozumieť televíznym programom a filmom. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Nemám žiadne ťažkosti pri pochopení akéhokoľvek druhu hovoreného jazyka, či už je to naživo alebo z vysielania, dokonca aj keď je prejav rodeného hovoriaceho veľmi rýchly za predpokladu, že mám dosť času na to, aby som sa si zvykol na jeho výslovnosť. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Porozumenie</b> <blockquote>Čítanie </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: Rozumiem známym menám, slovám a veľmi jednoduchým vetám, napríklad na oznámeniach a plagátoch alebo v katalógoch. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: Dokážem čítať veľmi krátke jednoduché texty. Dokážem nájsť konkrétne predvídateľné informácie v jednoduchom každodennom materiáli, ako sú napríklad inzeráty, prospekty, jedálne lístky a časové harmonogramy a dokážem porozumieť krátkymi jednoduchým osobným listom. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: Rozumiem textom, ktoré pozostávajú z každodennej slovnej zásoby často používanej v každodennom živote alebo ktoré sa vzťahujú sa na moju prácu. Dokážem porozumieť opisom udalostí, pocitov a prianí v osobných listoch. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: Dokážem prečítať články a správy týkajúce sa aktuálnych problémov, v ktorých pisatelia alebo autori adoptujú konkrétne postoje alebo názory. Rozumiem súčasnej literárnej próze. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: Rozumieme dlhým a zložitým faktickým a literárnym textom, pričom rozoznávam rozdiely v štýle. Rozumiem odborným článkom a dlhším návodom, dokonca aj keď sa nevzťahujú na moju oblasť. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: Ľahko čítam v podstate všetky formy písaného jazyka vrátane abstraktných textov náročných svojou stavbou a jazykom, ako sú napríklad príručky, odborné články a literárne diela. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>O čom hovoríme?</b> <br />Počítačové zručnosti a kompetencie sa vzťahujú k textovému editoru a iným aplikáciám, vyhľadávaniu v databáze, ovládaniu Internetu, náročnejším zručnostiam (programovanie atď.). <br /><b>Pozn.:</b> <ul> <li> Počítačové zručnosti a kompetencie možno posúdiť a uznať prostredníctvom Európskeho vodičského preukazu na počítače (ECDL - European computer driving licence), medzinárodne uznávaného štandardu spôsobilosti, ktorý potvrdzuje, že držiteľ má vedomosti a zručnosti, ktoré sú potrebné na efektívne a produktívne používanie najbežnejších počítačových aplikácií. </li> <li> Viac informácií o ECDL je k dispozícii na: www.ecdl.com/main/region_eur.php </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>O čom hovoríme?</b> <br />Organizačné zručnosti a kompetencie vypovedajú o koordinácii a riadení ľudí, projektov a rozpočtov v práci, dobrovoľnej práci (napr. v kultúre a športe), doma atď."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>O čom hovoríme?</b> <br />Sociálne zručnosti a kompetencie sa viažu k životu a práci s inými ľuďmi, v pozíciách, kde je komunikácia veľmi dôležitá, a v situáciách, kde je tímová práca rozhodujúca (napr. v kultúre a športe), v multikulturálnom prostredí atď."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>O čom hovoríme?</b> <br />Technické zručnosti a kompetencie sa vzťahujú k zvládnutiu špecifických typov zariadení, strojového vybavenia atď., iných než počítačov, alebo k technickým zručnostiam v špeciálnej oblasti (výrobné odvetvie, zdravotníctvo, bankovníctvo atď.)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Písanie</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Dokážem napísať krátku jednoduchú pohľadnicu, napríklad dokážem poslať pozdravy z dovolenky. Dokážem vyplniť formuláre s osobnými údajmi, napríklad uviesť svoje meno, štátnu príslušnosť a adresu na registračnom formulári v hoteli. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Dokážem napísať krátke jednoduché oznámenia a správy vzťahujúce sa na moje bezprostredné potreby. Dokážem napísať veľmi jednoduchý osobný list, napríklad poďakovanie. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Dokážem napísať jednoduchý súvislý text na témy, ktoré sú mi známe alebo ma osobne zaujímajú. Dokážem napísať osobné listy opisujúce skúsenosti a dojmy. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Dokážem napísať podrobný text o širokom rozsahu tém vzťahujúcich sa na moje záujmy. Dokážem napísať referát alebo správu, odovzdávať informácie alebo poskytnúť dôkazy na podporu konkrétneho názoru alebo proti nemu. Dokážem napísať listy, ktoré objasňujú, prečo sú niektoré udalosti a skúsenosti pre mňa osobne dôležité. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Dokážem sa jasne vyjadriť, dobre usporiadať text a odborne vyjadriť svoje stanoviská. Dokážem písať o zložitých predmetoch v liste, referáte, či správe a zdôrazniť, čo pokladám za najdôležitejšie. Dokážem zvoliť štýl podľa čitateľa, ktorému je text určený. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Dokážem napísať hladko plynúci text v príslušnom štýle. Dokážem napísať zložité listy, správy alebo články, ktoré prezentujú prípad s efektívnou logickou štruktúrou, ktorá pomôže príjemcovi všimnúť si dôležité body a zapamätať si ich. Dokážem napísať zhrnutia a recenzie o odborných prácach alebo literárnych dielach. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Opíšte svoje vzdelávanie a prípravu vyplnením príslušných polí. Začnite najčerstvejším údajom. Údaje za každé vzdelávanie a prípravu uložte kliknutím na „Uložiť“. </p> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Opíšte svoje jazykové zručnosti takto: </p> <ol> <li><b>Materinský(é) jazyk(y):</b> Uveďte svoj(e) materinský(é) jazyk(y). </li> <li><b>Ďalší(ie) jazyk(y):</b> Pri každom jazyku, ktorý chcete opísať, uveďte názov jazyka, vyplňte polia uvádzajúce úroveň a kliknite na „Uložiť“. <br /><br />Ak chcete upraviť jazyk, kliknite na príslušný odkaz v tabuľke „Jazyky: zoznam\". </li> </ol> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Opíšte svoju osobnú spôsobilosť vyplnením príslušných polí. </p> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Opíšte svoju prax vyplnením príslušných polí. Začnite najčerstvejším údajom. Údaje za každú prax uložte kliknutím na „Uložiť“. </p> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Uveďte ďalšie relevantné informácie a zoznam príloh životopisu. </p> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Uveďte zamestnanie alebo oblasť činnosti, o ktoré sa zaujímate. </p> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Uveďte svoje osobné údaje. </p> <p><b>Upozornenie:</b> Nevyplnené polia budú automaticky odstránené. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???sk_SK./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Doplňujúce informácie"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Doplňujúce informácie a prílohy"
+
+#~ msgid "Basic User"
+#~ msgstr "Používateľ základného jazyka"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Opíšte svoje počítačové zručnosti a kompetencie, napr.: <blockquote> Dobrá znalosť nástrojov Microsoft Office™ (Word, Excel a PowerPoint). </blockquote> <blockquote> Základné znalosti aplikácií grafického designu (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Opíšte svoje organizačné zručnosti a kompetencie, napr.: <blockquote> Vedenie (v súčasnosti som zodpovedný za tím 10 ľudí). </blockquote> <blockquote> Zmysel pre organizáciu (skúsenosti s logistikou). </blockquote> <blockquote> Dobré skúsenosti z riadenia projektov alebo tímu. </blockquote> a povedzte, v akom kontexte ste ich získali (počas školení, seminárov, dobrovoľnej práce alebo aktivít vo voľnom čase, atď.)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Opíšte svoje sociálne zručnosti a kompetencie, napr.: <blockquote> Tímový duch. </blockquote> <blockquote> Dobrá schopnosť adaptovať sa na multikulturálne prostredie získaná pracovnými skúsenosťami v zahraničí. </blockquote> <blockquote> Dobré komunikačné zručnosti získané počas pôsobenia ako obchodný riaditeľ. </blockquote> Upresnite, v akom kontexte ste ich získali (počas školení, seminárov, dobrovoľnej práce alebo aktivít vo voľnom čase, atď.)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Opíšte svoje technické zručnosti a kompetencie, napr.: <blockquote> Dobrá znalosť kvality kontrolných procesov (zodpovedal som za zavedenie auditu kvality vo svojom oddelení). </blockquote> <blockquote> Upresnite, v akom kontexte ste ich získali (počas školení, seminárov, dobrovoľnej práce alebo aktivít vo voľnom čase, atď.). </blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Uveďte jazyk"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Uveďte materinský(é) jazyk(y)"
+
+#~ msgid "From"
+#~ msgstr "Od"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Uveďte svoj dátum narodenia (dd/mm/rrrr), napr.: <blockquote> 02.04.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Ak úroveň kvalifikácie zodpovedá stupňu dosiahnutého vzdelania v národnom alebo medzinárodnom systéme, uveďte príslušný stupeň dosiahnutého vzdelania (národný systém, ISCED atď.), napr.: <blockquote>ISCED 3C </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Samostatný používateľ"
+
+#~ msgid "Language(s)"
+#~ msgstr "Jazyk(y)"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Ďalší(ie) jazyk(y) - Sebahodnotenie"
+
+#~ msgid "Photograph"
+#~ msgstr "Fotografia"
+
+#~ msgid "Proficient user"
+#~ msgstr "Skúsený používateľ"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Uveďte materinský(é) jazyk(y), napr.:<blockquote>slovenčina</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Upresnite zamestnanie alebo oblasť činnosti, o ktoré sa zaujímate, napr.: <blockquote> Správca databázy </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Tu uveďte ďalšie informácie, ktoré považujete za relevantné (publikácie alebo výskum; členstvo v profesijných organizáciách, informácie o tom, či ste vojak/nevojak [ak to považujete za dôležité, uveďte, či ste ukončili vojenskú službu], rodinný stav [ak považujete za potrebné to upresniť], kontaktné osoby alebo odporúčajúcu osobu [meno, pracovná pozícia, kontaktná adresa, pozri poznámku]), napr.: <blockquote> <b>Publikácie</b> <br/> Článok: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Uveďte svoje ďalšie zručnosti a kompetencie, ktoré sú prínosom a nie sú uvedené v predchádzajúcich kolónkach (koníčky, šport, zodpovedné pozície v dobrovoľníckych organizáciách), napr.: <blockquote> Vysokohorská turistika </blockquote> Upresnite, v akom kontexte ste ich získali (počas školení, seminárov, dobrovoľnej práce alebo aktivít vo voľnom čase, atď.)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Uveďte, či ste držiteľom vodičského preukazu, a ak áno, na ktorú kategóriu vozidiel, napr.: <blockquote> Kategória B </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Uveďte svoje umelecké zručnosti a kompetencie, ktoré sú prínosom (hudba, písanie, design atď.), napr.: <blockquote> Stolárstvo </blockquote> Upresnite, v akom kontexte ste ich získali (počas školení, seminárov, dobrovoľnej práce alebo aktivít vo voľnom čase, atď.)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Uveďte názov (a ak je to vhodné, adresu) a typ navštevovanej inštitúcie, napr.: <blockquote> Stredné odborné učilište potravinárske <br/> Cabajská 6 <br/> SK-949 01 Nitra 1 <br/> </blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Uveďte názov a adresu zamestnávateľa, napr.: <blockquote> AB-test spol s r.o., Dolná 21, SK-903 01 Senec, Slovenská republika </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Uveďte charakter odvetvia hospodárstva zamestnávateľa, napr.: <blockquote> Doprava a logistika </blockquote> <b>alebo</b> <blockquote> Audítorstvo </blockquote> <b>alebo</b> <blockquote> Výrobca autosúčiastok </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Uveďte svoju úplnú poštovú adresu(y), kde si želáte, aby vás kontaktovali, napr.: <blockquote> Vysoká 17, SK-949 01 Nitra 1, Slovenská republika </blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Uveďte svoje rodné meno(á), napr.: <blockquote> Andrej </blockquote> v súlade s pravidlami, ktoré platia vo vašej krajine."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Uveďte názov používaný na označenie vašej práce alebo charakteristiku svojho zamestnania, napr.: <blockquote> Operátor vysokozdvižného vozíka, technik údržby, recepčný </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Uveďte svoje priezvisko(á), napr.: <blockquote> KARAS </blockquote> v súlade s pravidlami, ktoré platia vo vašej krajine."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Zosumarizujte hlavné predmety alebo profesijné zručnosti, ktoré ste si osvojili počas príslušného vzdelávania, kvôli stručnosti ich uveďte v skupinách, napr.: <br/> <b>Všeobecnovzdelávacie predmety</b> <blockquote> Slovenský jazyk a literatúra, angličtina, matematika, fyzika, informatika </blockquote> <blockquote> Telesná výchova, etická výchova, občianska náuka, dejepis </blockquote> <b>Odborné predmety vrátane voliteľných</b> <blockquote> Odborný výcvik (výroba pšeničného pečiva, výroba jemného pečiva, výroba chleba a iných pekárskych výrobkov) </blockquote> <blockquote> Prírodovedné predmety vzťahujúce sa na potraviny (chémia, mikrobiológia) </blockquote> <blockquote> Technológia (vrátane hygieny, sanitácie a bezpečnosti a ochrany zdravia pri práci), suroviny, stroje a zariadenia (vrátane bezpečnosti a ochrany zdravia pri práci) </blockquote> <blockquote> Ekonomika, marketing </blockquote>"
+
+#~ msgid "To"
+#~ msgstr "Do"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Napíšte dátumy, ktoré dokumentujú, ako dlho ste pracovali na mieste, ktoré uvádzate, napr.: <blockquote> Od marca 1994 do decembra 1999 </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Napíšte presný názov získanej kvalifikácie, napr.: <blockquote> Stredné odborné vzdelanie (SOV): Pekár </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Napíšte svoju e-mailovú adresu(y) v plnom znení s uvedením, či ide o osobnú alebo pracovnú adresu, napr.: <blockquote> andrej.karas@intmail.sk </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Napíšte faxové číslo(a) podľa tých istých pravidiel ako telefónne číslo(a), napr.: <blockquote> 037/ 651 22 10 </blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Napíšte číslo svojho mobilného telefónu podľa tých istých pravidiel ako telefónne číslo(a), napr.: <blockquote> 0903 12 34 56 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Uveďte svoju štátnu príslušnosť, napr.: <blockquote> Slovenská republika </blockquote>"

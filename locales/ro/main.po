@@ -1,0 +1,624 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr "Adresă(e)"
+
+msgid "Annexes"
+msgstr "Anexe"
+
+msgid "Artistic skills and competences"
+msgstr "Competenţe şi aptitudini artistice"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr "Competenţe şi cunostinţe de utilizare a calculatorului"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Data naşterii"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Loc de muncă vizat / Domeniu ocupaţional"
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr "Permis(e) de conducere"
+
+msgid "E-mail(s)"
+msgstr "E-mail(uri)"
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr "Educaţie şi formare profesională"
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "F"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Fax"
+
+msgid "First name(s)"
+msgstr "Prenume"
+
+msgid "Gender"
+msgstr "Sex"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>Observaţii:</b> <br/> Dacă aveţi mai multe nume, începeţi cu cel pe care îl folosiţi de obicei."
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr "Nivelul în clasificarea naţională sau internaţională"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Nivelul în clasificarea naţională sau internaţională"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Ascultare"
+
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Activităţi şi responsabilităţi principale"
+
+msgid "Master data for"
+msgstr ""
+
+#, fuzzy
+msgid "More information at"
+msgstr "Informaţii personale"
+
+msgid "Mother tongue(s)"
+msgstr "Limba(i) maternă(e)"
+
+msgid "Name and address of employer"
+msgstr "Numele şi adresa angajatorului"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Numele şi tipul instituţiei de învăţământ/furnizorului de formare"
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr "Naţionalitate(-tăţi)"
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Funcţia sau postul ocupat"
+
+msgid "Occupation or position held"
+msgstr "Funcţia sau postul ocupat"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Competenţe şi aptitudini organizatorice"
+
+msgid "Other competences"
+msgstr ""
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Limba(i) maternă(e)"
+
+msgid "Other skills and competences"
+msgstr "Alte competenţe şi aptitudini"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Informaţii personale"
+
+msgid "Personal skills and competences"
+msgstr "Aptitudini şi competenţe personale"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Aptitudini şi competenţe personale"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Aptitudini şi competenţe personale"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Disciplinele principale studiate/ competenţele profesionale dobândite"
+
+msgid "Public URL:"
+msgstr ""
+
+#, fuzzy
+msgid "Reading"
+msgstr "Înţelegere"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Competenţe şi abilităţi sociale"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Participare la conversaţie"
+
+msgid "Spoken production"
+msgstr "Discurs oral"
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Indicaţi numerele de telefon la care doriţi să fiţi contactat; <br/> dacă este necesar, precizaţi zilele şi perioadele de timp când puteţi fi contactat (pentru a putea fi contactat rapid), de ex.: <blockquote> Fix: 021 347 96 35 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Indicaţi activităţile şi responsabilităţile dumneavoastră principale, de ex.: <blockquote> Întreţinerea calculatoarelor </blockquote> <b>sau</b> <blockquote> Legătura cu furnizorii </blockquote> <b>sau</b> <blockquote> Întreţinerea spaţiilor verzi </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Nume"
+
+msgid "Technical skills and competences"
+msgstr "Competenţe şi aptitudini tehnice"
+
+msgid "Telephone(s)"
+msgstr "Telefon(oane)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Telefon(oane)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr "Titlul certificatului sau diplomei obţinute"
+
+msgid "Type of business or sector"
+msgstr "Tipul activităţii sau sectorul de activitate"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Înţelegere"
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr "Experienţa profesională"
+
+msgid "Writing"
+msgstr "Scriere"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>Observaţii:</b> <ul> <li> Fotografia nu este indispensabilă într-un CV, decât dacă este cerută de angajator </li> <li> Format: preferabil jpg </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>Observaţii:</b> <ul> <li> Nu indicaţi adresa unei persoane de contact fără să fi obţinut în prealabil acordul acesteia; e de preferat să menţionaţi ‘Referinţele pot fi furnizate la cerere’ pentru a nu supraîncărca curriculumul vitae; </li> <li> Unde este cazul, faceţi o scurtă descriere a publicaţiei sau a activităţii de cercetare; specificaţi tipul documentului (teză, articol, raport etc.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>Observaţii:</b> <ul> <li> Dacă vă angajaţi pentru prima oară, nu uitaţi să menţionaţi stagiile de pregătire practică şi profesională din timpul studiilor care dovedesc contacul iniţial cu universul muncii; </li> <li> Dacă experienţa profesională este încă limitată (deoarece tocmai aţi absolvit şcoala sau facultatea), descrieţi mai întâi forma de învăţământ absolvită şi programele de formare profesională; </li> <li> Din considerente de concizie, axaţi-vă pe experienţa de muncă care aduce spor de valoare candidaturii dumneavoastră. Nu omiteţi experienţa care poate fi valoroasă, chiar dacă nu este legată direct de profilul postului pentru care candidaţi (de ex., timpul petrecut în străinătate, slujbe care v-au pus în contact cu publicul etc.); </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>Observaţii:</b> <ul> <li> Dacă doriţi să vă trimiteţi CV-ul în alte ţări, menţionaţi prefixul de ţară şi orice prefix regional în paranteze. Aceste două prefixe trebuie unite printr-o liniuţă, ex.: (40-21) 347 96 35 pentru un număr din Bucureşti. </li> <li> Împărţiţi numărul principal în grupe de câte două cifre începând din partea dreaptă, ultimul grup fiind alcătuit din trei cifre dacă numărul este impar (grupele se separă printr-un spaţiu, nu prin punct), ex. (40-21) 347 96 35 pentru un număr din Bucureşti. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>Observaţii:</b> <ul> <li> Enumeraţi documentele în ordine logică (de ex., grupaţi diplomele şi dovezile de angajare împreună, numerotaţi-le dacă e necesar) pentru a ajuta cititorul; </li> <li> Nu trimiteţi niciodată diplomele şi certificatele în original deoarece acestea ar putea fi pierdute; fotocopiile sunt potrivite. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>Observaţii:</b> <ul> <li> Indicaţi clar adresa la care puteţi fi contactat rapid. Dacă adresa dumneavoastră permanentă este diferită de cea la care locuiţi în prezent, puteţi indica ambele adrese, menţionând datele la care puteţi fi contactat la fiecare dintre ele; </li> <li> Ordinea elementelor din adresă poate varia de la ţară la ţară; respectaţi regulile în vigoare, astfel încât corespondenţa să ajungă uşor; nu uitaţi codul de ţară dacă aplicaţi în străinătate (vezi modele de CV); </li> <li> în cazul Irlandei, al Regatului Unit al Marii Britanii şi Olandei, numele ţării se scrie în întregime: </li> </ul><blockquote>Dublin 2 <br />Ireland </blockquote><blockquote>London SW1P 3AT <br />United Kingdom </blockquote><blockquote>2500 EA Den Haag <br />Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>Observaţii:</b> <br />Combinaţi elementele si axaţi-vă pe aptitudinile profesionale care ar fi valorificate dacă aţi fi angajat."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>Observaţii:</b> <br />Dacă este necesar, cuantificaţi-vă responsabilităţile (procent de timp lucrat, durata de timp pentru fiecare post ocupat etc.)."
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>Observaţii:</b> <br />Dacă este necesar, adăugaţi mai multe inforrmaţii (telefon, fax, e-mail sau adresa de internet), de ex.: <ul> <li> Tel.: (40-21) 340 45 67 - Fax (40-21) 340 45 68 </li> <li> E-mail: demeterv@yahoo.com </li> <li> Website: http://www.demeter.com.ro </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>Observaţii:</b> <br />Această rubrică oferă o imagine imediată a profilului dumneavoastră, concentrându-se pe competenţele dumneavoastră principale."
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>Observaţii:</b> <br />evitaţi folosirea doar a abrevierilor (ex. C.A.P.)"
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>Oservaţii:</b> <br />dacă este necesar, consultaţi organismul care a acordat certificatul/titlul/diploma. <br />Pentru mai multe informaţii despre CISE (Clasificarea Internationala Standard in Educatie) realizată de UNESCO, consultaţi: <blockquote>http://www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>Observaţii:</b> <br/> Dacă aveţi mai multe prenume, începeţi cu cel pe care îl folosiţi de obicei."
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<b>Observaţii:</b><br />Dacă aţi crescut într-un mediu multilingvistic, învăţând mai mult de o limbă şi consideraţi că le stăpâniţi la fel de bine, enumeraţi-le ca limbi materne."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Vorbire</b> <blockquote>Participare la conversaţie</blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Pot să comunic într-o conversaţie simplă, cu condiţia ca interlocutorul să fie dispus să repete sau să reformuleze frazele sale într-un ritm mai lent şi să mă ajute să formulez ceea ce încerc să spun. Pot să formulez întrebări simple pe teme cunoscute sau de necesitate imediată şi să răspund la asemenea întrebări. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Pot să comunic în situaţii simple şi uzuale care presupun un schimb de informaţii simplu şi direct pe teme şi despre activităţi familiare. Pot să particip la discuţii foarte scurte, chiar dacă, în general, nu înţeleg suficient pentru a întreţine o conversaţie. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Pot să fac faţă în majoritatea situaţiilor care pot să apară în cursul unei călătorii printr-o regiune unde este vorbită limba. Pot să particip fără pregătire prealabilă la o conversaţie pe teme familiare, de interes personal sau referitoare la viata cotidiană (de ex. familie, petrecerea timpului liber, călătoriile, activitatea profesională şi actualităţi). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Pot să comunic cu un grad de spontaneitate şi de fluentă care fac posibilă participarea normală la o conversaţie cu interlocutori nativi. Pot să particip activ la o conversaţie în situaţii familiare, exprimându-mi şi susţinându-mi opiniile. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Pot să mă exprim fluent şi spontan, fără a fi nevoie să-mi caut cuvintele în mod prea vizibil. Pot să utilizez limba în mod flexibil şi eficient în relaţii sociale şi în scopuri profesionale. Pot să-mi formulez ideile şi punctele de vedere cu precizie şi să-mi conectez intervenţiile bine de cele ale interlocutorilor mei. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Pot să particip fără efort la orice conversaţie sau discuţie şi sunt familiarizat(ă) cu expresiile idiomatice şi colocviale. Pot să mă exprim fluent şi să exprim cu precizie nuanţe fine de sens. În caz de dificultate, pot să reiau ideea şi să-mi restructurez formularea cu abilitate, în aşa fel încât dificultatea să nu fie sesizată. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Vorbire</b> <blockquote>Discurs oral</blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: Pot să utilizez expresii şi fraze simple pentru a descrie unde locuiesc şi oamenii pe care îi cunosc. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: Pot să utilizez o serie de expresii şi fraze pentru o descriere simplă a familiei mele şi a altor persoane, a condiţiilor de viată, a studiilor şi a activităţii mele profesionale prezente sau recente. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: Pot să leg expresii şi să mă exprim coerent într-o manieră simplă pentru a descrie experienţe şi evenimente, visele mele, speranţele şi obiectivele mele. Pot să îmi argumentez şi explic pe scurt opiniile şi planurile. Pot să povestesc o întâmplare sau să relatez intriga unei cărţi sau a unui film şi să-mi exprim reacţiile. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: Pot să prezint descrieri clare şi detaliate într-o gamă vastă de subiecte legate de domeniul meu de interes. Pot să dezvolt un punct de vedere pe o temă de actualitate, arătând avantajele şi dezavantajele diferitelor opţiuni. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: Pot să prezent descrieri clare şi detaliate pe teme complexe, integrând subtemele, dezvoltând anumite puncte şi terminându-mi intervenţia cu o concluzie adecvată. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: Pot să prezint o descriere sau o argumentaţie cu claritate şi fluentă, într-un un stil adaptat contextului; cu o structură logică eficientă, care să ajute auditoriul să sesizeze şi să retină punctele semnificative. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Înţelegere</b> <blockquote>Ascultare </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Pot să înţeleg expresii cunoscute si propoziţii foarte simple referitoare la mine, la familie şi la împrejurări concrete, când se vorbeşte rar şi cu claritate. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Pot să înţeleg expresii şi cuvinte uzuale frecvent întâlnite pe teme ce au relevanţă imediată pentru mine personal (de ex., informaţii simple despre mine şi familia mea, cumpărături, zona unde locuiesc , activitatea profesională). Pot să înţeleg punctele esenţiale din anunţuri şi mesaje scurte, simple şi clare. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Pot să înţeleg punctele esenţiale în vorbirea standard clară pe teme familiare referitoare la activitatea profesională, scoală, petrecerea timpului liber etc. Pot să înţeleg ideea principală din multe programe radio sau TV pe teme de actualitate sau de interes personal sau profesional, dacă sunt prezentate într-o manieră relativ clară şi lentă. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Pot să înţeleg conferinţe şi discursuri destul de lungi şi să urmăresc chiar şi o argumentare complexă, dacă subiectul îmi este relativ cunoscut. Pot să înţeleg majoritatea emisiunilor TV de ştiri şi a programelor de actualităţi. Pot să înţeleg majoritatea filmelor în limbaj standard. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Pot să înţeleg un discurs lung, chiar dacă nu este clar structurat, iar conexiunile sunt numai implicite şi nu semnalate în mod explicit. Pot să înţeleg programe de televiziune şi filme fără prea mare efort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Nu am nici o dificultate în a înţelege limba vorbită, indiferent dacă este vorba despre comunicarea directă sau în transmisiuni radio, sau TV, chiar dacă ritmul este cel rapid al vorbitorilor nativi, cu condiţia de a avea timp să mă familiarizez cu un anumit accent. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Înţelegere</b> <blockquote>Citire </blockquote> <ul> <li><a onclick=\"setLevel('reading','a1')\" href=\"#\">A1</a>: Pot să înţeleg nume cunoscute, cuvinte şi propoziţii foarte simple, de exemplu, din anunţuri, afişe sau cataloage. </li> <li><a onclick=\"setLevel('reading','a2')\" href=\"#\">A2</a>: Pot să citesc texte foarte scurte şi simple. Pot să găsesc anumite informaţii previzibile în diverse materiale cotidiene (de ex., reclame, prospecte, meniuri, orare) şi pot să înţeleg scrisori personale scurte şi simple. </li> <li><a onclick=\"setLevel('reading','b1')\" href=\"#\">B1</a>: Pot să înţeleg texte redactate, în principal, într-un limbaj uzual sau referitor la activitatea mea profesională. Pot să înţeleg descrierea evenimentelor, exprimarea sentimentelor şi a urărilor din scrisori personale. </li> <li><a onclick=\"setLevel('reading','b2')\" href=\"#\">B2</a>: Pot să citesc articole şi rapoarte pe teme contemporane, în care autorii adoptă anumite atitudini şi puncte de vedere. Pot să înţeleg proză literară contemporană. </li> <li><a onclick=\"setLevel('reading','c1')\" href=\"#\">C1</a>: Pot să înţeleg texte faptice şi literare lungi şi complexe, sesizând diferenţele stilistice. Pot să înţeleg articolele specializate şi instrucţiunile tehnice lungi, chiar dacă nu se referă la domeniul meu. </li> <li><a onclick=\"setLevel('reading','c2')\" href=\"#\">C2</a>: Pot să citesc cu uşurinţă orice tip de text, chiar dacă este abstract sau complex din punct de vedere lingvistic sau al structurii, de exemplu, manuale, articole specializate şi opere literare. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Despre ce este vorba?</b> <br />Competenţele şi cunoştinţele de utilizare a calculatorului se referă la abilităţile de utilizare a procesoarelor de texte şi a altor aplicaţii, a bazelor de date, a Internetului, precum şi la abilităţile avansate (programare etc.). <br /><b>Observaţii:</b> <ul> <li> Competenţele şi cunoştinţele de utilizare a calculatorului pot fi evaluate şi recunoscute prin “permisul european de conducere a computerului\", adică certificatul ECDL, un standard de competenţe recunoscut internaţional, care certifică faptul că posesorul deţine cunoştinţele şi abilităţile necesare pentru a utiliza în mod eficient şi productiv cele mai comune aplicaţii informatice; </li> <li> Pentru mai multe informaţii cu privire la ECDL, accesaţi: http://www.ecdl.com/main/region_eur.php </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Despre ce este vorba?</b> <br />Competenţeleşsi aptitudinile organizatorice se referă la capacitatea de a coordona şi administra oameni, proiecte şi bugete la locul de muncă, în activităţile de voluntariat (de exemplu cultură şi sport) si acasă etc."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Despre ce este vorba?</b> <br />Competenţele şi abilităţile sociale se referă la capacitatea de a trăi şi munci împreună cu alţi oameni, în locuri de muncă unde comunicarea este importantă iar munca în echipă este esenţială (de exemplu în cultură şi sport), în mediile multiculturale etc."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Despre ce este vorba?</b> <br />Competenţele şi aptitudinile tehnice se referă la capacitatea de a mânui echipamente şi maşini, altele decât calculatoarele, sau la aptitudinile şi competenţele dintr-un domeniu specializat (industrie manufacturieră, sănătate, domeniul bancar etc.)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Scriere</b> <ul> <li><a onclick=\"setLevel('writing','a1')\" href=\"#\">A1</a>: Pot să scriu o carte poştală scurtă şi simplă, de exemplu, cu salutări din vacantă. Pot să completez formulare cu detalii personale, de exemplu, numele, naţionalitatea şi adresa mea pe un formular de hotel. </li> <li><a onclick=\"setLevel('writing','a2')\" href=\"#\">A2</a>: Pot să scriu mesaje scurte şi simple. Pot să scriu o scrisoare personală foarte simplă, de exemplu, de mulţumire. </li> <li><a onclick=\"setLevel('writing','b1')\" href=\"#\">B1</a>: Pot să scriu un text simplu şi coerent pe teme familiare sau de interes personal. Pot să scriu scrisori personale descriind experienţe şi impresii. </li> <li><a onclick=\"setLevel('writing','b2')\" href=\"#\">B2</a>: Pot să scriu texte clare şi detaliate într-o gamă vastă de subiecte legate de domeniul meu de interes. Pot să scriu un eseu sau un raport, transmiţând informaţii sau argumentând în favoarea sau împotriva unui punct de vedere. Pot să scriu scrisori subliniind semnificaţia pe care o atribui personal evenimentelor sau experienţelor. </li> <li><a onclick=\"setLevel('writing','c1')\" href=\"#\">C1</a>: Pot să ms exprim prin texte clare, bine structurate, dezvoltând punctele de vedere. Pot să tratez subiecte complexe într-o scrisoare, un eseu sau un raport, subliniind aspectele pe care le consider importante. Pot să selectez un stil adecvat destinatarului. </li> <li><a onclick=\"setLevel('writing','c2')\" href=\"#\">C2</a>: Pot să scriu texte clare, cursive, adaptate stilistic contextului. Pot să redactez scrisori, rapoarte sau articole complexe, cu o structură logică clară, care să-l ajute pe cititor să sesizeze şi să retină aspectele semnificative. Pot să redactez rezumate sau recenzii ale unor lucrări de specialitate sau opere literare. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrieţi studiile şi cursurile de formare profesională urmate, începând cu cel mai recent, prin completarea rubricilor de mai jos. Salvaţi fiecare curs dând clic pe \"Salvează\". </p> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi automat îndepărtate. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrieţi abilităţile lingvistice după cum urmează: </p> <ol> <li><b>Limba(i) maternă(e):</b> introduceţi limba(ile) maternă(e). </li> <li><b>Limba(i) străină(e) cunoscută(e):</b> pentru fiecare limbă pe care vreţi s-o descrieţi, introduceţi numele limbii, completaţi rubricile cu descrierea nivelelor şi daţi clic pe \"Salvează\". <br />Pentru a edita o limbă străină, daţi clic pe link-ul corespunzător în tabelul \"Lista limbilor străine\" </li> </ol> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi automat îndepărtate. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrieţi aptitudinile şi competenţele personale prin completarea rubricilor de mai jos. </p> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi automat îndepărtate. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrieţi experienţa profesională, începând cu cea mai recentă, prin completarea rubricilor de mai jos. Salvaţi fiecare experienţă profesională dând clic pe \"Salvează\". </p> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi automat îndepărtate. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Introduceţi orice altă informaţie relevantă şi/sau enumeraţi documentele anexate CV-ului. </p> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi automat îndepărtate. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Introduceţi locul de muncă vizat sau domeniul ocupaţional (facultativ). </p> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi automat îndepărtate. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Introduceţi detaliile personale mai jos. </p> <p><b>Memo:</b> Rubricile lăsate necompletate vor fi îndepărtate automat. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???ro_RO./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Informaţii suplimentare"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Informaţii suplimentare şi anexe"
+
+#~ msgid "Basic User"
+#~ msgstr "Utilizator elementar"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Descrieţi competenţele şi cunoştinţele de utilizare a calculatorului de ex.: <blockquote> O bună stăpânire a instrumentelor Microsoft Office™ (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Cunoştinţe elementare ale aplicaţiilor de grafică pe calculator (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrieţi competenţele şi aptitudinile organizatorice, de ex.: <blockquote> Leadership (conducator) (în prezent responsabilul unei echipe compuse din 10 oameni); </blockquote> <blockquote> Spirit organizatoric (experienţă în logistică); </blockquote> <blockquote> Experienţă bună a managementului de proiect sau al echipei. </blockquote> şi specificaţi în ce context au fost dobândite (formare profesională, context profesional, seminarii, în activităţi de voluntariat sau în timpul liber etc.)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrieţi competenţele şi abilităţile sociale, de ex.: <blockquote> Spiritul de echipă; </blockquote> <blockquote> Capacitate de adaptare la medii multiculturale, obţinută prin experienţa de muncă in străinătate; </blockquote> <blockquote> O bună capacitate de comunicare, obţinută ca urmare a experienţei de director de vânzări. </blockquote> Specificaţi în ce context au fost dobândite (formare profesională, seminarii, context profesional, activităţi de voluntariat sau în timpul liber etc.)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrieţi competenţele şi aptitudinile tehnice de ex.: <blockquote> O bună cunoaştere a proceselor de control al calităţii (am fost responsabil cu implementarea controlului calităţii în departamentul în care am lucrat); </blockquote> <blockquote> Specificaţi în ce context au fost dobândite (formare profesională, context profesional, seminarii, în activităţi de voluntariat sau în timpul liber etc.) </blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Introduceţi limba străină"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Introduceţi limba(ile) maternă(e)"
+
+#~ msgid "From"
+#~ msgstr "Din"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Scrieţi data dumneavoastră de naştere (zz/ll/aaaa), de ex.: <blockquote> 02.04.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Dacă nivelul calificării corespunde unui sistem de clasficare naţională sau internaţională existent, precizaţi nivelul şi clasificarea (clasificare naţională, ISCED, etc.). <blockquote> ISCED 4 </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Utilizator independent"
+
+#~ msgid "Language(s)"
+#~ msgstr "Limba(i)"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Limba(i) străină(e) cunoscută(e) - Autoevaluare"
+
+#~ msgid "Photograph"
+#~ msgstr "Fotografia"
+
+#~ msgid "Proficient user"
+#~ msgstr "Utilizator experimentat"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Specificaţi limba(ile) maternă(e), de ex.:<blockquote>Română</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Specificaţi locul de muncă vizat sau domeniul ocupaţional, de ex.: <blockquote> Manager şi administrator de baze de date </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Mentionaţi aici alte informaţii pe care le consideraţi utile (publicaţii sau activităţi de cercetare; apartenenţa la organizaţii profesionale; stagiul militar (dacă e important); starea civilă (dacă e important); persoane de contact sau care pot da referinţe (nume, funcţie, adresa de contact, vezi nota de dedesubt), de ex.: <blockquote> <b>Publicaţii</b> <br/> Articol: “Caracterizarea moleculară a celulei nervoase încărcate cu H3O”, Immunology Quarterly, New York, 02/2002 </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrieţi aici orice alte competenţe şi aptitudini care constituie un avantaj şi care nu sunt menţionate în rubricile anterioare (hobby-uri; sporturi, funcţii de răspundere în organizaţii de voluntari), de ex.: <blockquote> Planorism </blockquote> Specificaţi în ce context au fost dobândite (formare profesională, context profesional, în activităţi de voluntariat sau în timpul liber etc.)"
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Menţionaţi dacă deţineţi un permis de conducere şi pentru ce categorie, de ex.: <blockquote> Categoria B </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrieţi competenţele şi aptitudinile artistice care constituie un avantaj (muzica; scrisul; design, etc.) de ex. <blockquote> Sculptura în lemn </blockquote> Specificaţi în ce context au fost dobândite (formare profesională, context profesional, seminarii, în activităţi de voluntariat sau în timpul liber etc.)"
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Precizaţi numele (şi adresa dacă este necesar) şi tipul instituţiei urmate de ex.: <blockquote> Grupul Şcolar de Servicii Alimentare <br/> Aleea Amandinelor nr. 36 <br/> Sector 3, Bucureşti <br/> </blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Indicaţi numele şi adresa angajatorului, de ex.: <blockquote> Demeter SRL, Str. Garofiţelor 12, Sector 3, Bucureşti, România </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Indicaţi tipul activităţii sau sectorul de activitate al angajatorului, de ex.: <blockquote> Transport şi logistică </blockquote> <b>sau</b> <blockquote> Birou de control financiar/auditare </blockquote> <b>sau</b> <blockquote> Producător de piese auto </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Scrieţi adresa/ele completă/e unde vreţi să fiţi contactat, de exemplu: <blockquote> Bd-ul Alba Iulia nr.12, bl. D3, ap. 21, sector 4, Bucureşti, cod poştal 3010 </blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Scrieţi prenumele, de ex.: <blockquote> Ion Andrei </blockquote> în conformitate cu regulile aplicate în ţara dumneavoastră."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Indicaţi funcţia sau postul ocupate, de ex.: <blockquote> Mecanic vehicule de mare tonaj, Tehnician de întreţinere, Recepţionist </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Scrieţi numele, de ex.: <blockquote> POPESCU </blockquote> în conformitate cu regulile aplicate în ţara dumneavoastră."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Rezumaţi principalele discipline predate sau competenţe profesionale dobândite pe durata cursului urmat, grupându-le dacă este necesar pentru concizie, e.g.: <br/> <b>Generale</b> <blockquote> Limba română, matematică, limba străină (engleza) </blockquote> <blockquote> Educaţie fizică şi sport </blockquote> <b>Profesionale</b> <blockquote> practică profesională (fabricarea de sorturi de pâine standard, specialităţi de pâine, prăjituri şi produse de patiserie) </blockquote> <blockquote> ştiinţe aplicate industriei şi echipamentelor alimentare (microbiologie, biochimie, igienă) </blockquote> <blockquote> tehnologie profesională (materii prime, igienă şi siguranţă) </blockquote> <blockquote> cunoaşterea domeniului profesional şi a contextului economic, legal şi social. </blockquote>"
+
+#~ msgid "To"
+#~ msgstr "Până în"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Precizaţi perioadele de timp în care s-a derulat cursul absolvit, de ex.: <blockquote> Din martie 1994 până în decembrie 1998 </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Scrieţi titlul exact al certificatului sau al diplomei obţinute, de ex.: <blockquote> Certificat de aptitudini profesionale (C.A.P.) Nivel 2: Serviciul Brutărie Patiserie </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Scrieţi adresa(ele) dumneavoastră completă(e) de e-mail, specificând dacă este adresa dumneavoastră personală sau de la serviciu, de ex.: <blockquote> popescuion@whaoo.com </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Scrieţi numerele de fax, folosind aceleaşi reguli ca pentru numerele de telefon de ex.: <blockquote> 021 346 95 35 </blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Scrieţi numărul de telefon mobil, utilizând aceleaşi reguli ca pentru numărul/ele de telefon fix, de ex.: <blockquote> 072 6945125 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Scrieţi naţionalitatea(-ţile), de ex.: <blockquote> Română </blockquote>"

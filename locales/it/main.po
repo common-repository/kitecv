@@ -1,0 +1,677 @@
+# Italian translations for KiteCV.
+# Copyright (C) 2007 Scienter
+# This file is distributed under the same license as the KiteCV package.
+# Gigliola Paviotti <gpaviotti@scienter.org>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-07-24 15:02+0100\n"
+"Last-Translator: Gigliola Paviotti <gpaviotti@scienter.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr "(Vuoto nel master CV)"
+
+msgid "(No country specified)"
+msgstr "(Paese non specificato)"
+
+msgid "(No language specified)"
+msgstr "(Lingua non specificata)"
+
+msgid "(Not supported in your browser)"
+msgstr "(Non supportato dal vostro browser)"
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr "(Opzionale)"
+
+msgid "Access code:"
+msgstr "Codice di accesso :"
+
+msgid "Add a competency"
+msgstr "Aggiungere una competenza"
+
+msgid "Add a degree"
+msgstr "Aggiungere una qualifica"
+
+msgid "Add a fax number"
+msgstr "Aggiungere un numero di fax"
+
+msgid "Add a line"
+msgstr "Aggiungere una linea"
+
+msgid "Add a mother tongue"
+msgstr "Aggiungere una madrelingua"
+
+msgid "Add a nationality"
+msgstr "Aggiungere una nazionalità"
+
+msgid "Add a new view"
+msgstr "Aggiungere una nuova vista"
+
+msgid "Add a telephone number"
+msgstr "Aggiungere un numero di telefono"
+
+msgid "Add a work experience"
+msgstr "Aggiungere una esperienza professionale"
+
+msgid "Add an address"
+msgstr "Aggiungere un indirizzo"
+
+msgid "Add an annexe"
+msgstr "Aggiungere un allegato"
+
+msgid "Add an email address"
+msgstr "Aggiungere un indirizzo email"
+
+msgid "Add an information"
+msgstr "Aggiungere una informazione"
+
+msgid "Add another language"
+msgstr "Aggiungere un’altra lingua"
+
+msgid "Additional Information"
+msgstr "Informazioni aggiuntive"
+
+msgid "Address(es)"
+msgstr "Indirizzo(i)"
+
+msgid "Annexes"
+msgstr "Allegati"
+
+msgid "Artistic skills and competences"
+msgstr "Capacità e competenze artistiche"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr "Cliccate qui per scaricare le istruzioni per compilare questo formulario"
+
+msgid "Computer skills and competences"
+msgstr "Capacità e competenze informatiche"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Data di nascita"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Lavoro desiderato/settore d'attività"
+
+msgid "Display the photo"
+msgstr "Visualizza la foto"
+
+msgid "Driving licence(s)"
+msgstr "Patente(i)"
+
+msgid "E-mail(s)"
+msgstr "E-mail"
+
+msgid "Education"
+msgstr " Formazione"
+
+msgid "Education and training"
+msgstr "Istruzione e formazione"
+
+msgid "Enable new export"
+msgstr "Attivare una nuova esportazione"
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr "Curriculum Vitae Europass"
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "F"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Fax"
+
+msgid "First name(s)"
+msgstr "Nome"
+
+msgid "Gender"
+msgstr "Sesso"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr "Qui potete caricare una vostra foto per includerla nell’angolo a destra del vostro CV."
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>NB:</b> <br/> Se avete più di un cognome, iniziate con quello usato abitualmente."
+
+msgid "Languages"
+msgstr "Lingue"
+
+msgid "Level in national or international classification"
+msgstr "Livello nella classificazione nazionale o internazionale"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Livello nella classificazione nazionale o internazionale"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Ascolto"
+
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Principali attività e responsabilità"
+
+msgid "Master data for"
+msgstr "Master CV per "
+
+#, fuzzy
+msgid "More information at"
+msgstr "Informazioni personali"
+
+msgid "Mother tongue(s)"
+msgstr "Madrelingua(e)"
+
+msgid "Name and address of employer"
+msgstr "Nome e indirizzo del datore di lavoro"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Nome e tipo dell'ente erogatore dell'istruzione e formazione"
+
+msgid "Name of this view:"
+msgstr "Nome di questa vista :"
+
+msgid "Nationality(-ies)"
+msgstr "Cittadinanza(e)"
+
+msgid "New view name:"
+msgstr "Nome della nuova vista:"
+
+#, fuzzy
+msgid "Not specified"
+msgstr "(Paese non specificato)"
+
+msgid "OK"
+msgstr "OK"
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Occupazione o posizione lavorativa ricoperte"
+
+msgid "Occupation or position held"
+msgstr "Occupazione o posizione lavorativa ricoperte"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr "Potete creare una vista del vostro CV per personalizzarlo ad uno specifico datore di lavoro o ad una specifica categoria di lavoro."
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr "I files OpenDocument Text possono essere aperti da ogni moderno office suite conforme agli standard."
+
+#, fuzzy
+msgid "Organisation address"
+msgstr "Aggiungere un indirizzo email"
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Capacità e competenze organizzative"
+
+msgid "Other competences"
+msgstr "Altre competenze"
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Madrelingua(e)"
+
+msgid "Other skills and competences"
+msgstr "Altre capacità e competenze"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr "Personale"
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Informazioni personali"
+
+msgid "Personal skills and competences"
+msgstr "Capacità e competenze personali"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Capacità e competenze personali"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Capacità e competenze personali"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Please select"
+msgstr "Selezionare"
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Principali tematiche / competenze professionali possedute"
+
+msgid "Public URL:"
+msgstr "URL pubblico :"
+
+#, fuzzy
+msgid "Reading"
+msgstr "Comprensione"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Capacità e competenze sociali"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Interazione"
+
+msgid "Spoken production"
+msgstr "Produzione orale"
+
+msgid "Square image jpeg File:"
+msgstr "File jpeg di una immagine quadrata:"
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Indicate il(i) numero(i) di telefono al(i) quale(i) desiderate essere contattati <br/> ove necessario, indicate giorni e ore in cui è possibile contattarVi, in modo da raggiungerVi quanto prima, ad es.: <blockquote> Fisso: 0845 120 30 45 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Indicate le Vostre principali attività e responsabilità, ad es.: <blockquote> Manutenzione di computer </blockquote> <b>o</b> <blockquote> Relazioni con i fornitori </blockquote> <b>o</b> <blockquote> Manutenzione di parchi e giardini </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Cognome"
+
+msgid "Technical skills and competences"
+msgstr "Capacità e competenze tecniche"
+
+msgid "Telephone(s)"
+msgstr "Telefono(i)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Telefono(i)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr "Questa procedura di generazione utilizza i servizi web ufficiali dell’Unione Europea per trasformare XML in PDF"
+
+msgid "Title of qualification awarded"
+msgstr "Titolo o qualifica conseguiti"
+
+msgid "Type of business or sector"
+msgstr "Tipo di attività o settore"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Comprensione"
+
+msgid "Upload a photo"
+msgstr "Caricare una foto"
+
+msgid "Work"
+msgstr "Professione"
+
+msgid "Work experience"
+msgstr "Esperienza professionale"
+
+msgid "Writing"
+msgstr "Scritto"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr "I documenti XHTML possono essere visti da tutti i moderni browser conforme agli standard."
+
+msgid "You can download Firefox from"
+msgstr "Potete scaricare Firefox da"
+
+msgid "You can download OpenOffice.org from"
+msgstr "Potete scaricare OpenOffice.org da"
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr "Potete generare diversi tipi di formato a partire da XML utilizzando gli strumenti ufficiali dell’Unione Europea"
+
+msgid "export of view"
+msgstr "Esportazione della vista"
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Una fotografia non è essenziale in un CV, a meno che non sia richiesta dal datore di lavoro </li> <li> Formato: preferibilmente jpg. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Non fornite l'indirizzo di una persona senza averne ottenuto il suo consenso formale; è preferibile indicare \"Indicazioni fonite su richiesta\" per non sovraccaricare il CV; </li> <li> Ove indicato, fornire una breve descrizione delle Vostre pubblicazioni o ricerche; specificare il tipo di documento (tesi, articolo, relazione, ecc.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Se siete alla ricerca di un primo posto di lavoro, non dimenticate di citare l'attività lavorativa svolta durante la formazione che dimostra che avete avuto già contatto con il mondo del lavoro; </li> <li> Se la Vostra esperienza lavorativa è ancora limitata (perché avete appena terminato gli studi scolastici o universitari), descrivete per prima cosa la Vostra istruzione e formazione; </li> <li> Per sinteticità, incentrateVi sull'esperienza lavorativa che fornisce valore aggiunto alla Vostra domanda. Non dimenticate le esperienze che possono rappresentare un atout, anche se non sono direttamente collegate al profilo prefessionale per il quale presentate la domanda (ad es., periodi trascorsi all'estero, lavoro che Vi ha permesso di entrare a contatto con il pubblico, ecc.); </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Se intendete inviare il Vostro CV in altri paesi, indicate il prefisso nazionale e regionale tra parentesi. Tali prefissi dovrebbero essere collegati da un trattino, ad es.: (39-06) 80 12 34 56 per un numero di Roma. </li> <li> Dividete il numero principale in gruppi da due partendo da destra; l'ultimo gruppo consiste di tre cifre se il numero di cifre è dispari (i gruppi sono separati da uno spazio e non da un punto), ad es. (39-02) 220 20 20 per un numero di Milano. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Elencare le voci secondo un criterio logico (ad es., riunire gradi/livelli o prove di aver scolto attività lavorativa (numerandoli se necessario) per facilitare il lettore; </li> <li> Mai mandare originali di diplomi o certificati di qualifiche, perché potrebbero andar persi; sono sufficienti fotocopie. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>NB:</b> <ul> <li> Indicate l'indirizzo al quale potete essere raggiunti rapidamente. Se il Vostro indirizzo permanente è diverso da quello in cui risiedete attualmente, potete scrivere entrambi gli indirizzi, specificando le date in cui potete essere contattati a ciascuno dei due; </li> <li> L'ordine in cui le voci possono comparire in un indirizzo variano da paese a paese; applicate le regole in uso in modo che la posta Vi raggiunga quanto prima; non dimenticate il codice del paese se Vi rivolgete ad un paese straniero (vedi esempio CV); </li> <li> nel caso di Irlanda, Regno Unito e Paesi Bassi, il nome del paese è scritto per intero: </li> </ul> <blockquote> Dublin 2 <br/> Ireland </blockquote> <blockquote> London SW1P 3AT <br/> United Kingdom </blockquote> <blockquote> 2500 EA Den Haag <br/> Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>NB:</b> <br />Combinate le varie voci e concentrateVi sulle competenze professionali che costituirebbero un atout se veniste assunti."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>NB:</b> <br />Se necessario, quantificate le Vostre responsabilità (percentuale dell'orario di lavoro, tempo trascorso in ciascuna attività, ecc.)."
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>NB:</b> <br />Se importanti, aggiungete ulteriori informazioni (telefono, fax, e-mail o indirizzo internet), ad es.: <ul> <li> Tel.: (39-06) 123 45 67 - Fax (39-06) 123 45 68 </li> <li> E-mail: M.Rossi@libero.it </li> <li> Sito Web: http://www.anderdobbs.it </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>NB:</b> <br />Questa voce dà un'immediata panoramica del Vostro profilo incentrandosi sulle Vostre competenze chiave"
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>NB:</b> <br />Evitate di utilizzare abbreviazioni da sole (ad es. NVQ)."
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>NB:</b> <br />ove necessario, interpellate l'ente che ha rilasciato la qualifica. <br />Per maggiori informazioni sull'ISCED (International Standard Classification of Education) messo a punto dall'UNESCO, consultate: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>NB:</b> <br/> Se avete più di un nome, iniziate con quello usato abitualmente."
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<b>NB:</b><br />Se siete cresciuti in un ambiente multilingue e ritenete di possedere lo stesso livello di competenze in due o più lingue, potete indicarle come lingue madre."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Parlato</b> <blockquote>Interazione</blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Riesco a interagire in modo semplice se l’interlocutore è disposto a ripetere o a riformulare più lentamente certe cose e mi aiuta a formulare ciò che cerco di dire. Riesco a porre e a rispondere a domande semplici su argomenti molto familiari e che riguardano bisogni immediati. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Riesco a comunicare affrontando compiti semplici e di routine che richiedano solo uno scambio semplice e diretto di informazioni su argomenti e attività consuete. Riesco a partecipare a brevi conversazioni, anche se di solito non capisco abbastanza per riuscire a sostenere la conversazione. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Riesco ad affrontare molte delle situazioni che si possono presentare viaggiando in una zona dove si parla la lingua. Riesco a partecipare, senza essermi preparato, a conversazioni su argomenti familiari, di interesse personale o riguardanti la vita quotidiana (per esempio la famiglia, gli hobby, il lavoro, i viaggi e i fatti di attualità). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Riesco a comunicare con un grado di spontaneità e scioltezza sufficiente per interagire in modo normale con parlanti nativi. Riesco a partecipare attivamente a una discussione in contesti familiari, esponendo e sostenendo le mie opinioni. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Riesco ad esprimermi in modo sciolto e spontaneo senza dove cercare troppo le parole. Riesco ad usare la lingua in modo flessibile ed efficace nelle relazioni sociali e professionali. Riesco a formulare idee e opinioni in modo preciso e a collegare abilmente i miei interventi con quelli di altri interlocutori. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Riesco a partecipare senza sforzi a qualsiasi conversazione e discussione ed ho familiarità con le espressioni idiomatiche e colloquiali. Riesco ad esprimersi con scioltezza e a rendere con precisione sottili sfumature di significato. In caso di difficoltà, riesco a ritornare sul discorso e a riformularlo in modo così scorrevole che difficilmente qualcuno se ne accorge. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Parlato</b> <blockquote>Produzione orale</blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Riesco a usare espressioni e frasi semplici per descrivere il luogo dove abito e la gente che conosco. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Riesco ad usare una serie di espressioni e frasi per descrivere con parole semplici la mia famiglia ed altre persone, le mie condizioni di vita, la carriera scolastica e il mio lavoro attuale o il più recente. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Riesco a descrivere, collegando semplici espressioni, esperienze ed avvenimenti, i miei sogni, le mie speranze e le mie ambizioni. Riesco a motivare e spiegare brevemente opinioni e progetti. Riesco a narrare una storie e la trama di un libro o di un film e a descrivere le mie impressioni. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Riesco ad esprimermi in modo chiaro e articolato su una vasta gamma di argomenti che mi interessano. Riesco a esprimere un’opinione su un argomento d’attualità,indicando vantaggi e svantaggi delle diverse opzioni. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Riesco a presentare descrizioni chiare e articolate su argomenti complessi, integrandovi temi secondari, sviluppando punti specifici e concludendo il tutto in modo appropriato. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Riesco a presentare descrizioni o argomentazioni chiare e scorrevoli in uno stile adeguato al contesto e con una struttura logica efficace, che possa aiutare il destinatario a identificare i punti salienti da rammentare. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Comprensione</b> <blockquote>Ascolto </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Riesco a riconoscere parole che mi sono familiari ed espressioni molto semplici riferite a me stesso, alla mia famiglia e al mio ambiente, purché le persone parlino lentamente e chiaramente. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Riesco a capire espressioni e parole di uso molto frequente relative a ciò che mi riguarda direttamente (ad esempio: informazioni di base sulla mia persona e sulla mia famiglia, gli acquisti, l’ambiente circostante e il lavoro). Riesco ad afferrare l'essenziale di messaggi ed annunci brevi, semplici e chiari. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Riesco a capire gli elementi principali in un discorso chiaro in lingua standard su argomenti familiari, che affronto frequentemente al lavoro, a scuola, nel tempo libero, ecc. Riesco a capire l'essenziale di molte trasmissioni radiofoniche e televisive su argomenti di attualità o temi di mio interesse personale o professionale, purché il discorso sia relativamente lento e chiaro. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Riesco a capire discorsi di una certa lunghezza e conferenze e a seguire argomentazioni anche complesse, purché il tema mi sia relativamente familiare. Riesco a capire la maggior parte dei notiziari e delle trasmissioni TV che riguardano fatti d'attualità e la maggior parte dei film in lingua standard. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Riesco a capire un discorso lungo, anche se non è chiaramente strutturato e le relazioni non vengono segnalate, ma rimangono implicite. Riesco a capire senza troppo sforzo le trasmissioni televisive e i film. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Non ho nessuna difficoltà a capire qualsiasi lingua parlata, sia dal vivo, sia trasmessa, anche se il discorso è tenuto in modo veloce da un madrelingua, purché abbia il tempo di abituarmi all’accento. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Comprensione</b> <blockquote>Lettura </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: Riesco a capire i nomi e le persone che mi sono familiari e frasi molto semplici, per esempio quelle di annunci, cartelloni, cataloghi. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: Riesco a leggere testi molto brevi e semplici e a trovare informazioni specifiche e prevedibili in materiale di uso quotidiano, quali pubblicità, programmi, menu e orari. Riesco a capire lettere personali semplici e brevi. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: Riesco a capire testi scritti di uso corrente legati alla sfera quotidiana o al lavoro. Riesco a capire la descrizione di avvenimenti, di sentimenti e di desideri contenuta in lettere personali. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: Riesco a leggere articoli e relazioni su questioni d’attualità in cui l’autore prende posizione ed esprime un punto di vista determinato.Riesco a comprendere un testo narrativo contemporaneo. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: Riesco a capire testi letterali e informativi lunghi e complessi e so apprezzare le differenze di stile. Riesco a capire articoli specialistici e istruzioni tecniche piuttosto lunghe, anche quando non appartengono al mio settore. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: Riesco a capire con facilità praticamente tutte le forme di lingua scritta, inclusi i testi teorici, strutturalmente o linguisticamente complessi, quali manuali, articoli specialistici e opere letterarie. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Di che cosa stiamo parlando?</b> <br />Le capacità e competenze informatiche si riferiscono all'elaborazione testi e ad altre applicazioni, ricerca in basi dati, conoscenza di Internet, competenze avanzate (programmazione, ecc.)."
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Di che cosa stiamo parlando?</b> <br />Le capacità e competenze organizzative si riferiscono al coordinamento e alla gestione di persone, progetti e bilandi; sul lavoro, nel volontariato (ad es. cultura e sport), a casa, ecc."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Di che cosa stiamo parlando?</b> <br />Le capacità e competenze sociali si riferiscono al vivere e al lavorare con altri, in posizioni dove la comunicazione è importante e in situazioni dove il lavoro di gruppo è essenziale (ad es. cultura e sport), in ambienti multiculturali, ecc."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Di che cosa stiamo parlando?</b> <br />Le capacità e competenze tecniche si riferiscono alla padronanza di specifici tipi di attrezzature, macchinari, ecc.- non computer -, o a capcità e competenze tecniche in un campo specifico (industria manifatturiera, settore sanitario, bancario, ecc.)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Scritto</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Riesco a scrivere una breve e semplice cartolina, ad esempio per mandre i saluti delle vacanze. Riesco a compilare moduli con dati personali scrivendo per esempio il mio nome, la nazionalità e l’indirizzo sulla scheda di registrazione di un albergo. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Riesco a prendere semplici appunti e a scrivere brevi messaggi su argomenti riguardanti bisogni immediati. Riesco a scrivere una lettera personale molto semplice, per esempio per ringraziare qualcuno. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Riesco a scrivere testi semplici e coerenti su argomenti a me noti o di mio interesse. Riesco a scrivere lettere personali esponendo esperienze e impressioni. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Riesco a scrivere testi chiari e articolati su un’ampia gamma di argomenti che mi interessano. Riesco a scrivere saggi e relazioni, fornendo informazioni e ragioni a favore o contro una determinata opinione. Riesco a scrivere lettere mettendo in evidenza il significato che attribuisco personalmente agli avvenimenti e alle esperienze. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Riesco a scrivere testi chiari e ben strutturati sviluppando analiticamente il mio punto di vista. Riesco a scrivere lettere, saggi e relazioni esponendo argomenti complessi, evidenziando i punti che ritengo salienti. Riesco a scegliere lo stile adatto ai lettori ai quali intendo rivolgermi. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Riesco a scrivere testi chiari, scorrevoli e stilisticamente appropriati. Riesco a scrivere lettere, relazioni e articoli complessi, supportando il contenuto con una struttura logica efficace che aiuti il destinatario a identificare i punti salienti da rammentare. Riesco a scrivere riassunti e recensioni di opere letterarie e di testi specialistici. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrivete le Vostra istruzione e formazione, partendo dalla più recente, compilando i campi qui sotto. Salvate ogni singola voce cliccando su \"Salva\". </p> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p> </p> <p> Descrivete le Vostre competenze linguistiche come segue: </p> <ol> <li><b>Madrelingua(e):</b> inserite la(e) Vostra(e) madrelingua(e) </li> <li><b>Altra(e) lingua(e):</b> per ogni lingua che volete descrivere, inserite il nome della lingua, compilate il campo del livello e cliccate su \"Salva\". <br /><br />Per l'edit una lingua, cliccate sul link corrispondente nella tabella \"Elenco delle Vostre lingue\" </li> </ol> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrivete le Vostre capacità e competenze personali compilando i campi qui sotto. </p> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Descrivete le Vostra esperienza lavorativa, partendo dalla più recente, compilando i campi qui sotto. Salvate ogni esperienza cliccando su \"Salva\". </p> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Inserite qualsiasi altra informazione importante e/o elencate i documenti allegati al CV. </p> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Inserite il lavoro o il campo d'attività desiderato. </p> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Inserite qui sotto i vostri dati personali. </p> <p><b>Attenzione:</b> I campi lasciati vuoti verranno eliminati automaticamente. </p>"
+
+#~ msgid ""
+#~ "<p style=\"font-size:150%\">Welcome to your Europass CV editor.</p>\n"
+#~ "<p>\n"
+#~ "Here you will be able to create a Master CV, per official EU language, where you can store all your personal data.\n"
+#~ "For each Master CV created, you can compose as many customised CVs as you need.\n"
+#~ "A customised CV, which is a VIEW of your Master CV, can be exported in several formats such as PDF, ODT, XHTML to be presented on the web and even HR-XML to facilitate data exchanges with online Recruitment and HR services.</p>\n"
+#~ "<p>There are only 3 simple steps to build your CV:\n"
+#~ "create your master CV, compose a view and export it!\n"
+#~ "Isn't it easy?</p>\n"
+#~ "<p>In order to start, just select the language of your Master CV in the CREATE drop down menu.</p>"
+#~ msgstr ""
+#~ "<p style=\"font-size:150%\">Benvenuti nel vostro editor dell’Europass CV.</p>\n"
+#~ "<p>\n"
+#~ "Qui potete creare un master CV per ognuna delle lingua ufficiale dell’UE, dove potrete inserire tutti i vostri dati personali.\n"
+#~ "Per ogni CV creato, potete comporre tutti i CV personalizzati che vi servono.\n"
+#~ "Un CV personalizzato, che è una VISTA del vostro master CV, può essere esportato come PDF, ODT, XHTML per essere pubblicato sul web, e anche in HR-XML per facilitare lo scambio di dati con i servizi di online recruiting e con i servizi di gestione delle risorse umane.</p>\n"
+#~ "<p>Basteranno tre semplici passaggi per costruire il vostro CV:\n"
+#~ "create il vostro master CV, componete una vista ed esportatela !\n"
+#~ "Semplice, vero ?</p>\n"
+#~ "<p>Per cominciare, scegliete la lingua del vostro master CV dal menu a cascata CREARE.</p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???it_IT./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Ulteriori informazioni"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Informazioni supplementari: aggiungete allegati"
+
+#~ msgid "Basic User"
+#~ msgstr "Utente base"
+
+#~ msgid "Create:"
+#~ msgstr "Creare :"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Descrivete le Vostre capacità e competenze informatiche, ad es.: <blockquote> Buona conoscenza di Microsoft Office™ (Word™, Excel™ e PowerPoint™); </blockquote> <blockquote> Conoscenza base di applicazioni grafiche (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrivete le Vostre capacità e competenze organizzative, ad es.: <blockquote> Leadership (attualmente responsabile di un gruppo di 10 persone); </blockquote> <blockquote> Senso dell'organizzazione (esperienza nel campo della logistica); </blockquote> <blockquote> Buona esperienza nella gestione di progetti o gruppi. </blockquote> Specificare in che contesto sono state acquisite (formazione, lavoro, seminari, volontariato, nel tempo libero, ecc.)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrivete le Vostre capacità e competenze sociali, ad es.: <blockquote> Spirito di gruppo; </blockquote> <blockquote> Buona capacità di adeguarsi ad ambienti multiculturali, conseguita grazie all'esperienza di lavoro all'estero; </blockquote> <blockquote> Buona capacità di comunicazione, ottenuta grazie alla mia esperienza di responsabile delle vendite. </blockquote> Specificare in quale contesto sono state ottenute (formazione, lavoro, seminari, volontariato, nel tempo libero, ecc.)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Descrivete le Vostre capacità e competenze tecniche, ad es.: <blockquote> Buona padronanza dei processi di controllo qualità (ero responsabile della valutazione della qualità nel mio settore); </blockquote> <blockquote> Specificare in che contesto sono state acquisite (formazione, lavoro, seminari, volontariato, nel tempo libero, ecc.). </blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Inserite una lingua"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Inserite madrelingua(e)"
+
+#~ msgid "From"
+#~ msgstr "Da"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Indicate la Vostra data di nascita (gg/mm/aaaa), ad es.: <blockquote> 02.04.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Se il livello della qualifica corrisponde ad un sistema di classificazione nazionale o internazionale, indicate il livello della relativa classificazione (classificazione nazionale, ISCED, ecc.), ad es.: <blockquote> ISCED 4 </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Utente autonomo"
+
+#~ msgid "Language(s)"
+#~ msgstr "Lingua(e)"
+
+#~ msgid "Mobile"
+#~ msgstr "Cellulare"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Altra(e) lingua(e) - Autovalutazione"
+
+#~ msgid "Photograph"
+#~ msgstr "Fotografia"
+
+#~ msgid "Proficient user"
+#~ msgstr "Utente avanzato"
+
+#~ msgid "Select:"
+#~ msgstr "Selezionare :"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Inserire qui la (le) madrelingua(e), ad es.:<blockquote>Italiano</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Specificate il Vostro obiettivo professionale o il settore di occupazione, ad es.: <blockquote> Gestore e amministratore base dati </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Indicare qualsiasi altra informazione che ritenete importante (pubblicazioni o ricerche; appartenenza ad enti professionali, informazioni sulla Vostra posizione militare [se volete specificare che avete assolto gli obblighi militari], stato civile [se lo ritenete importante], persone di contatto o di riferimento [nome, titolo professionale, indirizzo, v. nota in basso]), ad es.: <blockquote> <b>Pubblicazione</b> <br/> Articolo: caratterizzazione molecolare di una cellula cerebrale trattata con H3o, Immunology Quarterly, New York, 02/2002 </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Indicate altre capacità e competenze importanti e che non sono già state citate (hobby; sport, posizioni di responsabilità in enti di volontariato), ad es.: <blockquote> Trekking </blockquote> Specificare in che contesto sono state acquisite (formazione, lavoro, seminari, volontariato, nel tempo libero, ecc.)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Indicate se possedete una patente di guida e per quale categoria di veicoli, ad es.: <blockquote> B </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Indicate le Vostre capacità e competenze artistiche importanti (musica; scrittura; disegno, ecc.) ad es.: <blockquote> Falegnameria </blockquote> Specificare in che contesto sono state acquisite (formazione, lavoro, seminari, volontariato, nel tempo libero, ecc.)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "indicate il nome (e, ove necessario, l'indirizzo) e il tipo di istituto frequentato, ad es.: <blockquote>Istituto professionale Leonardo da Vinci <br />Via Milano 12 <br />I-00195 Roma <br /></blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Indicate il nome e l'indirizzo del datore di lavoro, ad es.: <blockquote>SMAP S.r.l., Via Milano 12, I-00195 Roma </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Indicate il tipo di attività o settore del datore di lavoro, ad es.: <blockquote> Trasporti e logistica </blockquote> <b>o</b> <blockquote> Auditing </blockquote> <b>o</b> <blockquote> Produttore di pezzi di autoveicoli </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Indicate il(i) Vostro(i) indirizzo(i) postale(i) completo(i) al quale desiderate venir contattati, ad es.: <blockquote>Via Milano, 11, I-00195 Roma </blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Indicate il Vostro(i) nome(i), ad es.: <blockquote> Giovanni Battista </blockquote> conformemente alle consuetudini del Vostro paese"
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Indicate il Vostro titolo professionale o il tipo della Vostra attività, ad es.: <blockquote> Meccanico, tecnico addetto alla manutenzione, receptionist </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Indicate il Vostro(i) cognome(i), ad es.: <blockquote> ROSSI </blockquote> conformemente alle consuetudini del Vostro paese"
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Sintetizzate le principali materie o competenze professionali erogate durante il corso in questione, raggruppandole eventualmente per brevità, ad es.: <br/> <b>Generale</b> <blockquote> </blockquote> <blockquote> Educazione fisica e sport </blockquote> <b>Professionale</b> <blockquote> Italiano, matematica, lingua straniera (inglese) </blockquote> <blockquote> scienza applicata al cibo e alle attrezzature (microbiologia, biochimica, igiene) </blockquote> <blockquote> tecnologia professionale (principi base, igiene e sicurezza) </blockquote> <blockquote> conoscenza dell'attività e della relativa economia, contesto giuridico e sociale </blockquote>"
+
+#~ msgid "The CV was created."
+#~ msgstr "Il CV è stato creato."
+
+#~ msgid "The CV was deleted."
+#~ msgstr "Il CV è stato cancellato."
+
+#~ msgid "The CV was uploaded."
+#~ msgstr "Il CV è stato caricato."
+
+#~ msgid "The photo was uploaded"
+#~ msgstr "La foto è stata caricata."
+
+#~ msgid "The submitted file was refused because it does not look like an HR-XML Candidate document."
+#~ msgstr "Il file caricato è stato rifiutato perché non sembra un documento HR-XML Candidate."
+
+#~ msgid "The submitted file was refused because it does not specify a known language."
+#~ msgstr "Il file caricato è stato rifiutato perché non specifica un linguaggio conosciuto."
+
+#~ msgid "The submitted file was refused because it does not specify a language. Please append attribute xml:lang to the root element (\"Candidate\")."
+#~ msgstr "Il file caricato è stato rifiutato perché non specifica un linguaggio. Vi preghiamo di aggiungere l’attributo xml:lang all’elemento root (\"Candidate\")."
+
+#~ msgid "To"
+#~ msgstr "A"
+
+#~ msgid "Upload:"
+#~ msgstr "Caricare :"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Indicate la durata del periodo in cui avete svolto l'attività in questione, ad es.: <blockquote> Da marzo 1994 a dicembre 1999 </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "indicate l'esatto titolo della qualifica ottenuta, ad es.: <blockquote> Livello 2: Panettiere </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Indicate il(i) Vostro(i) indirizzo(i) e-mail completo(i), specificando se è il Vostro indirizzo personale o professionale, ad es.: <blockquote> bragov@whaoo.com </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Indicate il Vostro(i) numero(i) di fax, usando gli stessi criteri previsti per il(i) telefono(i), ad es.: <blockquote> 0845 120 30 46 </blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Indicate il numero del Vostro cellulare, usando gli stessi criteri previsti per il telefono fisso, ad es.: <blockquote> 347 440 11 05 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Indicate la(e) Vostra(e) cittadinanza, ad es.: <blockquote> Italiana </blockquote>"

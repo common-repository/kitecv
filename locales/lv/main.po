@@ -1,0 +1,624 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr "Adrese"
+
+msgid "Annexes"
+msgstr "Pielikumi"
+
+msgid "Artistic skills and competences"
+msgstr "Mākslinieciskas prasmes"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr "Datora lietošanas prasmes"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Dzimšanas datums"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Vēlamā nodarbošanās/ profesionālā joma"
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr "Vadītāja apliecība"
+
+msgid "E-mail(s)"
+msgstr "E-pasts"
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr "Izglītība"
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "S"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Fakss"
+
+msgid "First name(s)"
+msgstr "Vārds"
+
+msgid "Gender"
+msgstr "Dzimums"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>NB:</b> <br/> Ja Jums ir vairāki uzvārdi, pirmo rakstiet to, kuru lietojat biežāk"
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr "Līmenis nacionālajā vai starptautiskajā klasifikācijas sistēmā"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Līmenis nacionālajā vai starptautiskajā klasifikācijas sistēmā"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Klausīšanās"
+
+msgid "M"
+msgstr "V"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Galvenie pienākumi"
+
+msgid "Master data for"
+msgstr ""
+
+#, fuzzy
+msgid "More information at"
+msgstr "Personas dati"
+
+msgid "Mother tongue(s)"
+msgstr "Dzimtā(s) valoda(s)"
+
+msgid "Name and address of employer"
+msgstr "Darba vietas nosaukums un adrese"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Izglītības iestādes nosaukums un veids"
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr "Pilsonība"
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Profesija vai ieņemamais amats"
+
+msgid "Occupation or position held"
+msgstr "Profesija vai ieņemamais amats"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Organizatoriskas prasmes"
+
+msgid "Other competences"
+msgstr ""
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Dzimtā(s) valoda(s)"
+
+msgid "Other skills and competences"
+msgstr "Citas prasmes"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Personas dati"
+
+msgid "Personal skills and competences"
+msgstr "Prasmes"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Prasmes"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Prasmes"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Galvenie mācību priekšmeti / iegūtās profesionālās prasmes"
+
+msgid "Public URL:"
+msgstr ""
+
+#, fuzzy
+msgid "Reading"
+msgstr "Sapratne"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Sociālās prasmes"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Dialogs"
+
+msgid "Spoken production"
+msgstr "Monologs"
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Uzrakstiet tālruņa numuru(s), pa kuru vēlaties tikt sazvanīts, <br />ja nepieciešams, norādiet dienas un laiku, kad esat sazvanāms (tā lai ar Jums būtu iespējams ātri kontaktēties), piemēram, <blockquote>Fiksētais: 0845 120 30 45 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Norādiet savus galvenos darba pienākumus, piemēram, <blockquote> Datoru apkope </blockquote> <b>vai</b> <blockquote> Sadarbība ar piegādātājiem </blockquote> <b>vai</b> <blockquote> Parku un dārzu uzkopšana </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Uzvārds"
+
+msgid "Technical skills and competences"
+msgstr "Tehniskas prasmes"
+
+msgid "Telephone(s)"
+msgstr "Tālrunis"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Tālrunis"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr "Piešķirtā izglītības dokumenta nosaukums / Piešķirtā kvalifikācija"
+
+msgid "Type of business or sector"
+msgstr "Nozare"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Sapratne"
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr "Darba pieredze"
+
+msgid "Writing"
+msgstr "Rakstīšana"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Fotogrāfijas pievienošana CV nav būtiski nepieciešama, izņemot gadījumus, kad to pieprasa darba devējs; </li> <li> Ieteicamais formāts: jpg </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Neuzrādiet kontaktpersonas adresi bez atļaujas; ir vēlams norādīt 'Atsauksmes pēc pieprasījuma', lai nepārblīvētu CV; </li> <li> Kur nepieciešams, dodiet savu publikāciju un zinātniskos darbu sarakstu, norādot konkrētā dokumenta veidu (bakalaura darbs, raksts, pārskats utt.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Ja piesakāties darbam pirmo reizi mūžā, neaizmirstiet norādīt mācību prakses vietas, kurās iepazināties ar darba dzīvi; </li> <li> Ja Jūsu darba pieredze ir neliela (nesen esat absolvējis(-usi) izglītības iestādi), vispirms aprakstiet savu izglītību; </li> <li> Nesniedziet lieku informāciju, miniet tikai to darba pieredzi, kas attiecas uz Jūsu pieteikumam un palielina tā vērtību. Arī tāda pieredze, kas nav tieši saistīta ar amatu, kuram piesakāties, var būt vērtīga (piemēram, uzturēšanās ārzemēs, darbs, kurā kontaktējāties ar klientiem utt.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Ja sūtat CV uz ārzemēm, pie tālruņa numura iekavās norādiet valsts un reģiona kodu. Šos divus kodus savienojiet ar defisi, piemēram, (44-20) 80 12 34 56 tālruņa numuram Londonā; </li> <li> Sadaliet tālruņa numura ciparus grupās pa divi, sākot no labās puses, atstājot pēdējā grupā trīs ciparus, ja numurā ir nepāra ciparu skaits (grupas atdaliet ar atstarpi, nevis punktu), piemēram, (351-1) 220 20 20 tālruņa numuram Dublinā. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>NB:</b> <ul> <li> Uzskatāmības labad pievienotos dokumentus sakārtojiet loģiskā secībā (piemēram, salieciet kopā izglītības dokumentus, numurējot tos, ja nepieciešams); </li> <li> Nekad nesūtiet dokumentu oriģinālus, jo tie var pazust, pilnīgi pietiekami ir nosūtīt kopijas. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>NB:</b> <ul> <li> Skaidri norādiet adresi, kur var visātrāk sazināties ar Jums. Ja pašlaik nedzīvojat savā pastāvīgajā dzīvesvietā, bet citur, uzrādiet abas adreses, norādot laiku, kad atrodaties vienā un kad otrā vietā; </li> <li> Adreses rakstības kārtība dažādās valstīs var būt atšķirīga, tāpēc ievērojiet noteikumus, lai pasta sūtījums tiktu ātri nogādāts, neaizmirsiet norādīt pasta indeksu, ja piesakieties darbam ārzemēs (skatīt CV paraugu); </li> <li> Ja rakstāt uz Īriju, Apvienoto Karalisti un Nīderlandi obligāti norādiet pilnu valsts nosaukumu: </li> </ul> <blockquote> Dublin 2 <br/> Ireland </blockquote> <blockquote> London SW1P 3AT <br/> United Kingdom </blockquote> <blockquote> 2500 EA Den Haag <br/> Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>NB:</b> <br />Apvienojiet mācību priekšmetus un akcentējiet tās profesionalās prasmes, kuras varētu noderēt darbam."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>NB:</b> <br />Ja nepieciešams, precizējiet šos pienākumus, norādot, cik daudz procentuāli no darba laika tiem veltīji"
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>NB:</b> <br />Ja nepieciešams, norādiet papildu informāciju (tālruni, faksu, e-pasta vai interneta adresi), piemēram, <ul> <li> Tel.: (371) 722 11 40 - Fakss (371) 721 23 45 </li> <li> E-pasts: janis@amatnieks.lv </li> <li> Internets: http://www.amatnieks.lv </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>NB:</b> <br />Šis ieraksts dod ātru ieskatu Jūsu profesionālajā raksturojumā, pievēršot uzmanību pamatprasmēm un kompetencēm."
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>NB:</b> <br />Nelietojiet savus saīsinājumus, piemēram, PVI"
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>NB:</b> <br />Ja nepieciešams, lūdziet informāciju iestādei, kas izdevusi izglītības dokumentu. <br />Vairāk informācijas par UNESCO izstrādāto ISCED (Starptautiskā standartizētā izglītības klasifikācija) var saņemt: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>NB:</b> <br/> Ja Jums ir vairāki vārdi, pirmo rakstiet to, kuru lietojat biežāk"
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr "<b>NB:</b><br />Ja kopš bērnības lietojat vairāk nekā vienu valodu un šīs valodas pilnībā pārvaldāt, norādiet tās visas kā dzimtās valodas."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Runāšana</b> <blockquote>Dialogs </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Es varu vienkāršā veidā sazināties, ja sarunu biedrs teikto var lēnām atkārtot vai pateikt citiem vārdiem un palīdz man formulēt to, ko es cenšos pasacīt. Es varu uzdot vienkāršus jautājumus un atbildēt uz tiem par man ļoti labi zināmām tēmām. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Es varu sazināties ikdienišķās situācijas, kur notiek vienkārša informācijas apmaiņa par man zināmiem tematiem vai darbībām. Es varu iesaistīties ļoti īsā sarunā par sadzīviskiem jautājumiem, tomēr mana valodas prasme ir nepietiekama, lai patstāvīgi veidotu dialogu. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Es spēju ārzemju ceļojuma laikā sazināties situācijās, kur nepieciešams runāt. Es varu bez iepriekšējas sagatavošanās iesaistīties sarunā par man zināmiem vai mani interesējošiem, kā arī ar ikdienas dzīvi saistītiem tematiem (piemēram, \"ģimene\", \"vaļasprieks\", \"darbs\", \"ceļošana\", \"jaunākie notikumi\"). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Es varu diezgan brīvi un bez sagatavošanās sazināties ar dzimtās valodas runātājiem. Es varu aktīvi piedalīties diskusijās par man zināmām problēmām, pamatojot un aizstāvot savu viedokli. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Es varu veikli un brīvi izteikties, piemērotus vārdus un izteicienus īpaši nemeklējot. Es protu prasmīgi lietot valodu gan ikdienas situācijās, gan darba vajadzībām. Es protu precīzi formulēt savas domas un uzskatus un prasmīgi uzturēt sarunu. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Es varu bez grūtībām piedalīties jebkurā sarunā vai diskusijā, labi pārzinu idiomātiskus izteicienus un sarunvalodas vārdus. Es varu runāt pilnīgi brīvi un precīzi izteikt smalkas nozīmes nianses. Ja valodas lietojumā man rodas grūtības, es protu tik veikli pārveidot sacīto, ka citi to nemana. </li> </ul>"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Runāšana</b> <blockquote>Monologs </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Es varu vienkāršos teikumos pastāstīt par savu dzīvesvietu un cilvēkiem, kurus pazīstu. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Es varu vienkāršos teikumos pastāstīt par savu ģimeni un citiem cilvēkiem, dzīves apstākļiem, savu izglītību un pašreizējo vai iepriekšējo darbu. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Es protu veidot un saistīt kopā izteikumus, lai pastāstītu par pieredzēto un dažādiem notikumiem, saviem sapņiem, cerībām un vēlmēm. Es varu īsi pamatot un paskaidrot savus uzskatus un nodomus. Es varu izstāstīt stāstu, izklāstīt grāmatas vai filmas saturu un izteikt par to savu attieksmi. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Es varu sniegt skaidru un detalizētu dažādu tēmu izklāstu, kas ietilpst manā interešu lokā. Es varu pamatot savus uzskatus par apspriežamo jautājumu, izvērtējot atšķirīgos viedokļus. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Es varu sniegt skaidru un vispusīgu sarežģītu tēmu izklāstu, iekļaut tajā pakārtotus jautājumus, izvērst atsevišķas tēzes un nobeigt ar atbilstošiem secinājumiem. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Es varu pilnīgi brīvi, skaidri un argumentēti, konkrētajai situācijai atbilstošā veidā sniegt kādas tēmas izklāstu. Es protu veidot savu stāstījumu tā, lai klausītājam būtu vieglāk uztvert un iegaumēt nozīmīgākos jautājumus. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Sapratne</b> <blockquote>Klausīšanās </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Es saprotu pazīstamus vārdus un ļoti vienkāršas frāzes, kad lēni un skaidri runā par mani, manu ģimeni un tuvāko apkārtni. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Es saprotu atsevišķas frāzes un biežāk lietotos vārdus izteikumos , kam saistība ar mani (piemēram, vienkāršu informāciju par sevi un ģimeni, iepirkšanos, dzīvesvietu, darbu). Es varu uztvert galveno domu, īsos, vienkāršos un skaidri izrunātos paziņojumos, sludinājumos. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Es saprotu galveno saturu skaidrā un literāri pareizā runā par man pazīstamām tēmām, ar kurām es saskaros darbā, skolā, brīvajā laikā utt. Es saprotu radio un televīzijas raidījumu saturu tad, kad samērā lēni un skaidri runā par aktuāliem notikumiem vai tematiem, kuri mani interesē personīgi vai profesionāli. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Es varu saprast garāku runu un lekcijas, sekot līdzi pat sarežģītai argumentācijai, ja temats ir pietiekami pazīstams. Es saprotu vairumu TV ziņu un ikdienas jaunumu pārraižu. Es saprotu gandrīz visas filmas literārā runā. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Es varu saprast garāku runu arī tad, ja tai nav skaidra uzbūve un ir vāji izteiktas loģiskās sakarības. Es bez pūlēm saprotu televīzijas raidījumus un filmas. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Es bez grūtībām saprotu jebkuru runas veidu - gan tiešā saziņā teikto, gan pārraidīto pat tad, ja ātrā tempā runā dzimtās valodas lietotājs. Es varu saprast runātājus ar dažādām izrunas īpatnībām. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Sapratne</b> <blockquote>Lasīšana </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: Es saprotu pazīstamus vārdus un nosaukumus, kā arī ļoti vienkāršus teikumus, piemēram, plakātos, paziņojumos, katalogos. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: Es varu izlasīt ļoti īsus un vienkāršus tekstus. Es varu sameklēt konkrētu informāciju vienkāršos, ar ikdienas dzīvi saistītos tekstos: sludinājumos, reklāmizdevumos, ēdienkartēs, sarakstos. Es varu saprast īsas un vienkāršas privātās vēstules. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: Es saprotu tekstus, kuros izmantota ikdienā bieži lietota vai ar manu darbu saistīta valoda. Es varu saprast privātajās vēstulēs aprakstītos notikumus, izjūtas un vēlmes. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: Es varu izlasīt pārskatus un rakstus par aktuālām problēmām, kuros autors pauž noteiktu attieksmi vai viedokli. Es varu saprast mūsdienu prozas darbus. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: Es varu saprast garus un sarežģītus dažāda tipa tekstus, izprotot stila atšķirības. Es varu saprast speciālos rakstus un garākas tehniskās instrukcijas, pat tad, ja tās neattiecas uz manu darbības jomu. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: Es bez grūtībām varu izlasīt dažāda tipa, uzbūves vai valodas ziņā sarežģītus tekstus: rokasgrāmatas, speciālos rakstus, literāros darbus. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Kas tās ir?</b> <br />Datora lietošanas prasmes ir prasmes lietot datora programmas, datorizētas datu bāzes un internetu, kā arī paaugstināta līmeņa prasmes (piemēram, programmēšana). <br /><b>NB:</b> <ul> <li> Datora lietošanas prasmes un iemaņas var novērtēt un starptautiski atzīt ar Eiropas datoru lietošanas apliecību (European computer driving licence (ECDL)), kas ir starptautiski atzīts prasmju apliecinājums, ka apliecības īpašniekam ir labas nepieciešamās zināšanas un prasmes izplatītāko datorprogrammu lietošanai. </li> <li> Papildu informāciju par ECDL meklējiet: www.ecdl.com/main/region_eur.php </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Kas tās ir?</b> <br />Organizatoriskās prasmes ir prasmes koordinēt un vadīt cilvēkus, projektu, budžetu darba vietā, brīvprātīgo darbā (piemēram, kultūrā vai sportā), mājās utt."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Kas tās ir?</b> <br />Sociālās prasmes ir prasmes sadzīvot un sastrādāties ar citiem cilvēkiem amatos, kuros savstarpējai saskarsmei ir liela nozīme, situācijās, kad ļoti svarīgs ir komandas darbs (piemēram, kultūrā un sportā), daudzkultūru vidē utt."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Kas tās ir?</b> <br />Tehniskas prasmes ir prasmes lietot dažāda veida iekārtas, mehānismus (izņemot datorus) vai speciālas tehniskas prasmes kādā noteiktā nozarē (rūpnieciskajā ražošanā, veselības aprūpē, banku sektorā utt)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Rakstīšana</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Es protu uzrakstīt īsu vienkāršu tekstu, piemēram, apsveikuma pastkarti. Es protu aizpildīt veidlapas ar personas datiem, piemēram, ierakstīt savu vārdu, pilsonību un adresi viesnīcas reģistrācijas veidlapā. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Es varu uzrakstīt īsas zīmītes un vienkāršas paziņojumus. Es protu uzrakstīt ļoti vienkāršu vēstuli, piemēram, lai izteikt kādam pateicību. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Es protu uzrakstīt vienkāršu, saistītu tekstu par jautājumiem, kas skar manu interešu loku. Es varu uzrakstīt vēstuli, aprakstot tajā savus pārdzīvojumus un iespaidus. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Es varu uzrakstīt skaidru, detalizētu tekstu par dažādiem jautājumiem, kas skar manu interešu loku. Es varu uzrakstīt eseju vai ziņojumu, dot rakstisku informāciju, kā arī argumentēt vienu vai otru viedokli. Es protu uzrakstīt vēstules, izceļot man nozīmīgākos notikumus un iespaidus. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Es protu skaidri un loģiski uzrakstīt savas domas, izteikt savu viedokli. Es varu uzrakstīt vēstuli, eseju vai ziņojumu par sarežģītiem jautājumiem, izceļot to, ko es uzskatu par nozīmīgu un svarīgu. Es protu rakstīt konkrētam lasītājam piemērotā stilā. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Es protu uzrakstīt skaidru, loģisku tekstu atbilstošā stilā. Es varu uzrakstīt sarežģītas vēstules, referātus vai rakstus tā, lai lasītājam būtu viegli pamanīt un atcerēties svarīgākās vietas. Es varu uzrakstīt pārskatus un recenzijas gan par literāriem, gan speciālās literatūras darbiem. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Sniedzot ziņas par iegūto izglītību, aizpildiet zemāk esošās iedaļas, un sāciet ar jaunākajiem datiem.Saglabājiet katru ierakstu, uzklikšķinot uz \"Saglabāt\". </p> <p><b>Atgādinājums:</b> Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Sniedziet ziņas par valodām, kuras protat: </p> <ol> <li><b>Dzimtā valoda:</b> ierakstiet savu dzimto valodu </li> <li><b>Citas valodas:</b> reģistrējot valodu, kuru Jūs protat, ierakstiet tās nosaukumu, aizpildiet līmeņu ailes un uzklikšķiniet uz \"Saglabāt\". <br /><br />Lai labotu ierakstu, uzklikšķiniet uz atbilstošo nosaukumu tabulā \"Jūsu svešvalodu saraksts\" </li> </ol> <p><b>Atgādinājums: </b>Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Sniedzot ziņas par savām prasmēm, aizpildiet zemāk esošās iedaļas. </p> <p><b>Atgādinājums:</b> Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Sniedzot ziņas par savu darba pieredzi, aizpildiet zemāk esošās iedaļas un sāciet ar jaunākajiem datiem. Saglabājiet katras pieredzes aprakstu, uzklikšķinot uz \"Saglabāt\". </p> <p><b>Atgādinājums:</b> Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Ierakstiet attiecīgo papildu informāciju un/vai pielikumā pievienoto dokumentu sarakstu. </p> <p><b>Atgādinājums:</b> Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Ierakstiet vēlamo profesiju/ nodarbošanās jomu. </p> <p><b>Atgādinājums:</b> Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Ierakstiet savus personas datus. </p> <p><b>Atgādinājums:</b> Neaizpildītas iedaļas automātiski tiks izdzēstas. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???lv_LV./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Papildu informācija"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Papildu informācija un pielikumi"
+
+#~ msgid "Basic User"
+#~ msgstr "Pamatlīmenis"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Aprakstiet savas datorlietošanas prasmes, piemēram, <blockquote> labas iemaņas darbā ar Microsoft Office™ programmām (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> pamatzināšanas par grafiskā dizaina programmām (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Aprakstiet savas organizatoriskās prasmes, piemēram, <blockquote> vadītāja iemaņas (pašlaik vadu 10 cilvēku grupu); </blockquote> <blockquote> spēja organizēt, plānot (pieredze loģistikā); </blockquote> <blockquote> pieredze projektu vai darba grupu vadīšanā; </blockquote> Norādiet veidu, kā tās ieguvāt (mācībās vai darbā, semināros, brīvprātīgo darbā vai brīvā laika nodarbībās)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Aprakstiet savas sociālās prasmes, piemēram, <blockquote> Spēja strādāt komandā; </blockquote> <blockquote> Labas spējas pielāgoties daudzkultūru videi, kas iegūtas, strādājot ārzemēs; </blockquote> <blockquote> Labas saskarsmes prasmes, kas iegūtas, strādājot par pārdošanas menedžeri. </blockquote> Norādiet veidu, kā tās ieguvāt (mācībās vai darbā, semināros, brīvprātīgo darbā vai brīvā laika nodarbībās)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Aprakstiet savas tehniskās prasmes, piemēram, <blockquote> Labas zināšanas par kvalitātes kontroles procesu (es biju atbildīgs par kvalitātes pārbaudes nodrošināšanu savā nodaļā); </blockquote> <blockquote> Norādiet veidu, kā tās ieguvāt (mācībās vai darbā, semināros, brīvprātīgo darbā vai brīvā laika nodarbībās). </blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Ierakstiet valodu"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Norādiet savu dzimto(-ās) valodu(-as)"
+
+#~ msgid "From"
+#~ msgstr "No"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Uzrakstiet savu dzimšanas datumu (dd/mm/gggg), piemēram, <blockquote> 02.04.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Ja iegūtā izglītība atbilst kādam noteiktam līmenim nacionālajā vai starptautiskajā klasifikācijā, uzrādiet to (LR Izglītības klasifikācija, ISCED), piemēram, <blockquote> ISCED 4 </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Vidējais līmenis"
+
+#~ msgid "Language(s)"
+#~ msgstr "Valodas"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobilais tālrunis"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Citas valodas - Pašnovērtējums"
+
+#~ msgid "Photograph"
+#~ msgstr "Fotogrāfija"
+
+#~ msgid "Proficient user"
+#~ msgstr "Augstākais līmenis"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Norādiet savu dzimto(-ās) valodu(-as), piemēram,<blockquote>Latviešu </blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Norādiet vēlamo profesiju vai nodarbošanās jomu, piemēram, <blockquote> Datubāzes administrators </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Sniedziet vēl citu, pēc Jūsu domām, nepieciešamu informāciju (publikācijas vai zinātniskos darbus, dalību profesionālās organizācijās, attiecības ar militāro dienestu [Ja uzskatāt, ka ir svarīgi norādīt, ka esat bijis dienestā], ģimenes stāvokli [Ja uzskatāt, ka to ir svarīgi norādīt], kontaktpersonas vai atsauksmju devējus [vārds, ieņemamais amats, kontaktadrese, skatīt piezīmi zemāk]), piemēram, <blockquote> <b>Publikācijas</b> <br/> Raksts: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Norādiet citas konkrētajam gadījumam atbilstošas prasmes, kuras netika minētas iepriekš (hobiji, sports, pienākumi brīvprātīgo organizācijās), piemēram, <blockquote> Ceļošana </blockquote> Norādiet veidu, kā tās ieguvāt (mācībās vai darbā, semināros, brīvprātīgo darbā vai brīvā laika nodarbībās)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Norādiet, vai Jums ir vadītāja apliecība, ja ir - kurai transporta līdzekļa kategorijai, piemēram, <blockquote> B kategorija </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Aprakstiet tās savas mākslinieciskās prasmes, kurām varētu būt nozīme konkrētajā gadījumā (mūzika, rakstniecība, dizains), piemēram, <blockquote> Galdniecība </blockquote> Norādiet veidu, kā tās ieguvāt (mācībās vai darbā, semināros, brīvprātīgo darbā vai brīvā laika nodarbībās)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Norādiet izglītības iestādes nosaukumu un veidu (ja nepieciešams arī adresi), piemēram, <blockquote> Rīgas profesionālā vidusskola <br/> Brīvības 123, <br/> Rīga, LV 1050 <br/> </blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Norādiet darba vietas nosaukumu un adresi, piemēram, <blockquote> SIA \"Alveja\", Rīgas iela 2, Cēsis, LV 4201 </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Norādiet darbības jomu vai veidu, piemēram, <blockquote> Transports un loģistika </blockquote> <b>vai</b> <blockquote> Audits </blockquote> <b>vai</b> <blockquote> Automobiļu detaļu ražošana </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Norādiet pilnu pasta adresi, kur vēlaties saņemt korespondenci, piemēram, <blockquote>Elizabetes 10, Rīga, LV-1010</blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Uzrakstiet savu vārdu(-us), piemēram, <blockquote> Jānis Verners </blockquote> saskaņā ar Jūsu valstī pieņemtajiem noteikumiem."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Norādiet profesijas vai ieņemamā amata nosaukumu, piemēram, <blockquote> Mehāniķis, tehniķis, administrators </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Uzrakstiet savu uzvārdu, piemēram, <blockquote>KALNIŅŠ </blockquote>saskaņā ar Jūsu valstī pieņemtajiem noteikumiem."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Apkopojiet apgūtos mācību priekšmetus vai profesionālās prasmes, ja nepieciešams sagrupējot, lai teksts būtu īsāks, piemēram, <br/> <b>Vispārizglītojošie</b> <blockquote> Latviešu valoda, matemātika, svešvaloda (spāņu) </blockquote> <blockquote> Fiziskā audzināšana un sports </blockquote> <b>Profesionālie</b> <blockquote> profesionālās iemaņas (standarta maizes, smalkmaizīšu, kūku un citu konditorejas izstrādājumu izgatavošana) </blockquote> <blockquote> ar pārtikas ražošanu saistītās zinātnes (mikrobioloģija, bioķīmija, higiēna) </blockquote> <blockquote> darba tehnoloģijas (pamatprincipi, higiēna un darba drošība) </blockquote> <blockquote> ekonomikas un biznesa pamati </blockquote>"
+
+#~ msgid "To"
+#~ msgstr "Līdz"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Uzrādiet laika periodu, kurā Jūs ieņēmāt minēto amatu, piemēram, <blockquote> No 1994.gada marta līdz 1999.gada decembrim </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Uzrakstiet precīzu piešķirtās kvalifikācijas nosaukumu, piemēram, <blockquote> Diploms par profesionālo vidējo izglītību ar piešķirtu kvalifikāciju 'konditors', kas atbilst trešajam profesionālās kvalifikācijas līmenim. </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Uzrakstiet savu e-pasta adresi ar norādi, vai tā ir privātā vai darba adrese, piemēram, <blockquote> bragov@whaoo.com </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Uzrakstiet savu faksa numuru tādā pašā veidā kā telefona numuru, piemēram, <blockquote> 0845 120 30 46 </blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Uzrakstiet savu mobilā telefona numuru tādā pašā veidā kā fiksētā tālruņa numuru, piemēram, <blockquote> 6945 120 30 46 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Norādiet savu pilsonību(-as), piemēram, <blockquote> Latvijas </blockquote>"

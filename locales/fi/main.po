@@ -1,0 +1,624 @@
+# Translations for KiteCV.
+# Copyright (C) 2007 Les Développements Durables
+# This file is distributed under the same license as the KiteCV package.
+# Sébastien Ducoulombier <seb@ldd.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KiteCV 0.3\n"
+"Report-Msgid-Bugs-To: kite-translations@ldd.fr\n"
+"POT-Creation-Date: 2008-01-04 17:04+0100\n"
+"PO-Revision-Date: 2007-02-11 15:02+0100\n"
+"Last-Translator: Sébastien Ducoulombier <seb@ldd.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(*) Common European Framework of Reference (CEF) level"
+msgstr ""
+
+msgid "(Blank in master CV)"
+msgstr ""
+
+msgid "(No country specified)"
+msgstr ""
+
+msgid "(No language specified)"
+msgstr ""
+
+msgid "(Not supported in your browser)"
+msgstr ""
+
+msgid "(none to add from the master data form)"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""
+
+msgid "Access code:"
+msgstr ""
+
+msgid "Add a competency"
+msgstr ""
+
+msgid "Add a degree"
+msgstr ""
+
+msgid "Add a fax number"
+msgstr ""
+
+msgid "Add a line"
+msgstr ""
+
+msgid "Add a mother tongue"
+msgstr ""
+
+msgid "Add a nationality"
+msgstr ""
+
+msgid "Add a new view"
+msgstr ""
+
+msgid "Add a telephone number"
+msgstr ""
+
+msgid "Add a work experience"
+msgstr ""
+
+msgid "Add an address"
+msgstr ""
+
+msgid "Add an annexe"
+msgstr ""
+
+msgid "Add an email address"
+msgstr ""
+
+msgid "Add an information"
+msgstr ""
+
+msgid "Add another language"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address(es)"
+msgstr "Osoitteet"
+
+msgid "Annexes"
+msgstr "Liitteet"
+
+msgid "Artistic skills and competences"
+msgstr "Taiteelliset taidot"
+
+msgid "CV"
+msgstr ""
+
+msgid "City, town, village or hamlet"
+msgstr ""
+
+msgid "Click here to download instructions for filling in this form"
+msgstr ""
+
+msgid "Computer skills and competences"
+msgstr "Tietotekniset taidot"
+
+msgid "Country"
+msgstr ""
+
+msgid "Date of birth"
+msgstr "Syntymäaika"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desired employment / Occupational field"
+msgstr "Haettu työpaikka/ammattiala"
+
+msgid "Display the photo"
+msgstr ""
+
+msgid "Driving licence(s)"
+msgstr "Ajokortti"
+
+msgid "E-mail(s)"
+msgstr "Sähköposti(t)"
+
+msgid "Education"
+msgstr ""
+
+msgid "Education and training"
+msgstr "Yleissivistävä ja ammatillinen koulutus"
+
+msgid "Enable new export"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Europass Curriculum Vitae"
+msgstr ""
+
+msgid "European Level (*)"
+msgstr ""
+
+msgid "F"
+msgstr "N"
+
+#, fuzzy
+msgid "Fax(es)"
+msgstr "Faksinumero"
+
+msgid "First name(s)"
+msgstr "Etunimi (-nimet)"
+
+msgid "Gender"
+msgstr "Sukupuoli"
+
+msgid "HR-XML is the native format of KiteCV, and a standard exchange format within human resource management tools."
+msgstr ""
+
+msgid "Here you can upload a photo of yourself to be included on the top-right corner of your CV."
+msgstr ""
+
+#, fuzzy
+msgid "If you have more than one surname, start with the one you usually use."
+msgstr "<b>Huom:</b> <br/> Jos sukunimiä on useampia, käytössä oleva nimi sijoitetaan ensimmäiseksi."
+
+msgid "Languages"
+msgstr ""
+
+msgid "Level in national or international classification"
+msgstr "Koulutuksen taso kansallisessa taikansainvälisessä luokituksessa"
+
+#, fuzzy
+msgid "Level in national or international classification (optional)"
+msgstr "Koulutuksen taso kansallisessa taikansainvälisessä luokituksessa"
+
+msgid "Level name, code or number"
+msgstr ""
+
+msgid "Link (URL)"
+msgstr ""
+
+msgid "Listening"
+msgstr "Kuuntelu"
+
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgid "Main activities or responsabilities"
+msgstr "Keskeiset tehtävät ja vastuualat"
+
+msgid "Master data for"
+msgstr ""
+
+#, fuzzy
+msgid "More information at"
+msgstr "Henkilötiedot"
+
+msgid "Mother tongue(s)"
+msgstr "Äidinkieli tai -kielet"
+
+msgid "Name and address of employer"
+msgstr "Työnantajan nimi ja osoite"
+
+#, fuzzy
+msgid "Name and type of organization providing education and training"
+msgstr "Oppilaitoksen nimi ja tyyppi"
+
+msgid "Name of this view:"
+msgstr ""
+
+msgid "Nationality(-ies)"
+msgstr "Kansalaisuus (kansalaisuudet)"
+
+msgid "New view name:"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Occupation of position held"
+msgstr "Toimi tai tehtävä"
+
+msgid "Occupation or position held"
+msgstr "Toimi tai tehtävä"
+
+msgid "One may create a view of your CV to target a specific employer or a specific category of job."
+msgstr ""
+
+msgid "OpenDocument Text files can be opened with any modern standards-compliant office suite."
+msgstr ""
+
+msgid "Organisation address"
+msgstr ""
+
+msgid "Organisation name"
+msgstr ""
+
+msgid "Organisational skills and competences"
+msgstr "Organisatoriset taidot"
+
+msgid "Other competences"
+msgstr ""
+
+#, fuzzy
+msgid "Other language(s)"
+msgstr "Äidinkieli tai -kielet"
+
+msgid "Other skills and competences"
+msgstr "Muut tiedot ja taidot"
+
+msgid "PDF documents can be viewed and printed."
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+#, fuzzy
+msgid "Personal Information"
+msgstr "Henkilötiedot"
+
+msgid "Personal skills and competences"
+msgstr "Henkilökohtaiset tiedot ja taidot"
+
+#, fuzzy
+msgid "Personal skills and competences (language part)"
+msgstr "Henkilökohtaiset tiedot ja taidot"
+
+#, fuzzy
+msgid "Personal skills and competences (other parts)"
+msgstr "Henkilökohtaiset tiedot ja taidot"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Postal Code - see"
+msgstr ""
+
+#, fuzzy
+msgid "Principal subjects/occupational skills covered"
+msgstr "Tärkeimmät oppiaineet tai ammattitaidot"
+
+msgid "Public URL:"
+msgstr ""
+
+#, fuzzy
+msgid "Reading"
+msgstr "Ymmärtäminen"
+
+msgid "Reference classification system name"
+msgstr ""
+
+msgid "Self evaluation"
+msgstr ""
+
+msgid "Social skills and competences"
+msgstr "Sosiaaliset taidot"
+
+msgid "Speaking"
+msgstr ""
+
+msgid "Spoken interaction"
+msgstr "Suullinen vuorovaikutus"
+
+msgid "Spoken production"
+msgstr "Suullinen tuottaminen"
+
+msgid "Square image jpeg File:"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+#, fuzzy
+msgid "State the telephone number(s) where you wish to be contacted;&lt;br /&gt; if necessary, give specific days and times when it is possible to reach you (so that you can be contacted quickly), e.g.: &lt;blockquote&gt; Fixed: 0845 120 30 45 &lt;/blockquote&gt;"
+msgstr "Puhelinnumero tai –numerot, joihin toivotaan otettavan yhteyttä, <br/> Tarvittaessa ilmoitetaan päivät ja kellonajat, jolloin tavoittaminen on mahdollista (nopean yhteydenoton mahdollistamiseksi), esim. <blockquote> puhelin: 0845 120 30 45 </blockquote>"
+
+#, fuzzy
+msgid "State your main activities and responsibilities, e.g.: &lt;blockquote&gt; Maintenance of computers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Relations with suppliers &lt;blockquote&gt; &lt;b&gt;or&lt;b&gt; &lt;blockquote&gt; Maintaining parks and gardens &lt;blockquote&gt;"
+msgstr "Keskeiset tehtävät ja vastuualat, esim. <blockquote> Tietokonekannan ylläpito </blockquote> <b>tai</b> <blockquote> yhteydenpito tavarantoimittajiin </blockquote> <b>tai</b> <blockquote> viheralueiden kunnossapito. </blockquote>"
+
+msgid "Surname(s)"
+msgstr "Sukunimi (-nimet)"
+
+msgid "Technical skills and competences"
+msgstr "Tekniset tiedot ja taidot"
+
+msgid "Telephone(s)"
+msgstr "Puhelinnumero(t)"
+
+#, fuzzy
+msgid "Telephone(s) - see"
+msgstr "Puhelinnumero(t)"
+
+msgid "This generation procedure uses the European Union official web services to transform XML to PDF."
+msgstr ""
+
+msgid "Title of qualification awarded"
+msgstr "Tutkinnon nimi"
+
+msgid "Type of business or sector"
+msgstr "Ansiotoiminnan tyyppi tai toimiala"
+
+#, fuzzy
+msgid "Understand"
+msgstr "Ymmärtäminen"
+
+msgid "Upload a photo"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work experience"
+msgstr "Työkokemus"
+
+msgid "Writing"
+msgstr "Kirjoittaminen"
+
+msgid "XHTML document files can be viewed through any modern standards-compliant web browser."
+msgstr ""
+
+msgid "You can download Firefox from"
+msgstr ""
+
+msgid "You can download OpenOffice.org from"
+msgstr ""
+
+msgid "You can generate documents in various formats from bare XML using the European Union's official online tools at"
+msgstr ""
+
+msgid "export of view"
+msgstr ""
+
+msgid "in a weblog post, type"
+msgstr ""
+
+#~ msgid "(A1 )"
+#~ msgstr "(A1)"
+
+#~ msgid "(A2 )"
+#~ msgstr "(A2)"
+
+#~ msgid "(B1 )"
+#~ msgstr "(B1)"
+
+#~ msgid "(B2 )"
+#~ msgstr "(B2)"
+
+#~ msgid "(C1 )"
+#~ msgstr "(C1)"
+
+#~ msgid "(C2 )"
+#~ msgstr "(C2)"
+
+#~ msgid "<b>NB:</b> <ul> <li> A picture is not essential in a CV, unless requested by the employer </li> <li> Format: preferably jpg. </li> </ul>"
+#~ msgstr "<b>Huom:</b> <ul> <li> Valokuva ei ole välttämätön ansioluettelossa, jos työnantaja ei sitä pyydä. </li> <li> liitä kuva mieluiten jpg-muodossa. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> Do not give the address of a contact person without obtaining his/her formal agreement; it is preferable to state ‘References supplied on request’ in order not to overload the curriculum vitae; </li> <li> Where appropriate, provide a brief description of your publications or research; specify the type of document (thesis, article, report, etc.). </li> </ul>"
+#~ msgstr "<b>Huom:</b> <ul> <li> Yhteyshenkilön yhteystietoja ei tule ilmoittaa ilman tämän nimenomaista hyväksyntää. On parempi liittää maininta ”suositukset toimitetaan pyynnöstä”, jotta ansioluettelosta ei tule turhan laaja. </li> <li> Julkaistuista töistä tai tutkimustyöstä toimitetaan tarvittaessa lyhyt kuvaus, jossa mainitaan asiakirjan tyyppi (tutkielma, artikkeli, raportti jne.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you are applying for your first job, do not forget to mention work placements during training which provide evidence of initial contact with the world of work; </li> <li> If your work experience is still limited (because you have just left school or university), describe your education and training first; </li> <li> For the sake of brevity, focus on the work experience that gives added weight to your application. Do not overlook experience which may be an asset even though it is not directly related to the profile of the job for which you are applying (e.g., time spent abroad, work bringing you into contact with the public, etc.); </li> </ul>"
+#~ msgstr "<b>Huom:</b> <ul> <li> Ensimmäistä työpaikkaa haettaessa on syytä muistaa harjoittelujaksot, jotka kertovat ensimmäisestä yhteydestä työelämään. </li> <li> Jos työkokemus on vähäistä (juuri päättyneiden opintojen vuoksi), on syytä kuvata ensin koulutusta. </li> <li> Jotta hakemus olisi ytimekäs, on painotettava työkokemusta, joka tuo hakemukselle lisäarvoa. Sellaisen työkokemuksen mainitsemista ei pidä laiminlyödä, joka voi olla eduksi, vaikka ei olisikaan suorassa yhteydessä toimenkuvaan (oleskelu ulkomailla, työskentely julkisuuden parissa jne.). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> If you wish to send your CV to other countries, give the country prefix and any regional prefix in brackets. These two prefixes should be joined by a hyphen, e.g.: (44-20) 80 12 34 56 for a number in London. </li> <li> Divide the principal number into groups of two from the right-hand side, the last group consisting of three digits if the number is odd (groups are separated by a space, not by a full stop), e.g. (353-1) 220 20 20 for a number in Dublin. </li> </ul>"
+#~ msgstr "<b>Huom:</b> <ul> <li> Jos ansioluettelo toimitetaan eri maasta, ilmoitetaan maanumero ja mahdollinen alanumero suluissa, ja nämä kaksi numeroa yhdistetään toisiinsa yhdysviivalla, esim. (44-20) 80 12 34 56, Lontoon numero. </li> <li> Päänumero jaetaan kahden numeron ryhmiin oikealta lukien. Vasemmanpuoleisessa ryhmässä on kolme numeroa, jos lukuja on pariton määrä (numerot erotetaan toisistaan ohukkeella, ei pisteellä – esim. Dublinin puhelinnumero: (353-1) 220 20 20). </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li> List the items in a logical order (e.g., place degrees or testimonials of employment together, numbering them if required) to help the reader; </li> <li> Never send originals of degree or qualification certificates as these might be lost; photocopies are adequate. </li> </ul>"
+#~ msgstr "<b>Huom:</b> <ul> <li> Lukemisen helpottamiseksi asiakirjat luetteloidaan johdonmukaiseen järjestykseen (esimerkiksi todistukset, työtodistukset jne. ryhmitellään ja tarvittaessa numeroidaan). </li> <li> Älä koskaan lähetä alkuperäisiä todistuksia, koska ne saattavat kadota. Valokopio riittää. </li> </ul>"
+
+#~ msgid "<b>NB:</b> <ul> <li>Show clearly the address at which you can be contacted quickly. If your permanent address is different from where you are living at present, you may write both addresses, stating the dates between which you can be contacted at each;</li> <li>The order in which the items in an address appear may vary from country to country; follow the rules that apply so that post will reach you quickly; do not forget the country code if you are applying abroad (see sample CV);</li> <li>in the case of Ireland, the United Kingdom and the Netherlands, the name of the country is written out in full:</li> </ul> <blockquote> Dublin 2<br/>Ireland </blockquote> <blockquote> London SW1P 3AT<br/>United Kingdom </blockquote> <blockquote> 2500 EA Den Haag<br/>Nederland </blockquote>"
+#~ msgstr "<b>Huom:</b> <ul> <li> On ilmoitettava selvästi sellainen osoite, johon voidaan ottaa yhteyttä kiireellisissä tapauksissa. Jos pysyvä osoite on jokin muu kuin tällä hetkellä käytössä oleva, voidaan ilmoittaa useampia osoitteita ja täsmentää ajanjaksot, jolloin on tavoitettavissa kyseisessä osoitteessa. </li> <li> Koska osoitetietojen järjestys voi vaihdella maittain, on syytä noudattaa voimassa olevia ohjeita, jotta helpotetaan kaiken kirjeenvaihdon nopeaa etenemistä. Maakoodin on oltava mukana, jos hakemus lähetetään ulkomaille (ks. ansioluetteloesimerkki); </li> <li> Irlannin, Yhdistyneen kuningaskunnan ja Alankomaiden nimet kirjoitetaan kokonaisuudessaan: </li> </ul> <blockquote> Dublin 2 <br/> Ireland </blockquote> <blockquote> London SW1P 3AT <br/> United Kingdom </blockquote> <blockquote> 2500 EA Den Haag <br/> Nederland </blockquote>"
+
+#~ msgid "<b>NB:</b><br />Combine items, and focus on the occupational skills which would be an asset if you were appointed."
+#~ msgstr "<b>Huom:</b> <br/> Tarvittaessa tiedot kootaan yhteen lisäämään ytimekkyyttä ja painotetaan niitä ominaisuuksia, jotka edustavat parhaita puolia omassa ehdokkuudessa.."
+
+#~ msgid "<b>NB:</b><br />If necessary, quantify your responsibilities (percentage of working time, length of time spent on each occupation, etc.)."
+#~ msgstr "<b>Huom:</b> <br />Tarvittaessa määritellään vastuullisten tehtävien osuus (prosentuaalinen osuus työajasta, kunkin toimen kesto, jne.)."
+
+#~ msgid "<b>NB:</b><br />If relevant, add more information (telephone, fax, e-mail or internet address), e.g.: <ul> <li> Tel.: (44-31) 123 45 67 - Fax (44-31) 123 45 68 </li> <li> E-mail: J.Robinson@andes.co.uk </li> <li> Website: http://www.anderdobbs.co.uk </li> </ul>"
+#~ msgstr "<b>Huom:</b> <br/> tarvittaessa ilmoitetaan myös lisätietoja (puhelinnumero, faksi, sähköpostiosoite ja Internet-sivusto) esim. <ul> <li> sähköpostiosoite ja Internet-sivusto) esim. </li> <li> sähköposti: J.Robinson@andes.co.uk </li> <li> Internet-sivusto: http://www.anderdobbs.co.uk </li> </ul>"
+
+#~ msgid "<b>NB:</b><br />This entry gives an immediate overview of your profile by focusing on your core competences"
+#~ msgstr "<b>Huom:</b> <br />Tämä kohta antaa selkeän käsityksen toimenkuvaan liittyvistä keskeisistä taidoistasi."
+
+#~ msgid "<b>NB:</b><br />avoid using abbreviations on their own (e.g. NVQ)."
+#~ msgstr "<b>Huom:</b> <br />Pelkkien lyhenteiden (esim. AMKO) käyttöä tulee välttää."
+
+#~ msgid "<b>NB:</b><br />if necessary, ask the body which awarded the qualification. <br />For more information on ISCED (International Standard Classification of Education) devised by UNESCO, consult: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+#~ msgstr "<b>Huom:</b> <br />Tarvittaessa asia tarkistetaan tutkintotodistuksen myöntävästä elimestä. <br />Lisätietoja Unescon kehittämästä ISCED 1997 -luokituksesta (International Standard Classification of Education) on saatavissa osoitteessa: <blockquote>www.uis.unesco.org/TEMPLATE/pdf/isced/ISCED_A.pdf </blockquote>"
+
+#~ msgid "<b>NB:</b><br/> if you have more than one first name, start with the one you usually use."
+#~ msgstr "<b>Huom:</b> <br/> Jos etunimiä on useampia, käytössä oleva nimi sijoitetaan ensimmäiseksi"
+
+#~ msgid "<b>NB</b><br /> If you grew up with more than one language and feel you are equally proficient in all of them, list them all as mother tongues."
+#~ msgstr " <b>Huom:</b><br />Jos kotonasi on käytetty useampaa kuin yhtä kieltä, ja tunnet hallitsevasi ne kaikki yhtä hyvin, merkitse ne kaikki äidinkieliksesi."
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken interaction </blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: I can deal with most situations likely to arise whilst travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. </li> </ul>"
+#~ msgstr "<b>Puhuminen</b> <blockquote>Suullinen vuorovaikutus</blockquote> <ul> <li><a onclick=\"setLevel('spokenInteraction','a1')\" href=\"#\">A1</a>: Selviydyn kaikkein yksinkertaisimmista keskusteluista, jos puhekumppanini on valmis toistamaan sanottavansa tai ilmaisemaan asian toisin, puhumaan tavallista hitaammin ja auttamaan minua muotoilemaan sen, mitä yritän sanoa. Pystyn esittämään yksinkertaisia kysymyksiä ja vastaamaan sellaisiin arkisia tarpeita tai hyvin tuttuja aiheita käsittelevissä keskusteluissa. </li> <li><a onclick=\"setLevel('spokenInteraction','a2')\" href=\"#\">A2</a>: Pystyn kommunikoimaan yksinkertaisissa ja rutiininomaisissa tehtävissä, jotka edellyttävät yksinkertaista ja suoraa tiedonvaihtoa tutuista aiheista ja toiminnoista. Selviydyn hyvin lyhyistä keskusteluista, mutta ymmärrän harvoin kylliksi pitääkseni keskustelua itse yllä. </li> <li><a onclick=\"setLevel('spokenInteraction','b1')\" href=\"#\">B1</a>: Selviydyn useimmista tilanteista, joita syntyy kohdekielisillä alueilla matkustettaessa. Pystyn osallistumaan valmistautumatta keskusteluun aiheista, jotka ovat tuttuja, itseäni kiinnostavia tai jotka liittyvät arkielämään, esimerkiksi perheeseen, harrastuksiin, työhön, matkustamiseen ja ajankohtaisiin asioihin. </li> <li><a onclick=\"setLevel('spokenInteraction','b2')\" href=\"#\">B2</a>: Pystyn viestimään niin sujuvasti ja spontaanisti, että säännöllinen yhteydenpito syntyperäisten puhujien kanssa on mahdollista ilman että kumpikaan osapuoli kokee sen hankalaksi. Pystyn osallistumaan aktiivisesti tutuista aihepiireistä käytävään keskusteluun, esittämään näkemyksiäni ja puolustamaan niitä. </li> <li><a onclick=\"setLevel('spokenInteraction','c1')\" href=\"#\">C1</a>: Pystyn ilmaisemaan itseäni sujuvasti ja spontaanisti ilman, että minun tarvitsee useinkaan selvästi hakea ilmauksia. Pystyn käyttämään kieltä joustavasti ja tehokkaasti sosiaalisiin ja ammatillisiin tarkoituksiin. Pystyn muotoilemaan ajatuksia ja mielipiteitä täsmällisesti ja suhteuttamaan oman panokseni taitavasti muiden puhujien puheenvuoroihin. </li> <li><a onclick=\"setLevel('spokenInteraction','c2')\" href=\"#\">C2</a>: Pystyn ottamaan vaivatta osaa asioiden käsittelyyn ja kaikkiin keskusteluihin. Tunnen hyvin kielelle tyypilliset, idiomaattiset ilmaukset ja puhekieliset ilmaukset. Pystyn tuomaan esille ajatuksiani sujuvasti ja välittämään täsmällisesti hienojakin merkitysvivahteita. Osaan perääntyä ja kiertää mahdolliset ongelmat niin sujuvasti, että muut tuskin havaitsevat olleenkaan ongelmia. </li> </ul> <ul />"
+
+#~ msgid "<b>Speaking</b> <blockquote>Spoken production </blockquote> <ul> <li><a onclick=\"setLevel('spokenProduction','a1')\" href=\"#\">A1</a>: I can use simple phrases and sentences to describe where I live and people I know. </li> <li><a onclick=\"setLevel('spokenProduction','a2')\" href=\"#\">A2</a>: I can use a series of phrases and sentences to describe, in simple terms, my family and other people, living conditions, my educational background and my present or most recent job. </li> <li><a onclick=\"setLevel('spokenProduction','b1')\" href=\"#\">B1</a>: I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. </li> <li><a onclick=\"setLevel('spokenProduction','b2')\" href=\"#\">B2</a>: I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. </li> <li><a onclick=\"setLevel('spokenProduction','c1')\" href=\"#\">C1</a>: I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. </li> <li><a onclick=\"setLevel('spokenProduction','c2')\" href=\"#\">C2</a>: I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. </li> </ul>"
+#~ msgstr "<b>Puhuminen</b> <blockquote>Puheen tuottaminen</blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a1')\">A1</a>: Osaan käyttää yksinkertaisia sanontoja ja lauseita kuvaamaan, missä asun ja keitä tunnen. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','a2')\">A2</a>: Pystyn kuvaamaan perhettäni ja muita ihmisiä, elinolojani, koulutustaustaani ja nykyistä tai edellistä työpaikkaani käyttäen, usein luettelomaisesti, aivan yksinkertaisia ilmauksia ja lauseita. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b1')\">B1</a>: Osaan liittää yhteen ilmauksia yksinkertaisella tavalla kuvatakseni kokemuksia ja tapahtumia, unelmiani, toiveitani ja pyrkimyksiäni. Pystyn perustelemaan ja selittämään lyhyesti mielipiteitäni ja suunnitelmiani. Pystyn kertomaan tarinan tai selittämään kirjan tai elokuvan juonen sekä kuvailemaan omia reaktioitani. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','b2')\">B2</a>: Pystyn esittämään selkeitä, yksityiskohtaisia kuvauksia hyvinkin erilaisista minua kiinnostavista aiheista. Pystyn selittämään näkökantani johonkin ajankohtaiseen kysymykseen ja esittämään eri vaihtoehtojen edut ja haitat. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c1')\">C1</a>: Pystyn esittämään selkeitä ja yksityiskohtaisia kuvauksia monipolvisista aiheista ja kehittelemään keskeisiä näkökohtia sekä päättämään esitykseni sopivaan lopetukseen. </li> <li><a href=\"#\" onclick=\"setLevel('spokenProduction','c2')\">C2</a>: Pystyn esittämään selkeän ja sujuvan kuvauksen tai perustelun asiayhteyteen sopivalla tyylillä. Esityksessäni on tehokas looginen rakenne, joka auttaa vastaanottajaa havaitsemaan ja muistamaan tärkeitä seikkoja. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Listening </blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: I can understand familiar words and very basic phrases concerning myself, my family and immediate surroundings when people speak slowly and clearly. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment). I can catch the main points in short, clear, simple messages and announcements. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main points of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard dialect. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: I have no difficulty in understanding any kind of spoken language, whether live or broadcast, even when delivered at fast native speed, provided I have some time to get familiar with the accent. </li> </ul>"
+#~ msgstr "<b>Ymmärtäminen</b> <blockquote>Kuullun ymmärtäminen</blockquote> <ul> <li><a onclick=\"setLevel('listening','a1')\" href=\"#\">A1</a>: Tunnistan tuttuja sanoja ja kaikkein tavallisimpia sanontoja, jotka koskevat minua itseäni, perhettäni ja lähiympäristöäni, kun minulle puhutaan hitaasti ja selvästi. </li> <li><a onclick=\"setLevel('listening','a2')\" href=\"#\">A2</a>: Ymmärrän muutamia sanontoja ja kaikkein tavallisinta sanastoa, joka liittyy läheisesti omaan elämääni; esimerkiksi aivan keskeinen tieto itsestäni ja perheestäni, ostosten tekeminen, asuinpaikka ja työpaikka. Ymmärrän lyhyiden, selkeiden, yksinkertaisten viestien ja kuulutusten ydinsisällön. </li> <li><a onclick=\"setLevel('listening','b1')\" href=\"#\">B1</a>: Ymmärrän pääkohdat selkeästä yleiskielisestä puheesta, jossa käsitellään esimerkiksi työssä, koulussa tai vapaa-aikana säännöllisesti esiintyviä ja minulle tuttuja aiheita. Tavoitan pääkohdat monista radio- ja tv-ohjelmista, joissa käsitellään ajankohtaisia tai minua henkilökohtaisesti tai ammatillisesti kiinnostavia asioita, kun puhe on melko hidasta ja selvää. </li> <li><a onclick=\"setLevel('listening','b2')\" href=\"#\">B2</a>: Ymmärrän pitkähköä puhetta ja luentoja. Pystyn jopa seuraamaan monipolvista perustelua, jos aihe on suhteellisen tuttu. Ymmärrän useimmat tv-uutiset ja ajankohtaisohjelmat. Ymmärrän useimmat yleispuhekielellä esitetyt elokuvat. </li> <li><a onclick=\"setLevel('listening','c1')\" href=\"#\">C1</a>: Ymmärrän pitkähköä puhetta silloinkin, kun sitä ei ole muotoiltu selkeästi ja kun asioiden välisiin suhteisiin vain viitataan eikä niitä ilmaista täsmällisesti. Ymmärrän tv-ohjelmia ja elokuvia ilman erityisiä ponnistuksia. </li> <li><a onclick=\"setLevel('listening','c2')\" href=\"#\">C2</a>: Ymmärrän vaikeuksitta kaikenlaista elävää ja nauhoitettua puhetta silloinkin, kun on kyse syntyperäisen kielenpuhujan nopeasta puheesta, jos minulla on hiukan aikaa tutustua puhetapaan. </li> </ul>"
+
+#~ msgid "<b>Understanding</b> <blockquote>Reading </blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: I can understand texts that consist mainly of high frequency everyday or job-related language. I can understand the description of events, feelings and wishes in personal letters. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints. I can understand contemporary literary prose. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works. </li> </ul>"
+#~ msgstr "<b>Ymmärtäminen</b> <blockquote>Luetun ymmärtäminen</blockquote> <ul> <li><a href=\"#\" onclick=\"setLevel('reading','a1')\">A1</a>: Ymmärrän tuttuja nimiä, sanoja ja hyvin yksinkertaisia lauseita esimerkiksi ilmoituksissa, julisteissa ja luetteloissa. </li> <li><a href=\"#\" onclick=\"setLevel('reading','a2')\">A2</a>: Pystyn lukemaan hyvin lyhyitä, yksinkertaisia tekstejä. Pystyn löytämään tarkasti määriteltyä, ennustettavissa olevaa tietoa yksinkertaisista arkipäivän materiaaleista, esim. ilmoituksista ja esittelylehtisistä, ruokalistoista ja aikatauluista. Pystyn ymmärtämään lyhyitä, yksinkertaisia henkilökohtaisia kirjeitä. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b1')\">B1</a>: Ymmärrän tekstejä, joissa on pääasiassa hyvin tavallista arkipäivän kieltä tai työhön liittyvää kieltä. Ymmärrän tapahtumien, tunteiden ja toiveiden kuvaukset henkilökohtaisissa kirjeissä. </li> <li><a href=\"#\" onclick=\"setLevel('reading','b2')\">B2</a>: Pystyn lukemaan ajankohtaisia ongelmia käsitteleviä artikkeleita ja raportteja ja havaitsemaan niissä kirjoittajien näkökulmat ja kannanotot. Ymmärrän oman aikani kaunokirjallisuutta. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c1')\">C1</a>: Ymmärrän pitkiä ja monipolvisia asia- ja kirjallisuustekstejä ja huomaan tyylieroja. Ymmärrän erityisalojen artikkeleita ja melko pitkiä teknisiä ohjeita silloinkin, kun ne eivät liity omaan alaani. </li> <li><a href=\"#\" onclick=\"setLevel('reading','c2')\">C2</a>: Pystyn lukemaan vaivatta käytännöllisesti katsoen kaikenlaista kirjoitettua kieltä, myös abstrakteja, rakenteellisesti tai kielellisesti monimutkaisia tekstejä, kuten ohjekirjoja, erityisalojen artikkeleita ja kaunokirjallisuutta. </li> </ul>"
+
+#~ msgid "<b>What are we talking about?</b><br />Computer skills and competences refer to word processing and other applications, database searching, acquaintance with Internet, advanced skills (programming etc.)."
+#~ msgstr "<b>Mitä tällä tarkoitetaan?</b> <br />Tietoteknisillä taidoilla tarkoitetaan tekstinkäsittelytaitoa, muiden sovellusten hallintaa, kykyä suorittaa hakuja tietokannoista, Internet-tuntemusta, edistyneempiä taitoja (ohjelmointi jne.)."
+
+#~ msgid "<b>What are we talking about?</b><br />Organisational skills and competences refer to coordination and administration of people, projects and budgets; at work, in voluntary work (for example culture and sports) and at home, etc."
+#~ msgstr "<b>Mitä tällä tarkoitetaan?</b> <br />Organisatorisilla taidoilla tarkoitetaan ihmisten, hankkeiden ja talousarvioiden koordinointia ja hallinnointia työssä, vapaaehtoistyössä (esim. kulttuuri- ja urheiluala) ja kotona jne."
+
+#~ msgid "<b>What are we talking about?</b><br />Social skills and competences refer to living and working with other people, in positions where communication is important and situations where teamwork is essential (for example culture and sports), in multicultural environments, etc."
+#~ msgstr "<b>Mitä tällä tarkoitetaan?</b> <br />Sosiaaliset taidot liittyvät muiden ihmisten kanssa elämiseen ja työskentelemiseen tilanteissa, joissa vuorovaikutus on tärkeää ja yhteistyökyky merkityksellistä (esimerkiksi kulttuuri- ja urheiluala), monikulttuurisissa ympäristöissä jne."
+
+#~ msgid "<b>What are we talking about?</b><br />Technical skills and competences refer to mastery of specific kinds of equipment, machinery, etc. other than computers, or to technical skills and competences in a specialised field (manufacturing industry, health, banking, etc.)."
+#~ msgstr "<b>Mitä tällä tarkoitetaan?</b> <br />Teknisillä tiedoilla ja taidoilla tarkoitetaan muuta kuin tietoteknistä tiettyjen laitteiden ja koneiden käytön hallintaa tai erityisalan teknisiä tietoja ja taitoja (teollinen tuotanto, terveydenhoito tai pankkitoiminta jne.)."
+
+#~ msgid "<b>Writing</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: I can write short, simple notes and messages. I can write a very simple personal letter, for example thanking someone for something. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: I can write simple connected text on topics which are familiar or of personal interest. I can write personal letters describing experiences and impressions. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: I can write clear, detailed text on a wide range of subjects related to my interests. I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view. I can write letters highlighting the personal significance of events and experiences. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: I can express myself in clear, well-structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select a style appropriate to the reader in mind. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: I can write clear, smoothly-flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. </li> </ul>"
+#~ msgstr "<b>Kirjoittaminen</b> <ul> <li><a href=\"#\" onclick=\"setLevel('writing','a1')\">A1</a>: Pystyn kirjoittamaan lyhyen, yksinkertaisen postikortin, esim. lähettämään lomaterveisiä. Pystyn täyttämään lomakkeita, joissa kysytään henkilökohtaista tietoa, esim. kirjoittamaan nimeni, kansallisuuteni ja osoitteeni hotellin kirjautumislomakkeeseen. </li> <li><a href=\"#\" onclick=\"setLevel('writing','a2')\">A2</a>: Pystyn kirjoittamaan lyhyitä, yksinkertaisia muistiinpanoja ja viestejä asioista, jotka liittyvät välittömään tarpeeseen. Pystyn kirjoittamaan hyvin yksinkertaisen henkilökohtaisen kirjeen, esim. kiittääkseni jotakuta jostakin. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b1')\">B1</a>: Pystyn kirjoittamaan yksinkertaista, yhtenäistä tekstiä aiheista, jotka ovat tuttuja tai henkilökohtaisesti kiinnostavia. Pystyn kirjoittamaan henkilökohtaisia kirjeitä ja kuvaamaan kokemuksia ja vaikutelmia. </li> <li><a href=\"#\" onclick=\"setLevel('writing','b2')\">B2</a>: Pystyn kirjoittamaan selkeää, yksinkertaista tekstiä hyvin erilaisista mielenkiintoni kohteisiin liittyvistä aiheista. Pystyn kirjoittamaan esseen tai raportin, jossa välitän tietoa tai esitän syitä jonkin tietyn näkökannan puolesta tai sitä vastaan. Pystyn kirjoittamaan kirjeitä, joissa korostan tapahtumien ja kokemusten henkilökohtaista merkitystä. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c1')\">C1</a>: Pystyn ilmaisemaan ajatuksiani ja näkökantojani varsin laajasti selkeässä, hyvin jäsennetyssä tekstissä. Pystyn kirjoittamaan yksityiskohtaisia selvityksiä monipolvisista aiheista kirjeessä, esseessä/kirjoitelmassa tai raportissa sekä korostamaan tärkeimpinä pitämiäni seikkoja. Osaan valita oletetulle lukijalle sopivan tyylin. </li> <li><a href=\"#\" onclick=\"setLevel('writing','c2')\">C2</a>: Osaan kirjoittaa selkeää, sujuvaa tekstiä asiaankuuluvalla tyylillä. Pystyn kirjoittamaan monimutkaisia kirjeitä, raportteja tai artikkeleita, jotka esittelevät jonkin yksittäisen tapauksen. Käytän tehokkaasti loogisia rakenteita, jotka auttavat vastaanottajaa löytämään ja muistamaan keskeiset seikat. Pystyn kirjoittamaan koosteita ja katsauksia ammattiin tai kaunokirjallisuuteen liittyvistä julkaisuista. </li> </ul>"
+
+#~ msgid "<br />"
+#~ msgstr "<br />"
+
+#~ msgid "<p /> <p> Describe your education and training, starting from the most recent, by filling in the fields below. Save every education or training by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Kerro yleissivistävästä ja ammatillisesta koulutuksestasi viimeisimmästä alkaen täyttämällä allaolevat kentät. Tallenna jokainen kenttä napsauttamalla \"Tallenna\". </p> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "<p /> <p> Describe your language skills as follows: </p> <ol> <li><b>Mother tongue(s):</b> enter your mother tongue(s). </li> <li><b>Other language(s):</b> for every language you want to describe, enter the language's name, fill in the level fields and click on \"Save\".<br /><br />To edit a language, click on the corresponding link in the table \"List of your languages\" </li> </ol> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Kerro kielitaidoistasi seuraavalla tavalla: </p> <ol> <li><strong>Äidinkieli tai -kielet:</strong> Kirjoita tähän äidinkielesi. </li> <li><b>Muut kielet:</b> Jokaisen kielen kohdalla, jonka haluat mainita, kerro kielen nimi, täytä taitotasokentät ja napsauta \"Tallenna\". <br /><br />Voit muokata syöttämiäsi kielitietoja napsauttamalla kyseisen kielen linkkiä taulukosta \"Kielilistasi\" </li> </ol> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "<p /> <p> Describe your personal skills and competences by filling in the fields below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Kerro henkilökohtaisista tiedoistasi ja taidoistasi täyttämällä allaolevat kentät. </p> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "<p /> <p> Describe your work experience, starting from the most recent, by filling in the fields below. Save every experience by clicking on \"Save\". </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Kerro työkokemuksestasi viimeisimmästä alkaen täyttämällä allaolevat kentät. Tallenna jokainen kenttä napsauttamalla \"Tallenna\". </p> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "<p /> <p> Enter any other relevant information and/or list documents annexed to your CV. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Ilmoita muut tiedot, jotka voivat olla hyödyksi ja/tai luettele ansioluetteloon liitettävät asiakirjat. </p> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "<p /> <p> Enter desired employment or occupational field. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Syötä kohtaan haettu työpaikka tai ammattiala. </p> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "<p /> <p> Enter your personal details below. </p> <p><b>Reminder:</b> Fields left empty will be automatically removed. </p>"
+#~ msgstr "<p /> <p> Syötä henkilötietosi tähän alle. </p> <p><b>Huom:</b> Tyhjäksi jääneet kentät poistetaan automaattisesti. </p>"
+
+#~ msgid "???en_GB./step5/reading???"
+#~ msgstr "???fi_FI./step5/reading???"
+
+#~ msgid "Additional information"
+#~ msgstr "Lisätietoa"
+
+#~ msgid "Additional information and annexes"
+#~ msgstr "Lisätietoja ja liitteet"
+
+#~ msgid "Basic User"
+#~ msgstr "Peruskielitaito"
+
+#~ msgid "Describe your computer skills and competences, e.g.: <blockquote> Good command of Microsoft Office™ tools (Word™, Excel™ and PowerPoint™); </blockquote> <blockquote> Basic knowledge of graphic design applications (Adobe Illustrator™, PhotoShop™). </blockquote>"
+#~ msgstr "Tietoteknisten taitojen kuvaus, esim. <blockquote> Microsoft Office™ -välineiden hyvä hallinta (Word™, Excel™ ja PowerPoint™); </blockquote> <blockquote> graafisten ohjelmien hyvä perustuntemus (Adobe Illustrator™, PhotoShop™). </blockquote>"
+
+#~ msgid "Describe your organisational skills and competences, e.g.: <blockquote>Leadership (currently responsible for a team of 10 people); </blockquote><blockquote>Sense of organisation (experience in logistics); </blockquote><blockquote>Good experience in project or team management. </blockquote>and say in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Kuvaus organisatorisista taidoista, esim. <blockquote> johtajuus (tällä hetkellä 10-henkisen tiimin vetäjä) </blockquote> <blockquote> järjestelytaidot (logistiikkakokemukset) </blockquote> <blockquote> kokemukset hankkeiden hallinnasta tai tiimin vetämisestä. </blockquote> Näistä taidoista ilmoitetaan, missä ne on hankittu (koulutus, työ, järjestötoiminta, vapaa-aika, jne.)."
+
+#~ msgid "Describe your social skills and competences, e.g.: <blockquote>Team spirit; </blockquote><blockquote>Good ability to adapt to multicultural environments, gained though my work experience abroad; </blockquote><blockquote>Good communication skills gained through my experience as sales manager. </blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Sosiaalisten taitojen kuvaus, esim. <blockquote> kyky työskennellä hyvässä yhteistyöhengessä </blockquote> <blockquote> ulkomailla hankitun työkokemuksen myötä kehittynyt kyky sopeutua monikulttuuriseen ympäristöön </blockquote> <blockquote> myyntityökokemusten myötä kehittyneet hyvät viestintätaidot. </blockquote> Ilmoitetaan myös, missä ne on hankittu (koulutus, työ, seminaarit, järjestötoiminta, vapaa-aika, jne.)."
+
+#~ msgid "Describe your technical skills and competences, e.g.: <blockquote>Good command of quality control processes (I was responsible for the implementation of quality audit in my dept).</blockquote>Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Teknisten tietojen ja taitojen kuvaus, esim. <blockquote> hyvä laadunvarmistusmenetelmien tuntemus (vastasin osastoni laadunvarmistuksesta) </blockquote> <blockquote> Näistä tiedoista ja taidoista ilmoitetaan, missä ne on hankittu (koulutus, työ, järjestötoiminta, vapaa-aika, jne.). </blockquote>"
+
+#~ msgid "Enter a language"
+#~ msgstr "Merkitse kieli"
+
+#~ msgid "Enter mother tongue(s)"
+#~ msgstr "Merkitse äidinkieli tai -kielet"
+
+#~ msgid "From"
+#~ msgstr "Alkoi"
+
+#~ msgid "Give your date of birth (dd/mm/yyyy), e.g.: <blockquote>02.04.1963 </blockquote>"
+#~ msgstr "Kohtaan kirjoitetaan syntymäaika, esim. <blockquote> 2.4.1963 </blockquote>"
+
+#~ msgid "If the level of the qualification corresponds to an existing national or international classification system, state the level within the classification concerned (national classification, ISCED, etc.), e.g.: <blockquote> ISCED 4 </blockquote>"
+#~ msgstr "Jos todistus/ammattinimike/tutkinto vastaa kansallista tai kansainvälistä luokitusta, määritellään kyseinen taso ja luokitus tarkasti (kansallinen luokitus, ISCED -luokitus jne.). <blockquote> </blockquote>"
+
+#~ msgid "Independent user"
+#~ msgstr "Itsenäisen kielenkäyttäjän kielitaito"
+
+#~ msgid "Language(s)"
+#~ msgstr "Kielitaito"
+
+#~ msgid "Mobile"
+#~ msgstr "Matkapuhelin"
+
+#~ msgid "Other language(s) - Self-assessment"
+#~ msgstr "Muut kielet - Itsearviointi"
+
+#~ msgid "Photograph"
+#~ msgstr "Valokuva"
+
+#~ msgid "Proficient user"
+#~ msgstr "Taitavan kielenkäyttäjän kielitaito"
+
+#~ msgid "Specify mother tongue(s), e.g.: <blockquote>English</blockquote>"
+#~ msgstr "Kirjoita tähän äidinkielesi, esim.<blockquote>englanti</blockquote>"
+
+#~ msgid "Specify your job target or occupational field, e.g.: <blockquote>Database manager and administrator </blockquote>"
+#~ msgstr "Kohtaan kirjoitetaan haettu työpaikka tai virka, esim. <blockquote> tietokannanhoitaja ja hallintovirkailija </blockquote>"
+
+#~ msgid "State here any other information which you think relevant (publications or research; membership of professional organisations, military information [if you judge it important to specify that you have completed military service], marital status [if you judge it important to specify], contact persons or referees [name, job title, contact address, see note below]), e.g.: <blockquote> <b>Publication</b><br /> Article: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002 </blockquote>"
+#~ msgstr "Tässä ilmoitetaan kaikista muista tiedoista, jotka voivat olla hyödyksi (julkaisut tai tutkimukset, ammattijärjestöjen jäsenyys, sotilastiedot (jos katsot tarpeelliseksi kertoa asepalvelun suorittamisesta), siviilisääty (jos katsot sen ilmoittamisen tarpeelliseksi), yhteyshenkilöt tai suosittelijat (nimi, asema ja yhteystiedot), esim. <blockquote> <b>Julkaisu</b> <br/> Artikkeli: Molecular characterisation of a H3o-loaded brain cell, Immunology Quarterly, New York, 02/2002. </blockquote>"
+
+#~ msgid "State here any other skill(s) and competence(s) which are an asset and are not mentioned under earlier headings (hobbies; sports, positions of responsibility in voluntary organisations), e.g.: <blockquote> Trekking </blockquote> Specify in what context they were acquired (through training, work, voluntary or leisure activities, etc.)."
+#~ msgstr "Tässä ilmoitetaan kaikista muista tiedoista ja taidoista, jotka ovat hakijalle eduksi ja joita ei ole mainittu aiemmin (harrastukset, urheilu, vastuutehtävät vapaaehtoisjärjestöissä), esim: <blockquote> vaellustaito </blockquote> Näistä tiedoista ja taidoista ilmoitetaan, missä ne on hankittu (koulutus, työ, järjestötoiminta, vapaa-aika, jne.)."
+
+#~ msgid "State here whether you hold a driving licence and, if so, for which category of vehicle, e.g.: <blockquote> Category B </blockquote>"
+#~ msgstr "Tässä ilmoitetaan mahdollisesta ajokortista ja ajokorttiluokasta, esim. <blockquote> Ajokorttiluokka B </blockquote>"
+
+#~ msgid "State here your artistic skills and competences which are an asset (music; writing; design, etc.) e.g.: <blockquote> Carpentry </blockquote> Specify in what context they were acquired (through training, work, seminars, voluntary or leisure activities, etc.)."
+#~ msgstr "Tässä ilmoitetaan taiteellisista taidoista, jotka ovat hakijalle eduksi, esim. <blockquote> puusepän taidot. </blockquote> Taiteellisista taidoista t ilmoitetaan, missä ne on hankittu (koulutus, työ, seminaarit, järjestötoiminta, vapaa-aika, jne.)."
+
+#~ msgid "State the name (and if appropriate, the address) and type of the institution attended, e.g.: <blockquote> South Wales Technical College<br /> Glamorgan Place<br /> Cardiff CF1 2AB<br /> </blockquote>"
+#~ msgstr "Oppilaitoksen nimi (tarvittaessa osoite) ja tyyppi, esim. <blockquote> Etelä-Suomen ammattioppilaitos <br/> Opiskelijanaukio 5 <br/> FIN-12345 Helsinki <br/> </blockquote>"
+
+#~ msgid "State the name and address of the employer, e.g.: <blockquote> Anderson and Dobbs Ltd., 12 Highland Road, Edinburgh EH3 4AB, United Kingdom </blockquote>"
+#~ msgstr "Kohdassa ilmoitetaan työnantajan nimi ja osoite, esim. <blockquote> Yritys Oyj, Työnantajantie 15, FIN-12345 Helsinki. </blockquote>"
+
+#~ msgid "State the nature of the employer’s business or sector, e.g.: <blockquote> Transport and logistics </blockquote> <b>or</b> <blockquote> Auditing </blockquote> <b>or</b> <blockquote> Manufacturer of motor vehicle parts </blockquote>"
+#~ msgstr "Työnantajan ansiotoiminnan tyyppi tai toimiala, esim. <blockquote> Kuljetus ja logistiikka </blockquote> <b>tai</b> <blockquote> tilintarkastustoiminta </blockquote> <b>tai</b> <blockquote> autojen varaosien valmistus </blockquote>"
+
+#~ msgid "State your complete postal address(es) where you wish to be contacted, e.g.: <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+#~ msgstr "Osoite ja täydellinen postinumero, esim. <blockquote> 12, High Street, Newtown AB12 3CD </blockquote>"
+
+#~ msgid "State your first name(s), e.g.: <blockquote> John Andrew </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Etunimi, esim: <blockquote> John Andrew </blockquote> maasi käytännön mukaan."
+
+#~ msgid "State your job title or the nature of your occupation, e.g.: <blockquote> HGV mechanic, Maintenance technician, Receptionist </blockquote>"
+#~ msgstr "Toimen tai tehtävän nimi, esim. <blockquote> autoasentaja, huoltoteknikko tai vastaanottovirkailija. </blockquote>"
+
+#~ msgid "State your surname(s), e.g.: <blockquote> SMITH </blockquote> in conformity with the rules that apply in your country."
+#~ msgstr "Sukunimi, esim: <blockquote>SMITH</blockquote>maasi käytännön mukaan."
+
+#~ msgid "Summarise the main subjects or occupational skills taught during the course in question, grouping them together if necessary for the sake of brevity, e.g.: <br /> <b>General</b> <blockquote> English language, Welsh language, mathematics, foreign language (Spanish) </blockquote> <blockquote> Physical education and sports </blockquote> <b>Occupational</b> <blockquote> occupational techniques (making of standard breads, fancy breads, cakes and pastries) </blockquote> <blockquote> science applied to food and equipment (microbiology, biochemistry, hygiene) </blockquote> <blockquote> occupational technology (basic principles, hygiene and safety) </blockquote> <blockquote>knowledge of business and its economic, legal and social context</blockquote>"
+#~ msgstr "Tiivistelmä opintoihin sisältyvistä tärkeimmistä oppiaineista tai ammattitaidoista. Tarvittaessa tiedot kootaan yhteen lisäämään ytimekkyyttä. <br/> <b>Perustaidot</b> <blockquote> Suomen kieli, matematiikka, ammattiaineisiin liittyvä laskenta, kielet (englanti) </blockquote> <blockquote> liikunta ja urheilu </blockquote> <b>Ammatillinen osaaminen</b> <blockquote> Työkokemus (tavallisten leipien, erityisleipien ja pullien valmistaminen) </blockquote> <blockquote> Ravitsemiseen ja välineisiin liittyvät soveltavat tieteet (mikrobiologia, biokemia, hygienia) </blockquote> <blockquote> Tekniset taidot (perusperiaatteet, hygienia ja turvallisuus) </blockquote> <blockquote> Toimialan ja sen ympäristön taloudellinen, oikeudellinen ja sosiaalinen tuntemus. </blockquote>"
+
+#~ msgid "To"
+#~ msgstr "Päättyi"
+
+#~ msgid "Write the dates to show how long you held the job in question, e.g.: <blockquote> From March 1994 to December 1999 </blockquote>"
+#~ msgstr "Kyseisen työkokemuksen kestoa vastaavat päivämäärät, esim. <blockquote> maaliskuu 1994–joulukuu 1999. </blockquote>"
+
+#~ msgid "Write the exact title of the qualification awarded, e.g.: <blockquote> National Vocational Qualification (NVQ) Level 2: Bakery Service </blockquote>"
+#~ msgstr "Suoritetusta tutkinnosta ilmoitetaan sen täsmällinen nimi, esim. <blockquote> Leipomoalan koulutusohjelma (AMKO), leipuri-kondiittorin tutkinto </blockquote>"
+
+#~ msgid "Write your e-mail address(es) in full, specifying if it is your personal or professional address, e.g.: <blockquote> bragov@whaoo.com </blockquote>"
+#~ msgstr "Kohtaan kirjoitetaan sähköpostiosoite ja tarkennetaan, onko se henkilökohtainen vai työpaikan osoite, esim. <blockquote> bragov@whaoo.com </blockquote>"
+
+#~ msgid "Write your fax number(s), using the same rules as for your telephone number(s) e.g.: <blockquote> 0845 120 30 46 </blockquote>"
+#~ msgstr "Tarvittaessa faksinumero esitetään puhelinnumeron kanssa samoja ohjeita noudattaen, esim. <blockquote> 0845 120 30 46 </blockquote>"
+
+#~ msgid "Write your mobile phone number, using the same rules as for your fixed-line telephone number(s) e.g.: <blockquote> 6945 120 30 46 </blockquote>"
+#~ msgstr "Merkitse matkapuhelinnumerosi soveltaen samoja sääntöjä kuin muihin puhelinnumeroihin, esim: <blockquote> 6945 120 30 46 </blockquote>"
+
+#~ msgid "Write your nationality (ies), e.g.: <blockquote> Irish </blockquote>"
+#~ msgstr "Kohtaan kirjoitetaan kansalaisuus, esim. <blockquote> Suomen </blockquote>"
